@@ -1,0 +1,6 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 is a single word; 01 contains spaces.
+# 01 must be published, or the student has no way to notice the difference
+# between next() and nextLine() before submitting.
+00
+01

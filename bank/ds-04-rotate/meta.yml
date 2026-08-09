@@ -1,0 +1,97 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-04-rotate
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch04
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "04"
+
+# page_id of the source section.
+# 4.6 Coding Test Problems, Problem 1 (Rotating a List)
+source_page_id: 375732
+
+# Title shown on HackerRank
+title: "Rotating a List"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the first draft got this wrong. It was written as a plain
+# stdin/stdout problem solved with an int[], which produced correct output
+# while using no list at all -- in the one chapter that is about lists. The
+# Head now supplies the complete Array_List (the same class the previous
+# problem asked students to build) and the student writes only `rotate`,
+# matching the signature the book uses in its own answer.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no array-based-list chapter.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+# The book states n <= 10^4 and k <= 10^4. At that size every approach passes,
+# including rotating one slot at a time, so the problem separated nobody. The
+# raised bounds are what make the book's own hint ("compute k % n first") the
+# thing the problem tests.
+bounds_changed_from_book:
+  book: "n <= 10^4, k <= 10^4"
+  here: "sum of n <= 2*10^5, k <= 10^9"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "467 ms (case 10, one list of 200,000 with k = 10^9 - 1)"
+  largest_input: "2.1 MB (case 12)"
+  total_test_data: "24 MB"
+  scored_variants:
+    - code: "reference implementation"
+      score: "14/14"
+    - code: "rotate one slot at a time with remove(n-1) and add(0, x)"
+      score: "6/14, timing out on 07 09 10 11 and crashing on 01 02 05 06"
+    - code: "rotate left instead of right"
+      score: "4/14"
+    - code: "unmodified stub (returns the list unchanged)"
+      score: "2/14, passing only the cases where k % n == 0"
+  notes: >
+    A trap found while generating the data and worth not repeating: 10^9 is an
+    exact multiple of 200,000. Case 10 was meant to pair the largest k with
+    the largest n, but k % n came out 0 and the case quietly became a
+    no-rotation test. It now uses k = 10^9 - 1, which reduces to 199,999.
+    Whenever a bound and a list length are both round numbers, check the
+    remainder before trusting the case.
+    Note also that for n = 2 a left rotation and a right rotation always
+    agree, so case 03 cannot catch the direction mistake on its own; it is
+    there for the k % n boundary instead.
+    Moving to the list version changed how the one-slot-at-a-time mistake
+    fails. Written as remove(n-1) followed by add(0, x), it does not merely
+    time out: on a single-element list, remove leaves the list empty and
+    add(0, x) then fails checkPosition, so those cases come back as runtime
+    errors rather than wrong answers. That is the book's own bounds rule
+    biting, and it is worth leaving in place.

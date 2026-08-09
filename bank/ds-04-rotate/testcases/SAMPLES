@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the two worked examples from the statement
+# 01 n = 1, k equal to n, k = n-1, k = 1, and k far larger than n
+# 02 every test case has k % n == 0, so the list comes back unchanged.
+#    02 must be published: a left-rotation solution passes it and almost
+#    nothing else, so seeing it pass in isolation is misleading unless the
+#    student can also see the samples it fails.
+00
+01
+02

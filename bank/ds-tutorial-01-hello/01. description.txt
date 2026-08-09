@@ -1,0 +1,1 @@
+Your first submission. Print one fixed line and get used to the submission flow and the Solution class rule of this grader.

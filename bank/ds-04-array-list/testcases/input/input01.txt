@@ -1,0 +1,21 @@
+20
+size
+print
+get 0
+removeAt 0
+addAt 0 5
+indexOf 7
+removeValue 7
+add 7
+print
+size
+get -1
+get 1
+removeAt 1
+addAt 1 9
+addAt -1 9
+get 0
+indexOf 7
+removeValue 7
+print
+size

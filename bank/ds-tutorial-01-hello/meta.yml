@@ -1,0 +1,81 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-tutorial-01-hello
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: tutorial
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+# The tutorial set has no chapter. Chapters 1 and 2 carry no coding-test page,
+# and the material on reading standard input lives in appendix C.5, so that
+# section is the source for all three tutorial problems.
+chapter: null
+
+# page_id of the source section.
+# C.5 Input and Output (Scanner, BufferedReader, and Fast I/O)
+source_page_id: 375896
+
+# Title shown on HackerRank
+title: "Tutorial 1: Hello, Java!"
+
+# tutorial | easy | medium | hard
+difficulty: tutorial
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 5
+
+# Keep only this language enabled on HackerRank.
+# NOTE: CLAUDE.md records the grader as supporting Java 15 at the latest, and
+# that limit is what forced ch11/ch13 of the Korean set away from `record`.
+# The Korean tutorial-01 meta still says java17 because it was written before
+# that limit was discovered. Confirm on the site before publishing; if the
+# Languages tab does offer 17, this line and 04. constraints.md both change.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No. The platform default template is used as-is, and 07. code-stub.java is
+# only a copy of it kept for reference.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing. The full URL is:
+#   https://www.hackerrank.com/contests/<contest_slug>/challenges/<hackerrank_slug>
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# The two repos no longer share problem IDs: the chapter numbers of the two
+# books do not line up, so each repo follows its own book and the pair is
+# tracked here instead.
+ko_counterpart: dsa-tutorial-01-hello
+
+# Ordering note. These three tutorials must be solved in order, which is why
+# they are the one exception to the "no sequence number in the ID" rule.
+pair_with:
+  - ds-tutorial-02-echo
+  - ds-tutorial-03-sum
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases_passed: 1
+  empty_stub_score: "0/1"  # the default template prints nothing
+  date: "2026-08-09"
+  notes: >
+    The non-ASCII comment failure described in the statement could not be
+    reproduced locally: JDK 18 and later default to UTF-8 (JEP 400), so the
+    unmappable-character error does not appear on JDK 21 even with
+    -encoding US-ASCII. The statement is worded so that it stays accurate
+    either way. Verify the actual behaviour by submitting a non-ASCII comment
+    on HackerRank once the problem is live.

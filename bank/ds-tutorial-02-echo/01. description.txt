@@ -1,0 +1,1 @@
+Read one line from standard input and print it back unchanged. The second tutorial, on reading input.

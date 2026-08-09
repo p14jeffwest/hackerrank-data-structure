@@ -1,0 +1,17 @@
+16
+add 5
+add 3
+add 5
+add 3
+add 5
+print
+indexOf 5
+indexOf 3
+removeValue 5
+print
+indexOf 5
+removeValue 3
+print
+removeValue 9
+size
+print

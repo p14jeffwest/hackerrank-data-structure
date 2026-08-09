@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example / 01 smallest N with a negative value
+# 02 a small case that already overflows int.
+# 02 must be published, or the student has no way to meet the type problem
+# before submitting.
+00
+01
+02

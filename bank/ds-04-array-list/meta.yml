@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-04-array-list
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch04
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "04"
+
+# page_id of the source section.
+# 4.2 An Array-Based Implementation
+source_page_id: 375728
+
+# Other sections the problem leans on.
+also_cites:
+  - 375727   # 4.1 The ADT List (ListInterface, 0-based positions)
+  - 375729   # 4.3 Efficiency Analysis (why the shift costs O(n))
+
+# Title shown on HackerRank
+title: "Building an Array-Based List"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes. The student implements methods of a class, not a whole program, so the
+# interface, the surrounding class and the command driver are all supplied.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no array-based-list chapter; arrays are covered in
+# its Part 0 and it goes straight to linked lists. The nearest Korean problem
+# by shape is dsa-07-linked-list, which uses the same Head/Body/Tail pattern
+# on a linked list, and which pairs with ds-05 rather than with this one.
+ko_counterpart: null
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "303 ms (case 12, Q = 20,000, front-heavy insertion)"
+  largest_input: "336 KB (case 12)"
+  scored_variants:
+    - code: "reference implementation"
+      score: "14/14"
+    - code: "add(int,T) shifts front-to-back instead of back-to-front"
+      score: "6/14"
+    - code: "indexOf compares with == instead of .equals()"
+      score: "9/14"
+    - code: "checkPosition omitted from both position methods"
+      score: "11/14"
+    - code: "remove(int) forgets numberOfEntries--"
+      score: "3/14"
+    - code: "unmodified stub (all three methods left as TODO)"
+      score: "0/14"
+  notes: >
+    Section 4.2 of the book is not hidden, and item 10 of it prints the whole
+    Array_List source. A student who copies it earns full marks, which is why
+    this is a 10-point warm-up rather than a discriminator. The two traps that
+    do bite are for students writing it themselves: the shift direction, and
+    == versus .equals() on boxed Integers.
+    Note also what no test can catch: dropping
+    `list[numberOfEntries - 1] = null` from remove() changes no output at all,
+    since toString only reads as far as numberOfEntries. It is a
+    garbage-collection concern rather than a correctness one, and it can only
+    be assessed by reading the code or by asking about it on an exam.

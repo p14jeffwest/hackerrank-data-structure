@@ -1,0 +1,79 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-tutorial-02-echo
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: tutorial
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+# The tutorial set has no chapter. Chapters 1 and 2 carry no coding-test page,
+# and the material on reading standard input lives in appendix C.5.
+chapter: null
+
+# page_id of the source section.
+# C.5 Input and Output (Scanner, BufferedReader, and Fast I/O)
+source_page_id: 375896
+
+# Title shown on HackerRank
+title: "Tutorial 2: Echo a Line"
+
+# tutorial | easy | medium | hard
+difficulty: tutorial
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 5
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing. The full URL is:
+#   https://www.hackerrank.com/contests/<contest_slug>/challenges/<hackerrank_slug>
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# The two repos no longer share problem IDs: the chapter numbers of the two
+# books do not line up, so each repo follows its own book.
+ko_counterpart: dsa-tutorial-02-echo
+
+# Ordering note. The three tutorials must be solved in order, which is why
+# they are the one exception to the "no sequence number in the ID" rule.
+pair_with:
+  - ds-tutorial-01-hello
+  - ds-tutorial-03-sum
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases_passed: 13
+  date: "2026-08-09"
+  scored_variants:
+    - code: "BufferedReader.readLine()  (the registered solution)"
+      score: "13/13"
+    - code: "Scanner.nextLine()"
+      score: "13/13"
+    - code: "Scanner.next()   (the intended mistake)"
+      score: "4/13"
+  notes: >
+    The four cases a next() solution passes are 00, 02, 04 and 10, the ones
+    with no space in them. That partial score is the design: a zero would
+    teach nothing, while 4/13 forces the student to ask which inputs broke.
+    Case 01 is published as a sample so the gap is visible before submitting.
+    All test files use LF line endings; the Korean repo's copies of this
+    problem use CRLF, which readLine() happens to tolerate but which is worth
+    not relying on.

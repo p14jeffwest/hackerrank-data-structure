@@ -1,0 +1,1 @@
+Read N integers and print their sum. The third tutorial, on reading many values and choosing a type that fits the answer.

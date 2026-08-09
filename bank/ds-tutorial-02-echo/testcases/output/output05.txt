@@ -1,0 +1,1 @@
+Java 17 is the version this course uses.
