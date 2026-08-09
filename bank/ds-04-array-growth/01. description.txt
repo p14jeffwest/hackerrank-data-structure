@@ -1,0 +1,1 @@
+Report what a sequence of operations costs an array-based list: elements moved, elements copied, and final capacity.

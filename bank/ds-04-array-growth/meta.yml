@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-04-array-growth
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch04
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "04"
+
+# page_id of the source sections.
+# 4.3 Efficiency Analysis (the cost of each operation, amortized O(1) add)
+source_page_id: 375729
+
+also_cites:
+  - 375728   # 4.2 An Array-Based Implementation (ensureCapacity, the shift loops)
+
+# Title shown on HackerRank
+title: "What the List Costs"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No, and unlike ds-04-rotate that is deliberate rather than an oversight.
+# The whole point is that none of the requested quantities depends on the
+# stored values: they follow from the size and the capacity alone. A solution
+# that builds an actual Array_List and moves elements is the WRONG answer
+# here, and it times out. Handing the student a list would work against the
+# idea the problem is testing.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no array-based-list chapter.
+ko_counterpart: null
+
+# This problem is not in the book. It was written to give 4.3's amortized
+# analysis something to bite on: the chapter argues that doubling makes add
+# cost O(1) on average, and this asks the student to produce the actual
+# numbers that argument is about.
+origin: "written for this contest; not one of the book's coding test problems"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "300 ms (case 13)"
+  largest_input: "2.0 MB (case 08)"
+  scored_variants:
+    - code: "reference implementation (sizes only, long accumulator)"
+      score: "14/14"
+    - code: "move counter kept in int"
+      score: "10/14, wrong on 08 10 11 13"
+    - code: "actually builds the list and moves elements one at a time"
+      score: "11/14 at a 4-second limit, timing out on 08 10 13"
+    - code: "grows after the operation instead of before"
+      score: "6/14"
+  notes: >
+    The timing figures for the list-building variant are the shakiest thing in
+    this problem and deserve a second look on the live grader. Measured here:
+    19.4 s on case 08, 6.8 s on 13, 4.5 s on 10, 3.3 s on 11, against roughly
+    0.3 s for the reference on all of them. At a 4-second limit that is 11/14;
+    at a 12-second limit it would be 13/14 and the problem would barely
+    separate anything. Case 08 is the only one with a comfortable margin, at
+    roughly seventy times the reference.
+    Case 07 is capped at a quarter of the maximum total on purpose, so that
+    the int-overflow mistake stays partial rather than total.

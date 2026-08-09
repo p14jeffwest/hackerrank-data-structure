@@ -1,0 +1,27 @@
+3
+4 6
+add
+addAt 0
+addAt 0
+addAt 0
+addAt 0
+addAt 0
+4 10
+add
+add
+add
+add
+add
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+4 7
+add
+add
+add
+add
+add
+removeAt 4
+removeAt 3

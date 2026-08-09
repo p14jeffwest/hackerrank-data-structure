@@ -1,0 +1,8 @@
+1
+2 6
+add
+add
+add
+addAt 0
+removeAt 1
+add

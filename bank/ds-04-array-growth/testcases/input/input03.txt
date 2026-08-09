@@ -1,0 +1,18 @@
+1
+8 16
+add
+add
+add
+add
+add
+add
+add
+add
+removeAt 7
+removeAt 6
+removeAt 5
+removeAt 4
+removeAt 3
+removeAt 2
+removeAt 1
+removeAt 0

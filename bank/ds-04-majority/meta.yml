@@ -1,0 +1,98 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-04-majority
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch04
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "04"
+
+# page_id of the source section.
+# 4.6 Coding Test Problems, Problem 2 (Finding the Majority Element in a List)
+source_page_id: 375732
+
+# Title shown on HackerRank
+title: "The Majority Element"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, matching ds-04-rotate: the Head supplies the complete Array_List and
+# the student writes only the method, using the signature the book uses in its
+# own answer.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no array-based-list chapter.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^4"
+  here: "sum of n <= 2*10^5"
+  why: >
+    At n = 10^4 an O(n^2) count-each-element solution finishes comfortably, so
+    the problem tested nothing.
+
+# The book's statement of this problem names the Boyer-Moore voting algorithm
+# in its hint. That hint is not repeated here: 4.6 is a hidden page, so
+# students do not see it, and a statement that names the algorithm does the
+# thinking for them.
+hint_withheld_from_statement: "Boyer-Moore voting (book 4.6, Problem 2 hint)"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "363 ms (case 07, T = 500, sum of n = 200,000)"
+  largest_input: "2.1 MB (case 13)"
+  scored_variants:
+    - code: "Boyer-Moore voting (the registered solution)"
+      score: "14/14"
+    - code: "count every element against every other, O(n^2)"
+      score: "10/14, timing out on 08 10 12 13"
+    - code: "voting loop that never replaces its candidate"
+      score: "6/14"
+    - code: "return the element at the middle index, without sorting"
+      score: "6/14"
+    - code: "insertion-sort the list in place, take the middle"
+      score: "0/14, reported as `modified` on the small cases"
+    - code: "voting loop comparing boxed Integers with =="
+      score: "11/14"
+    - code: "unmodified stub (returns 0)"
+      score: "0/14"
+  notes: >
+    What is enforced and what is not. Boyer-Moore cannot be forced: sorting a
+    copy, or counting into a HashMap, both run in time and pass. What the
+    problem does enforce is that O(n^2) fails and that the input list is left
+    alone, which rules out the cheapest shortcut (sort in place, take the
+    middle) and makes the O(1)-space solution the natural target rather than
+    an arbitrary rule.
+    The boxed-== mistake is only partly caught here, at 11/14. It is caught
+    hard in ds-04-array-list, which is where that trap belongs; the cases here
+    that do catch it are 02, 07 and 13.

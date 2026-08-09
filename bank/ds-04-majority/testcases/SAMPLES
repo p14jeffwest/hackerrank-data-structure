@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the two worked examples from the statement
+# 01 the smallest shapes: n = 1, one repeated value, a majority holding
+#    exactly n/2 + 1 slots
+# 02 values on both sides of the Integer cache boundary, with the majority
+#    element sitting neither first nor in the middle. 02 must be published:
+#    it is the only sample that fails for a solution comparing boxed values
+#    with ==, or one that guesses by position.
+00
+01
+02

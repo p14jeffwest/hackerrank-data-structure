@@ -1,0 +1,84 @@
+1
+2 82
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+add
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+add
+add
+add

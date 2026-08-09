@@ -1,0 +1,7 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example from the statement
+# 01 nothing but appends, so only the growth columns move
+# 02 insertion at the front and removal from the front, the costliest shifts
+00
+01
+02
