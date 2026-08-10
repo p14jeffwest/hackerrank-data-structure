@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-07-sliding-window-max
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch07
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "07"
+
+# page_id of the source section.
+# 7.5 Exercises, Level 3 Problem 6 (Sliding Window Maximum, walkthrough)
+source_page_id: 375828
+
+also_cites:
+  - 375827   # 7.4 Deque (offerFirst / offerLast / pollFirst / pollLast)
+
+# Title shown on HackerRank
+title: "Sliding Window Maximum"
+
+# tutorial | easy | medium | hard
+difficulty: hard
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 50
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No. This is a deque application, and 7.4 is written entirely against
+# ArrayDeque. There is no library call that shortcuts the problem.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. This is the chapter 7 material the two courses do not share: the
+# Korean book has no deque section and no equivalent exercise. It is also the
+# only problem in this chapter that exercises 7.4 at all.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "one worked example of eight elements"
+  here: "sum of n <= 5*10^5, k up to n"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "595 ms (case 07, T = 500, sum of n = 500,000)"
+  largest_output: "5.2 MB (case 08, k = 1)"
+  scored_variants:
+    - code: "monotonic deque of indices (the registered solution)"
+      score: "14/14"
+    - code: "recompute the maximum of each window, O(nk)"
+      score: "10/14, timing out on 10 11 12 13"
+    - code: "deque holds values instead of indices"
+      score: "5/14"
+    - code: "expiry tested with <= instead of <"
+      score: "4/14"
+    - code: "output starts at i >= k instead of i >= k - 1"
+      score: "0/14"
+  notes: >
+    A brute-force scan costs (n - k + 1) windows of k elements, not n * k.
+    The first version of gen.py reported n * k and, on that figure, case 09
+    (k = n) looked like the most expensive case in the set at 2.5 * 10^11. It
+    is in fact one of the cheapest: at k = n there is exactly one window. The
+    brute-force variant scored 13/14 until cases 11, 12 and 13 were moved to
+    window sizes near n/3 and n/2, where the product is genuinely large.
+    Note what is NOT a mistake: dropping from the rear on `<` rather than
+    `<=` leaves equal values in the deque and still reports the right maximum.
+    The deque grows slightly and nothing else changes, so no test separates
+    the two and none tries to.

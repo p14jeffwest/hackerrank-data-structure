@@ -1,0 +1,1 @@
+Count how many times each queried word appears in a list of words.

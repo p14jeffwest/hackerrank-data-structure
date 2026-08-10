@@ -1,0 +1,1011 @@
+10 1010
+enqueue 1
+enqueue 2
+enqueue 3
+enqueue 4
+enqueue 5
+enqueue 6
+enqueue 7
+enqueue 8
+enqueue 9
+enqueue 10
+enqueue 1000
+full
+dequeue
+enqueue 2000
+full
+enqueue 1001
+full
+dequeue
+enqueue 2001
+full
+enqueue 1002
+full
+dequeue
+enqueue 2002
+full
+enqueue 1003
+full
+dequeue
+enqueue 2003
+full
+enqueue 1004
+full
+dequeue
+enqueue 2004
+full
+enqueue 1005
+full
+dequeue
+enqueue 2005
+full
+enqueue 1006
+full
+dequeue
+enqueue 2006
+full
+enqueue 1007
+full
+dequeue
+enqueue 2007
+full
+enqueue 1008
+full
+dequeue
+enqueue 2008
+full
+enqueue 1009
+full
+dequeue
+enqueue 2009
+full
+enqueue 1010
+full
+dequeue
+enqueue 2010
+full
+enqueue 1011
+full
+dequeue
+enqueue 2011
+full
+enqueue 1012
+full
+dequeue
+enqueue 2012
+full
+enqueue 1013
+full
+dequeue
+enqueue 2013
+full
+enqueue 1014
+full
+dequeue
+enqueue 2014
+full
+enqueue 1015
+full
+dequeue
+enqueue 2015
+full
+enqueue 1016
+full
+dequeue
+enqueue 2016
+full
+enqueue 1017
+full
+dequeue
+enqueue 2017
+full
+enqueue 1018
+full
+dequeue
+enqueue 2018
+full
+enqueue 1019
+full
+dequeue
+enqueue 2019
+full
+enqueue 1020
+full
+dequeue
+enqueue 2020
+full
+enqueue 1021
+full
+dequeue
+enqueue 2021
+full
+enqueue 1022
+full
+dequeue
+enqueue 2022
+full
+enqueue 1023
+full
+dequeue
+enqueue 2023
+full
+enqueue 1024
+full
+dequeue
+enqueue 2024
+full
+enqueue 1025
+full
+dequeue
+enqueue 2025
+full
+enqueue 1026
+full
+dequeue
+enqueue 2026
+full
+enqueue 1027
+full
+dequeue
+enqueue 2027
+full
+enqueue 1028
+full
+dequeue
+enqueue 2028
+full
+enqueue 1029
+full
+dequeue
+enqueue 2029
+full
+enqueue 1030
+full
+dequeue
+enqueue 2030
+full
+enqueue 1031
+full
+dequeue
+enqueue 2031
+full
+enqueue 1032
+full
+dequeue
+enqueue 2032
+full
+enqueue 1033
+full
+dequeue
+enqueue 2033
+full
+enqueue 1034
+full
+dequeue
+enqueue 2034
+full
+enqueue 1035
+full
+dequeue
+enqueue 2035
+full
+enqueue 1036
+full
+dequeue
+enqueue 2036
+full
+enqueue 1037
+full
+dequeue
+enqueue 2037
+full
+enqueue 1038
+full
+dequeue
+enqueue 2038
+full
+enqueue 1039
+full
+dequeue
+enqueue 2039
+full
+enqueue 1040
+full
+dequeue
+enqueue 2040
+full
+enqueue 1041
+full
+dequeue
+enqueue 2041
+full
+enqueue 1042
+full
+dequeue
+enqueue 2042
+full
+enqueue 1043
+full
+dequeue
+enqueue 2043
+full
+enqueue 1044
+full
+dequeue
+enqueue 2044
+full
+enqueue 1045
+full
+dequeue
+enqueue 2045
+full
+enqueue 1046
+full
+dequeue
+enqueue 2046
+full
+enqueue 1047
+full
+dequeue
+enqueue 2047
+full
+enqueue 1048
+full
+dequeue
+enqueue 2048
+full
+enqueue 1049
+full
+dequeue
+enqueue 2049
+full
+enqueue 1050
+full
+dequeue
+enqueue 2050
+full
+enqueue 1051
+full
+dequeue
+enqueue 2051
+full
+enqueue 1052
+full
+dequeue
+enqueue 2052
+full
+enqueue 1053
+full
+dequeue
+enqueue 2053
+full
+enqueue 1054
+full
+dequeue
+enqueue 2054
+full
+enqueue 1055
+full
+dequeue
+enqueue 2055
+full
+enqueue 1056
+full
+dequeue
+enqueue 2056
+full
+enqueue 1057
+full
+dequeue
+enqueue 2057
+full
+enqueue 1058
+full
+dequeue
+enqueue 2058
+full
+enqueue 1059
+full
+dequeue
+enqueue 2059
+full
+enqueue 1060
+full
+dequeue
+enqueue 2060
+full
+enqueue 1061
+full
+dequeue
+enqueue 2061
+full
+enqueue 1062
+full
+dequeue
+enqueue 2062
+full
+enqueue 1063
+full
+dequeue
+enqueue 2063
+full
+enqueue 1064
+full
+dequeue
+enqueue 2064
+full
+enqueue 1065
+full
+dequeue
+enqueue 2065
+full
+enqueue 1066
+full
+dequeue
+enqueue 2066
+full
+enqueue 1067
+full
+dequeue
+enqueue 2067
+full
+enqueue 1068
+full
+dequeue
+enqueue 2068
+full
+enqueue 1069
+full
+dequeue
+enqueue 2069
+full
+enqueue 1070
+full
+dequeue
+enqueue 2070
+full
+enqueue 1071
+full
+dequeue
+enqueue 2071
+full
+enqueue 1072
+full
+dequeue
+enqueue 2072
+full
+enqueue 1073
+full
+dequeue
+enqueue 2073
+full
+enqueue 1074
+full
+dequeue
+enqueue 2074
+full
+enqueue 1075
+full
+dequeue
+enqueue 2075
+full
+enqueue 1076
+full
+dequeue
+enqueue 2076
+full
+enqueue 1077
+full
+dequeue
+enqueue 2077
+full
+enqueue 1078
+full
+dequeue
+enqueue 2078
+full
+enqueue 1079
+full
+dequeue
+enqueue 2079
+full
+enqueue 1080
+full
+dequeue
+enqueue 2080
+full
+enqueue 1081
+full
+dequeue
+enqueue 2081
+full
+enqueue 1082
+full
+dequeue
+enqueue 2082
+full
+enqueue 1083
+full
+dequeue
+enqueue 2083
+full
+enqueue 1084
+full
+dequeue
+enqueue 2084
+full
+enqueue 1085
+full
+dequeue
+enqueue 2085
+full
+enqueue 1086
+full
+dequeue
+enqueue 2086
+full
+enqueue 1087
+full
+dequeue
+enqueue 2087
+full
+enqueue 1088
+full
+dequeue
+enqueue 2088
+full
+enqueue 1089
+full
+dequeue
+enqueue 2089
+full
+enqueue 1090
+full
+dequeue
+enqueue 2090
+full
+enqueue 1091
+full
+dequeue
+enqueue 2091
+full
+enqueue 1092
+full
+dequeue
+enqueue 2092
+full
+enqueue 1093
+full
+dequeue
+enqueue 2093
+full
+enqueue 1094
+full
+dequeue
+enqueue 2094
+full
+enqueue 1095
+full
+dequeue
+enqueue 2095
+full
+enqueue 1096
+full
+dequeue
+enqueue 2096
+full
+enqueue 1097
+full
+dequeue
+enqueue 2097
+full
+enqueue 1098
+full
+dequeue
+enqueue 2098
+full
+enqueue 1099
+full
+dequeue
+enqueue 2099
+full
+enqueue 1100
+full
+dequeue
+enqueue 2100
+full
+enqueue 1101
+full
+dequeue
+enqueue 2101
+full
+enqueue 1102
+full
+dequeue
+enqueue 2102
+full
+enqueue 1103
+full
+dequeue
+enqueue 2103
+full
+enqueue 1104
+full
+dequeue
+enqueue 2104
+full
+enqueue 1105
+full
+dequeue
+enqueue 2105
+full
+enqueue 1106
+full
+dequeue
+enqueue 2106
+full
+enqueue 1107
+full
+dequeue
+enqueue 2107
+full
+enqueue 1108
+full
+dequeue
+enqueue 2108
+full
+enqueue 1109
+full
+dequeue
+enqueue 2109
+full
+enqueue 1110
+full
+dequeue
+enqueue 2110
+full
+enqueue 1111
+full
+dequeue
+enqueue 2111
+full
+enqueue 1112
+full
+dequeue
+enqueue 2112
+full
+enqueue 1113
+full
+dequeue
+enqueue 2113
+full
+enqueue 1114
+full
+dequeue
+enqueue 2114
+full
+enqueue 1115
+full
+dequeue
+enqueue 2115
+full
+enqueue 1116
+full
+dequeue
+enqueue 2116
+full
+enqueue 1117
+full
+dequeue
+enqueue 2117
+full
+enqueue 1118
+full
+dequeue
+enqueue 2118
+full
+enqueue 1119
+full
+dequeue
+enqueue 2119
+full
+enqueue 1120
+full
+dequeue
+enqueue 2120
+full
+enqueue 1121
+full
+dequeue
+enqueue 2121
+full
+enqueue 1122
+full
+dequeue
+enqueue 2122
+full
+enqueue 1123
+full
+dequeue
+enqueue 2123
+full
+enqueue 1124
+full
+dequeue
+enqueue 2124
+full
+enqueue 1125
+full
+dequeue
+enqueue 2125
+full
+enqueue 1126
+full
+dequeue
+enqueue 2126
+full
+enqueue 1127
+full
+dequeue
+enqueue 2127
+full
+enqueue 1128
+full
+dequeue
+enqueue 2128
+full
+enqueue 1129
+full
+dequeue
+enqueue 2129
+full
+enqueue 1130
+full
+dequeue
+enqueue 2130
+full
+enqueue 1131
+full
+dequeue
+enqueue 2131
+full
+enqueue 1132
+full
+dequeue
+enqueue 2132
+full
+enqueue 1133
+full
+dequeue
+enqueue 2133
+full
+enqueue 1134
+full
+dequeue
+enqueue 2134
+full
+enqueue 1135
+full
+dequeue
+enqueue 2135
+full
+enqueue 1136
+full
+dequeue
+enqueue 2136
+full
+enqueue 1137
+full
+dequeue
+enqueue 2137
+full
+enqueue 1138
+full
+dequeue
+enqueue 2138
+full
+enqueue 1139
+full
+dequeue
+enqueue 2139
+full
+enqueue 1140
+full
+dequeue
+enqueue 2140
+full
+enqueue 1141
+full
+dequeue
+enqueue 2141
+full
+enqueue 1142
+full
+dequeue
+enqueue 2142
+full
+enqueue 1143
+full
+dequeue
+enqueue 2143
+full
+enqueue 1144
+full
+dequeue
+enqueue 2144
+full
+enqueue 1145
+full
+dequeue
+enqueue 2145
+full
+enqueue 1146
+full
+dequeue
+enqueue 2146
+full
+enqueue 1147
+full
+dequeue
+enqueue 2147
+full
+enqueue 1148
+full
+dequeue
+enqueue 2148
+full
+enqueue 1149
+full
+dequeue
+enqueue 2149
+full
+enqueue 1150
+full
+dequeue
+enqueue 2150
+full
+enqueue 1151
+full
+dequeue
+enqueue 2151
+full
+enqueue 1152
+full
+dequeue
+enqueue 2152
+full
+enqueue 1153
+full
+dequeue
+enqueue 2153
+full
+enqueue 1154
+full
+dequeue
+enqueue 2154
+full
+enqueue 1155
+full
+dequeue
+enqueue 2155
+full
+enqueue 1156
+full
+dequeue
+enqueue 2156
+full
+enqueue 1157
+full
+dequeue
+enqueue 2157
+full
+enqueue 1158
+full
+dequeue
+enqueue 2158
+full
+enqueue 1159
+full
+dequeue
+enqueue 2159
+full
+enqueue 1160
+full
+dequeue
+enqueue 2160
+full
+enqueue 1161
+full
+dequeue
+enqueue 2161
+full
+enqueue 1162
+full
+dequeue
+enqueue 2162
+full
+enqueue 1163
+full
+dequeue
+enqueue 2163
+full
+enqueue 1164
+full
+dequeue
+enqueue 2164
+full
+enqueue 1165
+full
+dequeue
+enqueue 2165
+full
+enqueue 1166
+full
+dequeue
+enqueue 2166
+full
+enqueue 1167
+full
+dequeue
+enqueue 2167
+full
+enqueue 1168
+full
+dequeue
+enqueue 2168
+full
+enqueue 1169
+full
+dequeue
+enqueue 2169
+full
+enqueue 1170
+full
+dequeue
+enqueue 2170
+full
+enqueue 1171
+full
+dequeue
+enqueue 2171
+full
+enqueue 1172
+full
+dequeue
+enqueue 2172
+full
+enqueue 1173
+full
+dequeue
+enqueue 2173
+full
+enqueue 1174
+full
+dequeue
+enqueue 2174
+full
+enqueue 1175
+full
+dequeue
+enqueue 2175
+full
+enqueue 1176
+full
+dequeue
+enqueue 2176
+full
+enqueue 1177
+full
+dequeue
+enqueue 2177
+full
+enqueue 1178
+full
+dequeue
+enqueue 2178
+full
+enqueue 1179
+full
+dequeue
+enqueue 2179
+full
+enqueue 1180
+full
+dequeue
+enqueue 2180
+full
+enqueue 1181
+full
+dequeue
+enqueue 2181
+full
+enqueue 1182
+full
+dequeue
+enqueue 2182
+full
+enqueue 1183
+full
+dequeue
+enqueue 2183
+full
+enqueue 1184
+full
+dequeue
+enqueue 2184
+full
+enqueue 1185
+full
+dequeue
+enqueue 2185
+full
+enqueue 1186
+full
+dequeue
+enqueue 2186
+full
+enqueue 1187
+full
+dequeue
+enqueue 2187
+full
+enqueue 1188
+full
+dequeue
+enqueue 2188
+full
+enqueue 1189
+full
+dequeue
+enqueue 2189
+full
+enqueue 1190
+full
+dequeue
+enqueue 2190
+full
+enqueue 1191
+full
+dequeue
+enqueue 2191
+full
+enqueue 1192
+full
+dequeue
+enqueue 2192
+full
+enqueue 1193
+full
+dequeue
+enqueue 2193
+full
+enqueue 1194
+full
+dequeue
+enqueue 2194
+full
+enqueue 1195
+full
+dequeue
+enqueue 2195
+full
+enqueue 1196
+full
+dequeue
+enqueue 2196
+full
+enqueue 1197
+full
+dequeue
+enqueue 2197
+full
+enqueue 1198
+full
+dequeue
+enqueue 2198
+full
+enqueue 1199
+full
+dequeue
+enqueue 2199
+full

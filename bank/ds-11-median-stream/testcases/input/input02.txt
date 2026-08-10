@@ -1,0 +1,21 @@
+20
+add 1
+median
+add 2
+median
+add 3
+median
+add 4
+median
+add 5
+median
+add 6
+median
+add 7
+median
+add 8
+median
+add 9
+median
+add 10
+median

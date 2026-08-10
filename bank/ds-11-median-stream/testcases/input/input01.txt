@@ -1,0 +1,14 @@
+13
+median
+size
+add 5
+median
+add 5
+median
+add 1
+median
+add 9
+median
+add 7
+median
+size

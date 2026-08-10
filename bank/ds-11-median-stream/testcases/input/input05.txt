@@ -1,0 +1,11 @@
+10
+add -1
+median
+add 0
+median
+add -2
+median
+add 1
+median
+add -1000000000
+median

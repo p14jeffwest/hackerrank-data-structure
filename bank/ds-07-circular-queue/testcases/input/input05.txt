@@ -1,0 +1,235 @@
+2 234
+enqueue 1
+enqueue 100
+front
+dequeue
+dequeue
+empty
+enqueue 2
+enqueue 200
+front
+dequeue
+dequeue
+empty
+enqueue 3
+enqueue 300
+front
+dequeue
+dequeue
+empty
+enqueue 4
+enqueue 400
+front
+dequeue
+dequeue
+empty
+enqueue 5
+enqueue 500
+front
+dequeue
+dequeue
+empty
+enqueue 6
+enqueue 600
+front
+dequeue
+dequeue
+empty
+enqueue 7
+enqueue 700
+front
+dequeue
+dequeue
+empty
+enqueue 8
+enqueue 800
+front
+dequeue
+dequeue
+empty
+enqueue 9
+enqueue 900
+front
+dequeue
+dequeue
+empty
+enqueue 10
+enqueue 1000
+front
+dequeue
+dequeue
+empty
+enqueue 11
+enqueue 1100
+front
+dequeue
+dequeue
+empty
+enqueue 12
+enqueue 1200
+front
+dequeue
+dequeue
+empty
+enqueue 13
+enqueue 1300
+front
+dequeue
+dequeue
+empty
+enqueue 14
+enqueue 1400
+front
+dequeue
+dequeue
+empty
+enqueue 15
+enqueue 1500
+front
+dequeue
+dequeue
+empty
+enqueue 16
+enqueue 1600
+front
+dequeue
+dequeue
+empty
+enqueue 17
+enqueue 1700
+front
+dequeue
+dequeue
+empty
+enqueue 18
+enqueue 1800
+front
+dequeue
+dequeue
+empty
+enqueue 19
+enqueue 1900
+front
+dequeue
+dequeue
+empty
+enqueue 20
+enqueue 2000
+front
+dequeue
+dequeue
+empty
+enqueue 21
+enqueue 2100
+front
+dequeue
+dequeue
+empty
+enqueue 22
+enqueue 2200
+front
+dequeue
+dequeue
+empty
+enqueue 23
+enqueue 2300
+front
+dequeue
+dequeue
+empty
+enqueue 24
+enqueue 2400
+front
+dequeue
+dequeue
+empty
+enqueue 25
+enqueue 2500
+front
+dequeue
+dequeue
+empty
+enqueue 26
+enqueue 2600
+front
+dequeue
+dequeue
+empty
+enqueue 27
+enqueue 2700
+front
+dequeue
+dequeue
+empty
+enqueue 28
+enqueue 2800
+front
+dequeue
+dequeue
+empty
+enqueue 29
+enqueue 2900
+front
+dequeue
+dequeue
+empty
+enqueue 30
+enqueue 3000
+front
+dequeue
+dequeue
+empty
+enqueue 31
+enqueue 3100
+front
+dequeue
+dequeue
+empty
+enqueue 32
+enqueue 3200
+front
+dequeue
+dequeue
+empty
+enqueue 33
+enqueue 3300
+front
+dequeue
+dequeue
+empty
+enqueue 34
+enqueue 3400
+front
+dequeue
+dequeue
+empty
+enqueue 35
+enqueue 3500
+front
+dequeue
+dequeue
+empty
+enqueue 36
+enqueue 3600
+front
+dequeue
+dequeue
+empty
+enqueue 37
+enqueue 3700
+front
+dequeue
+dequeue
+empty
+enqueue 38
+enqueue 3800
+front
+dequeue
+dequeue
+empty
+enqueue 39
+enqueue 3900
+front
+dequeue
+dequeue
+empty

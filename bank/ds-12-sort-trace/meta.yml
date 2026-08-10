@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-12-sort-trace
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch12
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "12"
+
+# page_id of the source section.
+# 12.3 Selection Sort
+source_page_id: 375859
+
+also_cites:
+  - 375863   # 12.7 Exercises, Level 1 Problem 1 (tracing the sorting process)
+
+# Title shown on HackerRank
+title: "The Array Partway Through Selection Sort"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged: same method signature, same input and output format,
+# same bounds, same Head and Tail.
+ko_counterpart: dsa-13-selection-trace
+
+# The book's 12.7 Level 1 Problem 1 traces three sorts -- bubble, selection
+# and insertion. This problem covers selection only, matching the Korean
+# version, so that one explanation serves both courses. Decided with the
+# instructor.
+covers_only: "selection sort, not the bubble and insertion parts of 12.7 L1 P1"
+
+# Bounds NOT raised, deliberately.
+# Selection sort is O(n*k), which at k = n-1 is O(n^2). A larger n would time
+# out the intended solution rather than a wrong one, so there is nothing to
+# gain.
+bounds_unchanged_from_ko:
+  reason: "the intended solution is quadratic; raising n punishes it first"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "67 ms (case 12)"
+  scored_variants:
+    - code: "k passes of selection sort on a copy (the registered solution)"
+      score: "14/14"
+    - code: "sort the whole array, ignoring k"
+      score: "6/14"
+    - code: "retrying the position when the smallest value is already there"
+      score: "12/14, wrong on 00 and 12"
+    - code: "k passes of bubble sort instead"
+      score: "7/14"
+  notes: >
+    The self-swap variant only scores 12/14 because a pass that swaps a value
+    with itself changes nothing in the array -- it can only be caught where
+    the extra pass it buys itself goes on to move something. Cases 00 and 12
+    do that; case 03, an already sorted array where every pass is a self-swap,
+    does not and cannot.
+    Nothing can check that the caller's array was left alone: the driver never
+    looks at it again. That is recorded in variants.md as an exam point
+    instead.

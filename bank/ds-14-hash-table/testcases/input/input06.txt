@@ -1,0 +1,5 @@
+3 4
+put 4 -1
+get 4
+get 5
+print

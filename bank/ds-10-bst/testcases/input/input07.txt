@@ -1,0 +1,36 @@
+35
+insert 30
+insert 29
+insert 28
+insert 27
+insert 26
+insert 25
+insert 24
+insert 23
+insert 22
+insert 21
+insert 20
+insert 19
+insert 18
+insert 17
+insert 16
+insert 15
+insert 14
+insert 13
+insert 12
+insert 11
+insert 10
+insert 9
+insert 8
+insert 7
+insert 6
+insert 5
+insert 4
+insert 3
+insert 2
+insert 1
+preorder
+delete 30
+delete 1
+preorder
+print

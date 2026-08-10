@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked examples from the statement, including an empty list
+# 01 negative odd values. 01 must be published: in Java the remainder keeps
+#    the sign of the dividend, so -3 % 2 is -1 and a test written as
+#    `x % 2 == 1` treats every negative odd value as even. This is the only
+#    place a student sees that before submitting.
+# 02 all odd, then all even, then all zero
+00
+01
+02

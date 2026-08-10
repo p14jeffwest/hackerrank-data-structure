@@ -1,0 +1,94 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-10-validate
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch10
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "10"
+
+# page_id of the source section.
+# 10.6 Coding Test Problems, Problem 1 (Validating a BST)
+source_page_id: 375849
+
+also_cites:
+  - 375843   # 10.1 The Concept of a Binary Search Tree (the ancestor rule)
+
+# Title shown on HackerRank
+title: "Validating a BST"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes. The Head is the chapter 9 one with the node field renamed from `data`
+# to `key`, matching this book's 10.1, and with the `join` helper dropped
+# because this problem prints no lists.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean chapter 11 covers binary search, BSTs, hashing and heaps in
+# one chapter and has no validation problem.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "1 <= n <= 10^4, one tree"
+  here: "T <= 500, total nodes <= 2*10^5"
+
+# The book's statement names the technique in its hint ("narrow the range of
+# values (min, max) each node can hold"). Not repeated here: 10.6 is a hidden
+# page, and the hint is the answer.
+hint_withheld_from_statement: "pass an allowed (min, max) range down"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "389 ms (case 11, 500 trees totalling 200,000 nodes)"
+  scored_variants:
+    - code: "range narrowed with long bounds (the registered solution)"
+      score: "14/14"
+    - code: "each node compared only against its parent"
+      score: "8/14, wrong on 02 06 08 10 11 13"
+    - code: "bounds held in int rather than long"
+      score: "12/14, wrong on 01 and 03"
+    - code: "bounds compared with < and > so equal keys are allowed"
+      score: "12/14, wrong on 03 and 04"
+  notes: >
+    Building the "locally consistent but globally invalid" trees took two
+    attempts, and the failure is worth remembering. The first version of
+    break_one() raised an arbitrary node in a left subtree; that node had
+    children of its own, and raising it above them broke a parent-child pair
+    as well -- which a parent-only check detects, so the case stopped testing
+    what it existed for. The parent-only solution scored 11/14. break_one()
+    now raises the RIGHTMOST node of the left subtree, which is above its own
+    parent and above its own left child by construction, so nothing local
+    changes and only the ancestor's bound is broken. That took it to 8/14.
+    The int-bound mistake originally failed only one hidden case, which told a
+    student nothing. Integer.MIN_VALUE and Integer.MAX_VALUE keys were added
+    to sample 01 so it is visible before submitting.

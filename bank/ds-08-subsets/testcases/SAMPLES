@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's two examples, with the input shuffled
+# 01 single-element sets, which have exactly two subsets each
+# 02 input given in DESCENDING order. 02 must be published: a solution that
+#    does not sort the input first produces exactly the right subsets, in the
+#    wrong order and with the elements inside each one reversed.
+00
+01
+02

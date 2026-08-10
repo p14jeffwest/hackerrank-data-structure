@@ -1,0 +1,87 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-14-longest-consecutive
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch14
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "14"
+
+# page_id of the source section.
+# 14.7 Coding Test Problems, Problem 1 (Longest Consecutive Sequence)
+source_page_id: 375882
+
+also_cites:
+  - 375875   # 14.1 Overview of Dictionaries and Hashing
+
+# Title shown on HackerRank
+title: "The Longest Consecutive Run"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^5"
+  here: "n <= 2*10^5"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "335 ms (case 12, random values with no runs)"
+  scored_variants:
+    - code: "hash set with the start-of-run check (the registered solution)"
+      score: "14/14"
+    - code: "no start-of-run check, so each run is walked from every member"
+      score: "10/14, timing out on 09 10 11 13"
+    - code: "a list instead of a set, so duplicates are kept"
+      score: "9/14, timing out on the five large cases"
+    - code: "sort and scan"
+      score: "14/14 -- not excluded; see the note"
+  notes: >
+    THE BOOK'S "SORTING IS NOT ALLOWED" CANNOT BE ENFORCED, and it is not a
+    close call: sorting is FASTER. Measured at n = 100,000 -- one long run,
+    hash 197 ms against sort 228 ms; random values, hash 228 ms against sort
+    191 ms. A HashSet of boxed Integers carries a large constant and
+    Arrays.sort on an int[] carries a tiny one, so the log factor never
+    catches up at any size this problem can hold. Stated in the constraints
+    and assessed on the exam.
+    What the clock DOES enforce is the start-of-run check, and decisively: on
+    one shuffled run of 100,000 values the correct version took 197 ms and the
+    version without the check took 15,717 ms. That is the point the book's own
+    answer calls "the key", so the enforceable half is the half worth
+    enforcing.
+    Case 12 is random values with almost no runs. The O(n^2) mistake survives
+    it -- there is nothing long to re-walk -- which keeps that mistake at
+    10/14 and tells the student the long runs are what broke them.

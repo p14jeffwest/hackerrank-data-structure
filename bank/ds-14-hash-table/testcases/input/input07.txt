@@ -1,0 +1,10 @@
+5 9
+remove 3
+print
+put 3 30
+remove 8
+print
+remove 3
+remove 3
+print
+get 3

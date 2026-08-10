@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example
+# 02 k = 1, the maximum -- the smallest k there is
+# 04 heavy duplicates: 9 9 9 5 1 with k = 2. 04 must be published: a solution
+#    counting DISTINCT values answers 5 here instead of 9.
+00
+02
+04

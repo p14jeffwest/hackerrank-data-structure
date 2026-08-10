@@ -1,0 +1,1 @@
+Report the median of a stream of integers after every arrival, in O(log n) per number.

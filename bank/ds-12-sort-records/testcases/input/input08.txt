@@ -1,0 +1,6 @@
+5
+kim 90
+kim 70
+lee 90
+kim 90
+lee 70

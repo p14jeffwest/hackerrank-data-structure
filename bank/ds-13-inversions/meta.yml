@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-13-inversions
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch13
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "13"
+
+# page_id of the source section.
+# 13.8 Coding Test Problems, Problem 1 (Counting Inversions)
+source_page_id: 375874
+
+also_cites:
+  - 375866   # 13.1 Merge Sort
+
+# Title shown on HackerRank
+title: "Counting Inversions"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged: same signature, same input and output format, same
+# bounds, same Head and Tail. The Korean book has it in its divide-and-conquer
+# chapter (14) and this book in its sorting chapter (13); the problem is the
+# same either way.
+ko_counterpart: dsa-14-inversions
+changed_from_ko:
+  - >
+    the stub comments no longer spell out the merge-counting procedure. The
+    Korean version lists the steps, including "when right is chosen first, add
+    remaining left size", which is the whole answer.
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "290 ms (case 10)"
+  scored_variants:
+    - code: "merge sort with the count on the merge step (the registered solution)"
+      score: "14/14"
+    - code: "checking every pair, O(n^2)"
+      score: "12/14 at a 5 s cutoff, 10/14 at 4 s -- see the note"
+    - code: "< instead of <= in the merge, so equal values are counted"
+      score: "10/14"
+    - code: "counting in an int"
+      score: "11/14"
+    - code: "adding 1 per merge step instead of the remaining left size"
+      score: "6/14"
+  notes: >
+    The quadratic solution is much more sensitive to the SHAPE of the input
+    than to its size, which was measured rather than assumed. On random data
+    (cases 10 and 13) it takes about 19 s; on the sorted and reverse-sorted
+    arrays (cases 11 and 12) it takes 4.1 s -- a factor of 4.6 at identical
+    n and identical comparison counts. The comparison there is perfectly
+    predictable, so the branch predictor never misses.
+    That puts cases 11 and 12 right at a four-second limit. Cases 10 and 13
+    time it out decisively either way, so the mistake is caught regardless;
+    but the score it earns will differ between graders and should not be
+    quoted as exactly 10/14 or 12/14.
+    The model counts with a Fenwick tree over compressed values, sweeping from
+    the right, which shares no reasoning with the merge-sort method.

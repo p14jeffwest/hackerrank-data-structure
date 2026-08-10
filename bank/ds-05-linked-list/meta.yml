@@ -1,0 +1,101 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-05-linked-list
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch05
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "05"
+
+# page_id of the source section.
+# 5.2 Linked List Operations
+source_page_id: 375734
+
+# Other sections the problem leans on.
+also_cites:
+  - 375727   # 4.1 The ADT List (the same ListInterface, implemented twice)
+  - 375733   # 5.1 Singly Linked Lists (the node structure)
+
+# Title shown on HackerRank
+title: "Building a Linked List"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Same shape, and the Korean version came first. It asks for addFront,
+# addBack and remove(value) on a bare LinkedList class; this one asks for
+# add(int,T), remove(int) and indexOf against the shared ListInterface, so
+# that it lines up command for command with ds-04-array-list.
+ko_counterpart: dsa-07-linked-list
+
+# The problem this one is meant to be read against.
+pair_with:
+  - ds-04-array-list
+
+# A deliberate asymmetry, taken from the book rather than invented.
+# Array_List.checkPosition admits 0 <= i < size, so add(int, T) cannot append.
+# LinkedList.add(int, T) admits 0 <= i <= size, so it can. Both are the book's
+# own code and both are left as they are; the statement points the difference
+# out rather than smoothing it over.
+bounds_differ_from_ch04:
+  ch04_addAt: "0 <= i < size"
+  ch05_addAt: "0 <= i <= size"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "269 ms (case 13, Q = 10,000, append-heavy)"
+  scored_variants:
+    - code: "reference implementation"
+      score: "14/14"
+    - code: "splice lines swapped (prev.next assigned before it is read)"
+      score: "6/14, timing out on 08 through 13"
+    - code: "tail not moved back when the last node is removed"
+      score: "11/14"
+    - code: "indexOf compares with == instead of .equals()"
+      score: "9/14"
+    - code: "remove(int) forgets numberOfEntries--"
+      score: "5/14"
+    - code: "copies the array version's bound and rejects i == size"
+      score: "10/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    Q is capped at 10,000, half of ds-04-array-list's 20,000. Measured on the
+    same command mix, this implementation runs 202 ms at Q = 10,000, 397 ms at
+    20,000 and 1007 ms at 40,000, against 244 to 303 ms for the array version
+    at Q = 20,000. The growth is quadratic because addAt, removeAt and get all
+    walk from head. Halving Q buys back the wall time, and the ratio is worth
+    keeping rather than hiding: it is 4.3's comparison table measured.
+    The swapped-splice mistake is the one the book's own TIP warns about, and
+    it fails as a timeout rather than a wrong answer: assigning prev.next
+    first leaves node.next pointing at node, and toString then loops forever.

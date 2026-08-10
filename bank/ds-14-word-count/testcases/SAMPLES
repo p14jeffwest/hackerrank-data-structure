@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, including a word that is not in the list
+# 01 a list of one word
+# 02 every query is a word that never appears, so every answer is 0. 02 must
+#    be published: HashMap.get returns null here and throws when unboxed,
+#    while getOrDefault gives the 0 that is wanted.
+00
+01
+02

@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's example, seven keys in a perfect tree
+# 01 six keys -- an EVEN count, so the range has two middles and only one of
+#    them is the required root. 01 must be published: rounding the other way
+#    gives the same height and a different preorder, and this is the only
+#    sample that shows it.
+# 02 two keys, the smallest even case
+00
+01
+02

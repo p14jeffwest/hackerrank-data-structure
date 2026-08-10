@@ -1,0 +1,18 @@
+17
+print
+search 5
+delete 5
+insert 50
+insert 30
+insert 70
+search 30
+search 45
+insert 30
+print
+delete 999
+print
+delete 30
+delete 50
+delete 70
+print
+search 50

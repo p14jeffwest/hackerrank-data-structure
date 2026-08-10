@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's two worked queries
+# 01 both ends inclusive, an empty window, and a window covering the whole
+#    tree
+# 02 six keys near 10^9, so the total passes 5 * 10^9. 02 must be published:
+#    an int accumulator is wrong here and nothing else in the samples shows
+#    it.
+00
+01
+02

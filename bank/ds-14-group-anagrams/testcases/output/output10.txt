@@ -1,0 +1,27 @@
+26
+y y y y y
+j j j j j j j j j
+l l l l l l
+f f f f f f f f f
+k k k k k k k k k k k
+u u u u u u u u u
+v v v v v v v v v v v
+s s s s s s s
+n n n n
+h h h h h h h h h h h h h
+q q q q q q q q q
+d d d d d d d d d d
+a a a a a a a a
+e e e e
+o o o o o o o o o o o o o o
+c c c c c c c c c c
+x x x x
+b b b b b b b
+z z z z z z
+w w w w w
+t t t t t t
+r r r r r r
+i i i i i i i i i
+m m m m m m m
+p p p p p p p p
+g g g

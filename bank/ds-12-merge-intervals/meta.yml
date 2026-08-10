@@ -1,0 +1,92 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-12-merge-intervals
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch12
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "12"
+
+# page_id of the source section.
+# 12.8 Coding Test Problems, Problem 2 (Merge Intervals)
+source_page_id: 375865
+
+# Title shown on HackerRank
+title: "Merge Intervals"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^4"
+  here: "n <= 2*10^5"
+
+# The book's statement names the technique in its hint. Not repeated here:
+# 12.8 is a hidden page.
+hint_withheld_from_statement: "sort by start, then merge while the previous end reaches the next start"
+
+# CAUTION: the boundary rule is the OPPOSITE of ds-11-meeting-rooms.
+#   ds-11-meeting-rooms: a meeting ending at t and one starting at t do NOT
+#                        overlap; one room takes both.
+#   here:                [1,4] and [4,5] DO overlap and merge into [1,5].
+# Both are the book's own rules, stated in their own chapters. Anyone editing
+# one of these two problems should check they have not carried the other's
+# comparison across.
+boundary_rule_differs_from: ds-11-meeting-rooms
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "728 ms (case 11, 200,000 intervals that mostly do not merge)"
+  scored_variants:
+    - code: "sort by start, then one pass (the registered solution)"
+      score: "14/14"
+    - code: "using >= so touching intervals are left separate"
+      score: "9/14, wrong on 03 06 10 11 13"
+    - code: "taking the new interval's end rather than the larger"
+      score: "9/14, wrong on 04 07 10 11 12"
+    - code: "not sorting by start"
+      score: "4/14"
+    - code: "absorbing overlapping pairs repeatedly, O(n^2)"
+      score: "12/14, timing out on 11 and 13"
+  notes: >
+    The two boundary mistakes -- >= instead of >, and the newer end instead of
+    the maximum -- both score 9/14 but fail different cases, so the score
+    still says which one it was. Cases 10 and 11 are the only ones both fail.
+    Case 11 is the slowest for the reference and is worth understanding: with
+    200,000 short intervals over a wide span almost nothing merges, so the
+    result list stays nearly as long as the input and the output is at its
+    largest. Cases 12 and 13, where everything collapses to one interval, are
+    faster despite being the same size.

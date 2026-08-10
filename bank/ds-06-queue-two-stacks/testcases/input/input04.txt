@@ -1,0 +1,11 @@
+10
+enqueue 1
+enqueue 2
+empty
+dequeue
+empty
+enqueue 3
+empty
+dequeue
+dequeue
+empty

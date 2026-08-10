@@ -1,0 +1,1 @@
+Rewrite a linked list in a single pass: insert a 0 after each odd value and multiply each even value by ten.

@@ -1,0 +1,14 @@
+5 13
+empty
+full
+size
+dequeue
+front
+enqueue 7
+empty
+size
+front
+dequeue
+empty
+dequeue
+front

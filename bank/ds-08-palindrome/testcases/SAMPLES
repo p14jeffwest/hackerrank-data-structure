@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked examples from the statement
+# 01 odd and even lengths side by side, which is where a base case that
+#    handles only one of the two comes apart
+# 02 case sensitivity. 02 must be published: a comparison that ignores case
+#    accepts `Level`, `Aba` and `AA`, and this is the only place a student
+#    sees that before submitting.
+00
+01
+02

@@ -1,0 +1,94 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-10-bst
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch10
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "10"
+
+# page_id of the source section.
+# 10.3 Removing an Entry
+source_page_id: 375845
+
+also_cites:
+  - 375843   # 10.1 The Concept of a Binary Search Tree
+  - 375844   # 10.2 Insertion and Search
+
+# Title shown on HackerRank
+title: "Binary Search Tree"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Same command-driven shape and the same bounds. Two changes, both because
+# this book covers more ground at this point than the Korean chapter 11 does.
+ko_counterpart: dsa-11-bst
+changed_from_ko:
+  - >
+    adds deleteKey. Section 10.3 is devoted to removal and its three cases,
+    and the Korean problem asks only for insert and search, so that whole
+    section would otherwise go untested.
+  - >
+    adds a `preorder` command. The Korean version prints inorder only, which
+    on a BST is the sorted key list -- it reveals the SET of keys and nothing
+    about the shape, so a sorted collection with no tree at all would pass.
+    preorder exposes the shape, and it is only usable as a test because 10.3
+    pins down the one ambiguous choice: a node with two children is replaced
+    by the PREDECESSOR, the largest key in its left subtree.
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "1767 ms (case 13, a tree of height 4,032)"
+  scored_variants:
+    - code: "insert, search and the book's predecessor deletion (the registered solution)"
+      score: "14/14"
+    - code: "deletion promoting the successor instead of the predecessor"
+      score: "12/14, wrong only on 02 and 08"
+    - code: "insert not reassigning the returned subtree root"
+      score: "2/14"
+    - code: "duplicate keys inserted as new nodes"
+      score: "9/14"
+    - code: "the two-children case tested before the one-child cases"
+      score: "7/14"
+  notes: >
+    Case 13 is the slow one at 1.77 s, and the reason is the height: 4,032,
+    from inserting 4,000 keys in ascending order. Every search then walks
+    thousands of levels. That is the chapter's own point about skew (10.4)
+    made expensive, and it is worth leaving; but it is also the case to watch
+    if the grader is slower than this container.
+    The successor variant scores 12/14 and that is by design rather than by
+    accident. The choice is genuinely free as far as validity goes -- the book
+    says so -- so the only cases that can separate them are the ones that
+    print a preorder after a two-child removal. If the requirement is ever
+    dropped, drop the preorder command with it.

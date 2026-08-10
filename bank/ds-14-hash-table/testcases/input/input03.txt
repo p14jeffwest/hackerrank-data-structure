@@ -1,0 +1,9 @@
+4 8
+put 2 1
+put 6 2
+put 2 99
+print
+put 6 88
+print
+get 2
+get 6

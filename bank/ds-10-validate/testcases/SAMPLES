@@ -1,0 +1,13 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's two examples from 10.6 Problem 1
+# 01 the smallest shapes plus Integer.MIN_VALUE and Integer.MAX_VALUE as
+#    keys. 01 must be published: bounds held in an int have no value left to
+#    mean "no bound yet", so a root of Integer.MIN_VALUE is rejected by its
+#    own starting bound, and this is where that shows.
+# 02 three trees that are locally consistent everywhere and still invalid,
+#    because a node sits on the wrong side of a grandparent. 02 must be
+#    published: it is the mistake the book raises twice, and the only place a
+#    parent-only check is visibly wrong.
+00
+01
+02

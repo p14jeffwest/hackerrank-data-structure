@@ -1,0 +1,24 @@
+23
+add 1
+add 2
+add 3
+get -5
+removeAt -5
+addAt -5 0
+get -1
+removeAt -1
+addAt -1 0
+get 3
+removeAt 3
+addAt 3 0
+get 4
+removeAt 4
+addAt 4 0
+get 100
+removeAt 100
+addAt 100 0
+get 1000000
+removeAt 1000000
+addAt 1000000 0
+print
+size

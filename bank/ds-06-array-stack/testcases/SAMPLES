@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example from the statement, opening on an empty stack
+# 01 LIFO order, straight from section 6.1
+# 02 the empty stack in every way it can be touched. 02 must be published:
+#    it is where a missing empty check in pop and peek shows up as `crash`.
+00
+01
+02

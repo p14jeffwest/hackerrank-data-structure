@@ -1,0 +1,96 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-08-subsets
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch08
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "08"
+
+# page_id of the source section.
+# 8.5 Coding Test Problems, Problem 2 (Generating Subsets)
+source_page_id: 375836
+
+# Title shown on HackerRank
+title: "Generating Subsets"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean chapter 9 has no backtracking problem -- its combinatorics
+# live in chapter 12, which this book does not have. This is the chapter 8
+# material the two courses do not share.
+ko_counterpart: null
+
+# Two changes from the book's statement, both forced by grading.
+changed_from_book:
+  order:
+    book: "the order of the subsets does not matter"
+    here: >
+      elements ascending within a subset; subsets in lexicographic order,
+      shorter first on a prefix. A grader cannot accept an arbitrary order,
+      and this particular order is what the natural recursion produces once
+      the input is sorted, so it costs the student nothing.
+  bound:
+    book: "n <= 10"
+    here: "n <= 16, with the subset total capped at 200,000"
+  input_order: >
+    The values are given shuffled rather than sorted, so that sorting them
+    first is part of the problem.
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "197 ms (case 10, 65,536 subsets)"
+  largest_output: "2.1 MB (cases 10 and 12)"
+  scored_variants:
+    - code: "sort, then emit at every node of the recursion (the registered solution)"
+      score: "14/14"
+    - code: "the input never sorted"
+      score: "3/14"
+    - code: "no unchoose step after the recursive call"
+      score: "1/14"
+    - code: "emitting only at the leaves, not at every node"
+      score: "0/14"
+    - code: "the book's shape, saving a reference instead of a copy"
+      score: "0/14"
+  notes: >
+    The reference emits straight into a StringBuilder rather than collecting a
+    list of lists, which sidesteps the copying problem the book's own answer
+    warns about. That mistake is still worth having as a variant: written the
+    book's way without the copy, every saved subset points at the same list
+    and the output is 2^n copies of whatever that list held at the end. It
+    scores zero.
+    The Python model in gen.py is iterative for the same reason as
+    ds-08-hanoi's: 65,536 subsets is fine, but the recursion depth plus the
+    number of frames is not worth risking against Python's default limit.
+    Model and Java solution were compared byte for byte on cases 10 and 13.

@@ -1,0 +1,89 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-09-traversal
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch09
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "09"
+
+# page_id of the source section.
+# 9.3 Tree Traversals
+source_page_id: 375839
+
+also_cites:
+  - 375840   # 9.4 Exercises, Level 1 Problem 2 (list all four traversal results)
+
+# Title shown on HackerRank
+title: "Tree Traversals"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes. The Head parses the level-order listing into a tree, which is worth
+# providing rather than asking for: it is the same parser in all five chapter
+# 9 problems, and it is not what any of them is about.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over with its input format, its bounds and its Head unchanged. One
+# change: this version asks for FOUR traversals rather than three. The Korean
+# book's chapter 10 covers the three depth-first ones in the section the
+# problem is drawn from; this book's 9.3 gives level order equal billing and
+# opens with it, so leaving it out would misrepresent the section.
+ko_counterpart: dsa-10-traversal
+changed_from_ko:
+  - "adds levelOrder as a fourth method and a fourth output line"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "636 ms (case 13, 100,000 nodes)"
+  deepest_tree: "height 5,000 (cases 11 and 12)"
+  scored_variants:
+    - code: "the four traversals as written (the registered solution)"
+      score: "14/14"
+    - code: "inorder written with the visit first"
+      score: "3/14"
+    - code: "levelOrder delegating to preorder"
+      score: "6/14"
+    - code: "postorder stopping at leaves instead of checking for null"
+      score: "4/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The height cap of 5,000 is inherited from the Korean version and it is
+    load-bearing rather than decorative. Three of the four traversals are
+    recursive, so the stack depth is the height of the tree; a fully skewed
+    tree of 100,000 nodes would overflow the Java stack and the correct
+    solution would be the one that crashed. Cases 11 and 12 sit exactly at the
+    cap.
+    Case 03 exists to keep the level-order mistake partial. It is a tree of
+    three nodes where preorder and level order coincide, so a student who
+    confuses the two passes it and fails everything else.

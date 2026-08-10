@@ -1,0 +1,94 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-09-right-view
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch09
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "09"
+
+# page_id of the source section.
+# 9.5 Coding Test Problems, Problem 2 (Right Side View of a Binary Tree)
+source_page_id: 375842
+
+also_cites:
+  - 375839   # 9.3 Tree Traversals (the level-order traversal with a queue)
+
+# Title shown on HackerRank
+title: "Right Side View of a Binary Tree"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Head is byte-identical to ds-09-traversal's.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None exactly. The Korean set has dsa-06-... no -- dsa-10-level-max, which
+# asks for the LARGEST value at each level. Same technique (level-order with
+# the levels separated), different question. This version follows this book,
+# which designates the right side view as its chapter 9 coding-test problem.
+ko_counterpart: null
+same_technique_as: dsa-10-level-max
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "0 <= n <= 100"
+  here: "1 <= n <= 100,000, height at most 5,000"
+
+# The book's statement names the technique in its hint ("do a level-order
+# traversal, but add the last node of each level"). Not repeated here: 9.5 is
+# a hidden page, and the hint is the whole answer.
+hint_withheld_from_statement: "level-order, taking the last node of each level"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "366 ms (case 10, 100,000 nodes)"
+  scored_variants:
+    - code: "level-order with levelSize (the registered solution)"
+      score: "14/14"
+    - code: "walk down the right children only"
+      score: "4/14"
+    - code: "level-order without separating the levels"
+      score: "5/14"
+    - code: "the FIRST node of each level, which is the left side view"
+      score: "5/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The whole problem is the one line `int levelSize = queue.size();`. Without
+    it a queue is a flat stream and the level boundaries are gone; with it,
+    each round handles exactly one level because whatever is added during the
+    round belongs to the next.
+    The misconception worth naming is that the visible node is a right child.
+    It need not be: on a tree that leans left, every visible node is a left
+    child, because at each level there is nothing else. Case 02 is the book's
+    own example of that, and the right-children-only solution reports the root
+    and stops.

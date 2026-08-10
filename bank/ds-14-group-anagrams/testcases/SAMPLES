@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's example
+# 03 the group order: `zzz` appears first and must come first. 03 must be
+#    published: returning a plain HashMap's values gives the groups in hash
+#    order, which puts `abc cba bac` first here.
+# 04 character-code collisions: "ad" and "bc" both sum to 197 and are not
+#    anagrams. 04 must be published: a key made from that sum merges them.
+00
+03
+04

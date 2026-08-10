@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example from the statement
+# 01 the book's own example, cards numbered 1 to 5, which leaves card 2
+# 02 N = 1. Nothing is discarded and the first output line is EMPTY.
+#    02 must be published: an empty line is easy to get wrong and there is no
+#    way to guess that it is expected.
+00
+01
+02

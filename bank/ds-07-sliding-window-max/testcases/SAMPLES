@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's own example, plus the same array at k = 1 and k = n
+# 01 k = 1 and k = n on several short arrays, which pin both ends of the
+#    window arithmetic
+# 02 strictly decreasing arrays. 02 must be published: the maximum is always
+#    the element about to leave the window, so a deque holding values instead
+#    of indices cannot expire it and goes wrong from the second window on.
+00
+01
+02

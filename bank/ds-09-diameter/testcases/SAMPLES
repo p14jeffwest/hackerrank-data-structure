@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's example, diameter 3 through the root
+# 01 a single node. 01 must be published: the answer is 0 in edges and would
+#    be 1 if the nodes were counted, which is the unit confusion this chapter
+#    invites.
+# 02 a tree whose longest path never touches the root. 02 must be published:
+#    a solution that only measures through the root answers 4 instead of 6.
+00
+01
+02

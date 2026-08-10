@@ -1,0 +1,5001 @@
+500 5000
+size
+full
+enqueue 992657713
+clear
+enqueue 846299887
+enqueue 868117825
+dequeue
+enqueue 433463382
+enqueue 505940600
+enqueue 915152937
+dequeue
+dequeue
+enqueue 945110329
+size
+dequeue
+enqueue 752422389
+enqueue 632178772
+dequeue
+enqueue 977061781
+enqueue 628078693
+dequeue
+enqueue 532934737
+enqueue 547401367
+size
+dequeue
+dequeue
+enqueue 606860175
+enqueue 20286900
+enqueue 976947775
+enqueue 986945463
+front
+enqueue 761499389
+dequeue
+front
+dequeue
+dequeue
+size
+enqueue 551698624
+enqueue 36587786
+front
+dequeue
+enqueue 77030498
+dequeue
+enqueue 894702234
+dequeue
+enqueue 205142998
+full
+dequeue
+dequeue
+enqueue 653370554
+front
+enqueue 847622272
+empty
+dequeue
+dequeue
+enqueue 956102820
+full
+size
+front
+front
+front
+enqueue 689328456
+size
+dequeue
+full
+enqueue 906531662
+enqueue 88400640
+dequeue
+dequeue
+dequeue
+enqueue 615855120
+empty
+enqueue 936543133
+dequeue
+dequeue
+size
+enqueue 608018989
+dequeue
+front
+dequeue
+dequeue
+enqueue 511163873
+dequeue
+dequeue
+enqueue 366998315
+dequeue
+full
+dequeue
+dequeue
+front
+dequeue
+enqueue 844751454
+dequeue
+enqueue 926553418
+enqueue 640006333
+enqueue 829848224
+front
+enqueue 182074380
+enqueue 523248032
+dequeue
+front
+size
+empty
+dequeue
+dequeue
+enqueue 236101661
+dequeue
+enqueue 180217643
+enqueue 177007707
+enqueue 878875721
+dequeue
+front
+enqueue 232716748
+size
+dequeue
+enqueue 43397456
+enqueue 366917863
+dequeue
+dequeue
+enqueue 540573181
+enqueue 804064812
+enqueue 57046337
+enqueue 811180836
+front
+full
+empty
+enqueue 4215962
+enqueue 732760970
+enqueue 165432886
+full
+enqueue 314867993
+dequeue
+front
+enqueue 216788866
+dequeue
+enqueue 834667635
+size
+front
+size
+dequeue
+enqueue 752050926
+enqueue 586410483
+enqueue 21774453
+empty
+dequeue
+enqueue 795955977
+enqueue 397526987
+dequeue
+empty
+dequeue
+dequeue
+enqueue 145147858
+dequeue
+enqueue 24051250
+front
+dequeue
+dequeue
+front
+enqueue 660485929
+size
+enqueue 610756968
+enqueue 23826189
+enqueue 622938708
+dequeue
+enqueue 914445592
+front
+enqueue 736778265
+dequeue
+empty
+dequeue
+front
+enqueue 703219001
+enqueue 44963253
+dequeue
+front
+front
+enqueue 455811226
+front
+dequeue
+dequeue
+dequeue
+dequeue
+front
+clear
+dequeue
+enqueue 957916825
+enqueue 272174110
+enqueue 200465725
+empty
+enqueue 562994842
+enqueue 388026221
+enqueue 688178770
+enqueue 618119709
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 616762565
+front
+enqueue 293631479
+size
+enqueue 219103894
+full
+enqueue 422282868
+enqueue 361272390
+enqueue 556469626
+enqueue 153108634
+dequeue
+enqueue 31259406
+empty
+dequeue
+dequeue
+dequeue
+full
+dequeue
+size
+dequeue
+enqueue 491725380
+dequeue
+enqueue 822662430
+dequeue
+enqueue 953598127
+enqueue 945822088
+dequeue
+enqueue 89297282
+enqueue 394692273
+enqueue 283202649
+dequeue
+size
+dequeue
+front
+enqueue 183874186
+full
+enqueue 862941054
+enqueue 613447884
+size
+dequeue
+enqueue 882110314
+enqueue 611026422
+dequeue
+dequeue
+empty
+front
+dequeue
+dequeue
+enqueue 953623382
+enqueue 207803125
+dequeue
+front
+front
+front
+enqueue 614034407
+dequeue
+enqueue 69276241
+dequeue
+enqueue 778904780
+enqueue 804052032
+enqueue 679634263
+enqueue 667973386
+dequeue
+enqueue 857015363
+empty
+enqueue 166322203
+size
+dequeue
+dequeue
+size
+full
+size
+front
+enqueue 677059558
+enqueue 23525494
+enqueue 839788081
+dequeue
+dequeue
+size
+enqueue 90222251
+dequeue
+full
+size
+dequeue
+enqueue 724958020
+dequeue
+enqueue 478085182
+dequeue
+enqueue 401804679
+front
+front
+dequeue
+enqueue 669100867
+empty
+dequeue
+dequeue
+enqueue 793110762
+dequeue
+front
+dequeue
+dequeue
+enqueue 17716097
+enqueue 980745766
+dequeue
+dequeue
+dequeue
+enqueue 513729014
+enqueue 452503715
+dequeue
+enqueue 504173436
+dequeue
+enqueue 550474241
+front
+dequeue
+enqueue 184737241
+enqueue 104718490
+empty
+dequeue
+dequeue
+clear
+enqueue 811506318
+enqueue 91679506
+front
+enqueue 749522583
+dequeue
+dequeue
+enqueue 798400962
+dequeue
+dequeue
+dequeue
+enqueue 558023657
+enqueue 839631940
+enqueue 95349046
+size
+enqueue 825926288
+size
+dequeue
+enqueue 817903612
+dequeue
+enqueue 546652763
+front
+enqueue 965999755
+dequeue
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 110735311
+enqueue 561715794
+dequeue
+empty
+enqueue 296765524
+enqueue 563198818
+dequeue
+front
+enqueue 852586615
+enqueue 402344508
+empty
+enqueue 730168765
+dequeue
+enqueue 410346998
+full
+front
+dequeue
+clear
+enqueue 390920826
+dequeue
+size
+dequeue
+dequeue
+enqueue 631401775
+dequeue
+full
+front
+dequeue
+enqueue 70454534
+enqueue 407368719
+enqueue 819128714
+enqueue 380193639
+enqueue 857571793
+front
+size
+dequeue
+dequeue
+enqueue 5267377
+dequeue
+dequeue
+front
+enqueue 452755711
+dequeue
+enqueue 718508007
+size
+enqueue 96666233
+size
+empty
+dequeue
+enqueue 298213481
+empty
+dequeue
+front
+dequeue
+empty
+enqueue 827492258
+enqueue 834222568
+enqueue 81300
+enqueue 575309073
+dequeue
+dequeue
+enqueue 565769268
+dequeue
+front
+enqueue 548866887
+enqueue 113951647
+dequeue
+enqueue 16853251
+dequeue
+dequeue
+enqueue 841270722
+enqueue 213508962
+enqueue 23634009
+dequeue
+dequeue
+full
+enqueue 165309281
+enqueue 107081032
+dequeue
+dequeue
+dequeue
+enqueue 981682278
+size
+size
+dequeue
+enqueue 403620097
+size
+front
+dequeue
+clear
+dequeue
+enqueue 172344595
+front
+dequeue
+dequeue
+front
+front
+enqueue 505761574
+front
+enqueue 467509174
+enqueue 502028333
+enqueue 951101402
+enqueue 781826232
+enqueue 320419564
+enqueue 854428617
+dequeue
+enqueue 666323298
+dequeue
+enqueue 38486535
+enqueue 121675739
+enqueue 125213225
+enqueue 650732180
+empty
+enqueue 889357917
+dequeue
+dequeue
+enqueue 701062312
+dequeue
+front
+dequeue
+enqueue 506539721
+enqueue 86196477
+front
+enqueue 176374880
+size
+enqueue 206011554
+enqueue 641355627
+size
+dequeue
+enqueue 618158911
+enqueue 482206700
+enqueue 677364212
+size
+enqueue 713455373
+enqueue 261249337
+dequeue
+dequeue
+dequeue
+size
+dequeue
+enqueue 845996228
+dequeue
+enqueue 550524368
+dequeue
+dequeue
+enqueue 830430645
+enqueue 400632228
+dequeue
+enqueue 55686544
+dequeue
+dequeue
+enqueue 155240250
+enqueue 892469206
+enqueue 759886240
+enqueue 308041617
+enqueue 251441486
+dequeue
+full
+size
+size
+enqueue 62271940
+enqueue 122241608
+enqueue 989119733
+enqueue 592234765
+front
+size
+empty
+enqueue 541800425
+enqueue 324301996
+front
+enqueue 903142712
+dequeue
+enqueue 807720622
+enqueue 174439034
+enqueue 491198872
+dequeue
+enqueue 651296618
+enqueue 562260054
+full
+enqueue 959198129
+empty
+enqueue 790082301
+enqueue 353341462
+dequeue
+front
+dequeue
+dequeue
+dequeue
+front
+dequeue
+enqueue 491117552
+size
+enqueue 631501639
+dequeue
+enqueue 510328831
+enqueue 743846395
+dequeue
+dequeue
+full
+dequeue
+enqueue 497760566
+dequeue
+dequeue
+enqueue 286579066
+enqueue 865973902
+enqueue 822010686
+enqueue 93751271
+dequeue
+size
+size
+enqueue 482584787
+enqueue 956955874
+enqueue 516545826
+enqueue 93291175
+dequeue
+front
+front
+empty
+enqueue 654715780
+size
+dequeue
+enqueue 234408045
+enqueue 922584416
+enqueue 273645952
+enqueue 954114585
+dequeue
+enqueue 152789625
+dequeue
+enqueue 301247602
+enqueue 413276098
+empty
+dequeue
+enqueue 264838580
+enqueue 677405976
+enqueue 337009208
+dequeue
+full
+dequeue
+size
+size
+dequeue
+empty
+enqueue 427869477
+size
+enqueue 479284877
+enqueue 281104808
+enqueue 301593683
+empty
+full
+dequeue
+dequeue
+enqueue 738711143
+dequeue
+enqueue 615792494
+full
+dequeue
+enqueue 350053393
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 285380542
+dequeue
+dequeue
+front
+dequeue
+enqueue 813793379
+enqueue 888606571
+front
+dequeue
+enqueue 192652754
+enqueue 498327686
+enqueue 675209863
+enqueue 716074484
+dequeue
+dequeue
+enqueue 324386456
+enqueue 385110537
+enqueue 289456003
+dequeue
+enqueue 763816842
+enqueue 874889390
+dequeue
+clear
+enqueue 804130478
+front
+front
+front
+dequeue
+enqueue 165849376
+empty
+enqueue 602313858
+enqueue 394817955
+enqueue 920343268
+enqueue 825945314
+front
+dequeue
+enqueue 968370495
+empty
+enqueue 482100471
+dequeue
+size
+front
+full
+enqueue 634127616
+dequeue
+full
+front
+enqueue 990175419
+dequeue
+dequeue
+dequeue
+front
+enqueue 359715061
+enqueue 694687215
+dequeue
+enqueue 261530765
+dequeue
+enqueue 348610550
+enqueue 2269219
+enqueue 579509176
+dequeue
+dequeue
+size
+enqueue 396012432
+enqueue 677263835
+size
+enqueue 899270251
+front
+front
+clear
+dequeue
+enqueue 687331070
+size
+size
+dequeue
+enqueue 623822668
+dequeue
+empty
+enqueue 856298558
+front
+size
+enqueue 963186710
+enqueue 376210507
+full
+dequeue
+enqueue 805518858
+empty
+size
+dequeue
+empty
+enqueue 887229983
+enqueue 97962148
+dequeue
+front
+enqueue 263843280
+enqueue 147578701
+enqueue 965294839
+enqueue 117405937
+front
+dequeue
+enqueue 733991114
+dequeue
+full
+enqueue 241844979
+dequeue
+full
+front
+size
+enqueue 639751056
+size
+front
+enqueue 128348258
+dequeue
+enqueue 888540691
+enqueue 591681638
+enqueue 429256066
+clear
+size
+enqueue 174437430
+enqueue 294021856
+enqueue 675539979
+enqueue 27790054
+enqueue 861656995
+enqueue 515772377
+enqueue 400653633
+dequeue
+dequeue
+front
+front
+front
+dequeue
+dequeue
+enqueue 885305267
+enqueue 637869294
+enqueue 723905741
+front
+enqueue 910090094
+dequeue
+enqueue 989569627
+dequeue
+dequeue
+enqueue 439842080
+empty
+enqueue 374277501
+enqueue 354343735
+size
+enqueue 599835433
+enqueue 379800284
+dequeue
+dequeue
+front
+empty
+enqueue 454083292
+dequeue
+dequeue
+enqueue 444792723
+enqueue 840312113
+dequeue
+enqueue 899845882
+empty
+enqueue 41519372
+dequeue
+dequeue
+enqueue 480311006
+dequeue
+dequeue
+size
+front
+enqueue 692818042
+dequeue
+enqueue 49755489
+front
+dequeue
+dequeue
+empty
+dequeue
+front
+dequeue
+enqueue 781463352
+enqueue 64512449
+dequeue
+dequeue
+enqueue 921060618
+enqueue 588018225
+enqueue 375836670
+enqueue 677890273
+full
+dequeue
+dequeue
+dequeue
+enqueue 645857267
+enqueue 419795297
+enqueue 233696448
+enqueue 626505983
+dequeue
+enqueue 241010371
+enqueue 287818215
+front
+dequeue
+enqueue 404467670
+dequeue
+size
+enqueue 326510203
+front
+size
+full
+dequeue
+front
+front
+enqueue 614444053
+front
+enqueue 71651935
+enqueue 923933063
+enqueue 842535628
+enqueue 703716345
+dequeue
+dequeue
+enqueue 801584652
+enqueue 640340744
+front
+dequeue
+enqueue 942087417
+dequeue
+enqueue 219972273
+enqueue 636697608
+enqueue 972576678
+dequeue
+dequeue
+enqueue 125251942
+enqueue 965492898
+empty
+dequeue
+enqueue 200457987
+enqueue 279960677
+enqueue 56709584
+enqueue 170782915
+size
+enqueue 769974670
+enqueue 212722425
+dequeue
+enqueue 208107260
+enqueue 51973075
+enqueue 840731348
+dequeue
+full
+enqueue 300622368
+enqueue 988977429
+enqueue 625999317
+enqueue 613565253
+enqueue 830089069
+dequeue
+dequeue
+dequeue
+enqueue 6318146
+dequeue
+empty
+enqueue 9616786
+dequeue
+dequeue
+dequeue
+enqueue 446960228
+front
+enqueue 952544438
+dequeue
+dequeue
+enqueue 7200078
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 111278297
+enqueue 201058666
+enqueue 991508548
+front
+dequeue
+enqueue 244780699
+empty
+enqueue 579911238
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 952392168
+enqueue 85744022
+enqueue 173089334
+enqueue 804498604
+empty
+enqueue 450178323
+dequeue
+front
+enqueue 927950271
+front
+dequeue
+front
+enqueue 252086495
+enqueue 193655759
+enqueue 541318101
+size
+dequeue
+full
+full
+enqueue 581936824
+enqueue 749088948
+enqueue 673136586
+dequeue
+enqueue 333154993
+dequeue
+dequeue
+dequeue
+size
+enqueue 890787151
+enqueue 921973738
+size
+enqueue 546629003
+full
+front
+enqueue 56883124
+dequeue
+enqueue 184579842
+enqueue 206611462
+dequeue
+enqueue 405693430
+dequeue
+enqueue 353362598
+enqueue 534076175
+enqueue 41505215
+enqueue 166703408
+dequeue
+dequeue
+enqueue 711755681
+enqueue 636233042
+enqueue 26253668
+enqueue 783084941
+enqueue 193416400
+enqueue 740610119
+enqueue 483968795
+dequeue
+dequeue
+dequeue
+enqueue 72339747
+dequeue
+dequeue
+enqueue 868848247
+front
+front
+dequeue
+size
+front
+front
+size
+enqueue 546909769
+size
+enqueue 353165064
+enqueue 346341012
+front
+front
+dequeue
+full
+dequeue
+enqueue 40424306
+front
+enqueue 418486896
+enqueue 505397642
+dequeue
+enqueue 997635872
+front
+enqueue 555874138
+dequeue
+dequeue
+size
+front
+enqueue 405487887
+enqueue 857536662
+size
+enqueue 111287534
+full
+enqueue 674469872
+enqueue 358693210
+front
+empty
+enqueue 923809476
+enqueue 855670706
+enqueue 809486540
+enqueue 39086556
+enqueue 115172108
+enqueue 469185405
+enqueue 404148309
+enqueue 372141647
+enqueue 245473289
+enqueue 87761920
+enqueue 600363689
+enqueue 307439211
+enqueue 318605537
+enqueue 660143898
+enqueue 9381582
+enqueue 238944105
+dequeue
+size
+dequeue
+dequeue
+enqueue 188957742
+enqueue 410153944
+enqueue 62999121
+front
+dequeue
+enqueue 79381909
+dequeue
+size
+dequeue
+front
+front
+enqueue 430520635
+front
+empty
+front
+enqueue 944478861
+full
+enqueue 81967318
+dequeue
+front
+enqueue 681113790
+dequeue
+enqueue 361402123
+size
+full
+enqueue 534779109
+enqueue 40019977
+dequeue
+enqueue 933876561
+enqueue 281145062
+enqueue 125406462
+enqueue 828519382
+dequeue
+dequeue
+enqueue 797189064
+enqueue 251235778
+enqueue 564941738
+enqueue 764711515
+dequeue
+dequeue
+dequeue
+full
+size
+dequeue
+enqueue 871509433
+size
+enqueue 989732083
+dequeue
+enqueue 843391069
+enqueue 526012191
+dequeue
+enqueue 444930197
+dequeue
+dequeue
+front
+enqueue 805497786
+enqueue 567998570
+size
+front
+enqueue 272734041
+enqueue 345597111
+enqueue 115011441
+dequeue
+dequeue
+enqueue 789665233
+size
+full
+empty
+front
+enqueue 136586967
+front
+enqueue 42219051
+enqueue 956479552
+enqueue 606866264
+clear
+front
+dequeue
+enqueue 930590947
+enqueue 632319259
+dequeue
+dequeue
+enqueue 772785315
+dequeue
+dequeue
+enqueue 731094048
+enqueue 65104169
+enqueue 95952844
+front
+front
+dequeue
+enqueue 794003297
+enqueue 303276214
+dequeue
+dequeue
+dequeue
+enqueue 818767081
+enqueue 446065188
+dequeue
+enqueue 487584021
+full
+dequeue
+enqueue 390107775
+enqueue 880173725
+enqueue 189084296
+dequeue
+dequeue
+enqueue 598771775
+enqueue 882026910
+enqueue 251924027
+enqueue 849075794
+front
+dequeue
+full
+front
+dequeue
+dequeue
+enqueue 969734989
+enqueue 521053199
+dequeue
+enqueue 632668064
+dequeue
+dequeue
+enqueue 787602105
+enqueue 922202931
+enqueue 204637192
+size
+enqueue 748717333
+enqueue 139187207
+dequeue
+front
+enqueue 750276222
+dequeue
+enqueue 379575699
+full
+dequeue
+dequeue
+enqueue 584014667
+enqueue 561462667
+enqueue 697509478
+front
+enqueue 679883113
+dequeue
+empty
+dequeue
+enqueue 500229658
+dequeue
+enqueue 455873539
+enqueue 330687512
+enqueue 510562302
+dequeue
+enqueue 616418658
+dequeue
+clear
+enqueue 137358283
+empty
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 227508350
+enqueue 306475853
+dequeue
+front
+enqueue 905212648
+dequeue
+dequeue
+enqueue 913428185
+enqueue 339612289
+enqueue 611720939
+enqueue 752356154
+empty
+enqueue 831374163
+dequeue
+enqueue 641668684
+size
+enqueue 606179015
+dequeue
+enqueue 815687164
+front
+enqueue 186512307
+empty
+dequeue
+dequeue
+enqueue 534172266
+dequeue
+dequeue
+enqueue 349759650
+enqueue 325437790
+enqueue 232020299
+empty
+enqueue 726792637
+enqueue 847224866
+front
+enqueue 168121085
+enqueue 12991736
+front
+size
+dequeue
+full
+dequeue
+size
+enqueue 707934003
+dequeue
+enqueue 822820860
+front
+dequeue
+front
+dequeue
+enqueue 702595499
+enqueue 868966670
+enqueue 887870088
+enqueue 847763910
+dequeue
+dequeue
+enqueue 677005006
+enqueue 119438314
+dequeue
+dequeue
+enqueue 373582748
+dequeue
+enqueue 336921031
+enqueue 785378369
+enqueue 778173208
+front
+dequeue
+dequeue
+enqueue 451941449
+full
+enqueue 381803231
+enqueue 839662084
+dequeue
+size
+enqueue 706119385
+dequeue
+enqueue 66166388
+dequeue
+dequeue
+front
+dequeue
+dequeue
+enqueue 36251882
+dequeue
+enqueue 929391149
+enqueue 252971659
+front
+enqueue 394206303
+empty
+enqueue 244999167
+enqueue 834531654
+full
+enqueue 667546618
+enqueue 537508389
+dequeue
+enqueue 502313058
+enqueue 256458585
+dequeue
+front
+enqueue 853317548
+empty
+enqueue 451169597
+enqueue 746981527
+empty
+enqueue 430345314
+dequeue
+dequeue
+enqueue 587835012
+empty
+dequeue
+empty
+enqueue 557647437
+enqueue 272526274
+enqueue 305051619
+full
+enqueue 521557455
+dequeue
+size
+enqueue 961352617
+enqueue 417363071
+enqueue 462714634
+enqueue 168069426
+enqueue 760630655
+enqueue 613584321
+dequeue
+enqueue 677231723
+front
+enqueue 801353094
+dequeue
+enqueue 260097338
+enqueue 890377900
+dequeue
+dequeue
+enqueue 44421146
+front
+enqueue 148955834
+dequeue
+empty
+enqueue 867798851
+enqueue 945421201
+size
+enqueue 183878015
+enqueue 872519589
+dequeue
+enqueue 454079452
+enqueue 600105158
+enqueue 870710500
+full
+front
+front
+enqueue 235838621
+dequeue
+enqueue 938843301
+enqueue 658282792
+dequeue
+enqueue 359722655
+enqueue 204013518
+enqueue 245939483
+dequeue
+enqueue 209034624
+dequeue
+enqueue 9965009
+enqueue 891640158
+enqueue 302598108
+enqueue 739069196
+dequeue
+front
+enqueue 642349173
+dequeue
+dequeue
+dequeue
+enqueue 549375403
+dequeue
+enqueue 252343827
+enqueue 702346128
+dequeue
+dequeue
+enqueue 429888015
+dequeue
+enqueue 120957972
+front
+dequeue
+full
+enqueue 964006466
+enqueue 677774545
+enqueue 253874364
+enqueue 694555953
+enqueue 54874280
+empty
+enqueue 261796483
+dequeue
+enqueue 144123527
+enqueue 38215887
+size
+enqueue 517899402
+full
+empty
+dequeue
+empty
+dequeue
+enqueue 293197324
+dequeue
+dequeue
+dequeue
+enqueue 257511917
+dequeue
+empty
+empty
+enqueue 190182024
+enqueue 230607087
+dequeue
+dequeue
+dequeue
+enqueue 393834034
+dequeue
+enqueue 234679412
+size
+enqueue 593998122
+front
+enqueue 275348167
+full
+size
+enqueue 719558994
+empty
+dequeue
+enqueue 63835653
+enqueue 719822228
+enqueue 189486418
+full
+front
+front
+enqueue 768259113
+size
+enqueue 718855688
+size
+enqueue 891460127
+enqueue 185005610
+size
+enqueue 600644652
+empty
+enqueue 134942937
+dequeue
+dequeue
+enqueue 409307879
+enqueue 273262707
+dequeue
+enqueue 970533668
+enqueue 69930088
+enqueue 939911804
+enqueue 226997473
+empty
+enqueue 541149753
+enqueue 502276274
+front
+size
+enqueue 518401209
+front
+dequeue
+enqueue 467843055
+dequeue
+enqueue 122044833
+enqueue 550209210
+full
+dequeue
+enqueue 396619338
+enqueue 259057512
+empty
+enqueue 421799301
+enqueue 75192455
+enqueue 526833259
+full
+enqueue 976317529
+enqueue 432364693
+dequeue
+dequeue
+enqueue 511467873
+empty
+dequeue
+enqueue 152799322
+dequeue
+dequeue
+enqueue 398082180
+dequeue
+dequeue
+enqueue 660945750
+front
+enqueue 877044605
+dequeue
+dequeue
+enqueue 541020550
+enqueue 898811443
+enqueue 442050075
+size
+front
+dequeue
+dequeue
+enqueue 566627649
+enqueue 260657995
+enqueue 818304841
+dequeue
+enqueue 552156055
+size
+dequeue
+dequeue
+dequeue
+dequeue
+front
+enqueue 803460316
+dequeue
+enqueue 136105952
+enqueue 357357549
+enqueue 848730489
+enqueue 765827977
+dequeue
+dequeue
+dequeue
+empty
+enqueue 363240357
+enqueue 442101006
+size
+empty
+size
+enqueue 293034132
+enqueue 621307019
+dequeue
+dequeue
+empty
+size
+dequeue
+dequeue
+dequeue
+enqueue 325483275
+enqueue 490393453
+enqueue 394893585
+dequeue
+dequeue
+dequeue
+dequeue
+front
+enqueue 383602014
+enqueue 426695548
+enqueue 193678044
+enqueue 172459901
+dequeue
+size
+dequeue
+enqueue 90477093
+enqueue 771789232
+enqueue 533030565
+enqueue 689417987
+front
+enqueue 127240893
+dequeue
+enqueue 647415369
+front
+enqueue 899629976
+enqueue 103822344
+dequeue
+empty
+size
+enqueue 163050619
+enqueue 160929392
+empty
+enqueue 821347352
+size
+front
+enqueue 142548257
+enqueue 858757873
+enqueue 981971850
+enqueue 943645649
+dequeue
+size
+enqueue 350785227
+dequeue
+dequeue
+empty
+enqueue 391180402
+enqueue 924040476
+enqueue 563104685
+dequeue
+enqueue 64040178
+dequeue
+size
+dequeue
+size
+enqueue 547974334
+enqueue 591109575
+dequeue
+enqueue 149011712
+enqueue 468856224
+empty
+dequeue
+enqueue 112516620
+size
+dequeue
+front
+enqueue 703783911
+dequeue
+dequeue
+enqueue 591545817
+dequeue
+dequeue
+front
+clear
+dequeue
+enqueue 661039482
+enqueue 259497734
+dequeue
+dequeue
+enqueue 884162385
+full
+enqueue 616648400
+enqueue 760732958
+dequeue
+front
+enqueue 314540248
+front
+front
+front
+dequeue
+enqueue 469458933
+dequeue
+front
+enqueue 651956775
+enqueue 504761829
+enqueue 997930058
+enqueue 24996517
+empty
+dequeue
+enqueue 580677962
+enqueue 1908238
+dequeue
+size
+full
+enqueue 436446012
+size
+empty
+enqueue 165344882
+size
+enqueue 315968765
+empty
+enqueue 50287406
+enqueue 360819349
+front
+dequeue
+front
+dequeue
+front
+enqueue 298274552
+enqueue 457830122
+enqueue 544081273
+empty
+dequeue
+dequeue
+full
+enqueue 462533582
+enqueue 710625041
+enqueue 311628483
+dequeue
+enqueue 48138778
+front
+enqueue 454770722
+enqueue 934383446
+dequeue
+front
+enqueue 356707674
+enqueue 82202459
+enqueue 986714864
+empty
+enqueue 567080423
+dequeue
+enqueue 401625843
+front
+front
+front
+enqueue 975343707
+size
+dequeue
+clear
+empty
+enqueue 650989663
+enqueue 32087148
+dequeue
+front
+dequeue
+enqueue 43716780
+empty
+empty
+front
+dequeue
+full
+dequeue
+full
+size
+enqueue 682114242
+dequeue
+enqueue 859101868
+enqueue 540024223
+enqueue 155850375
+enqueue 269735591
+dequeue
+full
+enqueue 299970066
+enqueue 763093027
+dequeue
+enqueue 708880663
+dequeue
+enqueue 658358583
+enqueue 323357558
+dequeue
+enqueue 881979020
+dequeue
+front
+dequeue
+enqueue 742420868
+enqueue 482908730
+enqueue 46445151
+dequeue
+enqueue 90942149
+dequeue
+dequeue
+enqueue 889190680
+enqueue 557222602
+dequeue
+enqueue 975231799
+size
+enqueue 216207463
+enqueue 357438205
+full
+dequeue
+full
+enqueue 799192986
+enqueue 64972333
+size
+size
+clear
+dequeue
+enqueue 412616711
+enqueue 448799459
+dequeue
+size
+dequeue
+front
+enqueue 737731025
+enqueue 148609520
+dequeue
+dequeue
+enqueue 325762010
+dequeue
+empty
+enqueue 444991915
+size
+dequeue
+dequeue
+enqueue 195742053
+enqueue 805555550
+enqueue 286491858
+dequeue
+enqueue 484331770
+size
+enqueue 803420673
+enqueue 615675075
+empty
+dequeue
+enqueue 361383923
+enqueue 616864799
+dequeue
+front
+front
+enqueue 412433889
+dequeue
+dequeue
+front
+front
+front
+enqueue 952045277
+dequeue
+enqueue 666691676
+enqueue 801981026
+enqueue 394813574
+enqueue 533191873
+dequeue
+enqueue 103333037
+dequeue
+front
+enqueue 829303996
+enqueue 623930517
+size
+enqueue 560737981
+clear
+enqueue 813341247
+dequeue
+enqueue 352307603
+enqueue 432759391
+enqueue 756910273
+front
+enqueue 664581753
+dequeue
+dequeue
+dequeue
+enqueue 778604559
+enqueue 99783752
+dequeue
+enqueue 699020485
+enqueue 526779719
+dequeue
+dequeue
+enqueue 564399345
+front
+full
+dequeue
+front
+dequeue
+dequeue
+dequeue
+enqueue 342415111
+enqueue 423180541
+dequeue
+dequeue
+size
+dequeue
+enqueue 976378698
+enqueue 803461801
+dequeue
+dequeue
+dequeue
+enqueue 607569483
+front
+dequeue
+front
+enqueue 347938596
+front
+dequeue
+front
+enqueue 682279231
+enqueue 50121090
+dequeue
+dequeue
+enqueue 959986671
+enqueue 201098184
+full
+enqueue 871672987
+dequeue
+front
+full
+enqueue 264061300
+enqueue 847608451
+enqueue 4102221
+enqueue 986157241
+enqueue 302273293
+enqueue 894549738
+enqueue 921567867
+enqueue 82925443
+enqueue 225456916
+enqueue 634368259
+dequeue
+full
+dequeue
+empty
+front
+dequeue
+enqueue 468956214
+size
+enqueue 281880310
+full
+full
+dequeue
+dequeue
+dequeue
+enqueue 667639837
+enqueue 338961796
+enqueue 511756836
+enqueue 884099968
+enqueue 181966513
+enqueue 391228016
+front
+enqueue 609888196
+dequeue
+front
+dequeue
+enqueue 536359196
+dequeue
+enqueue 609321784
+dequeue
+empty
+dequeue
+enqueue 863036763
+empty
+dequeue
+dequeue
+enqueue 560141668
+dequeue
+enqueue 825164318
+enqueue 413800277
+enqueue 957110637
+dequeue
+full
+enqueue 751338832
+dequeue
+enqueue 255997460
+enqueue 733812501
+front
+front
+enqueue 701724060
+enqueue 46509638
+empty
+enqueue 136384204
+dequeue
+enqueue 668518862
+dequeue
+enqueue 999077415
+dequeue
+enqueue 364750868
+enqueue 965863726
+enqueue 294178132
+full
+dequeue
+size
+enqueue 992887796
+enqueue 385141390
+dequeue
+empty
+dequeue
+enqueue 996625246
+enqueue 637224725
+enqueue 630049902
+enqueue 17509126
+dequeue
+enqueue 641672909
+enqueue 514147638
+enqueue 857897180
+enqueue 568584429
+enqueue 111751774
+dequeue
+enqueue 377502085
+dequeue
+empty
+enqueue 88697962
+enqueue 40354194
+dequeue
+empty
+empty
+front
+enqueue 145200547
+front
+size
+size
+enqueue 665378279
+enqueue 911192936
+front
+empty
+enqueue 823401013
+front
+enqueue 690058496
+dequeue
+enqueue 32766667
+enqueue 478276200
+dequeue
+front
+dequeue
+enqueue 521999823
+dequeue
+enqueue 919609511
+enqueue 68523604
+enqueue 188714300
+dequeue
+dequeue
+enqueue 719037979
+enqueue 794056916
+size
+dequeue
+dequeue
+enqueue 507067500
+dequeue
+front
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 582611993
+enqueue 353573444
+enqueue 634944785
+dequeue
+enqueue 824510202
+enqueue 675757328
+full
+dequeue
+enqueue 101185925
+enqueue 601791718
+enqueue 799780266
+enqueue 106448864
+enqueue 122151141
+dequeue
+enqueue 162294638
+dequeue
+enqueue 99976596
+front
+size
+dequeue
+dequeue
+enqueue 171146203
+dequeue
+dequeue
+dequeue
+enqueue 636530020
+enqueue 850364784
+dequeue
+enqueue 891821506
+front
+enqueue 821959057
+dequeue
+empty
+enqueue 290108816
+size
+enqueue 650490038
+dequeue
+enqueue 372112725
+dequeue
+dequeue
+enqueue 77381537
+enqueue 550937355
+enqueue 42245137
+enqueue 973381495
+enqueue 113403406
+dequeue
+size
+dequeue
+dequeue
+dequeue
+enqueue 821534433
+dequeue
+enqueue 372073258
+enqueue 185571944
+dequeue
+front
+enqueue 700202706
+enqueue 709879526
+full
+dequeue
+dequeue
+front
+enqueue 230236866
+dequeue
+size
+dequeue
+dequeue
+front
+enqueue 58608013
+enqueue 635550217
+enqueue 977562522
+enqueue 463142142
+enqueue 850296736
+dequeue
+enqueue 589570402
+dequeue
+empty
+empty
+enqueue 397131917
+dequeue
+dequeue
+enqueue 738748672
+empty
+dequeue
+enqueue 210690101
+dequeue
+enqueue 443991121
+empty
+empty
+dequeue
+enqueue 165133633
+dequeue
+dequeue
+enqueue 231705534
+full
+dequeue
+enqueue 970488368
+enqueue 525583543
+enqueue 231872779
+dequeue
+enqueue 892182994
+empty
+enqueue 965239076
+enqueue 976858342
+dequeue
+front
+dequeue
+enqueue 885433485
+enqueue 560532130
+dequeue
+full
+full
+enqueue 877151739
+enqueue 840364706
+dequeue
+size
+dequeue
+enqueue 316392567
+enqueue 252869077
+full
+enqueue 33455030
+empty
+dequeue
+dequeue
+dequeue
+enqueue 657927528
+enqueue 909188199
+front
+dequeue
+dequeue
+empty
+enqueue 246059513
+empty
+empty
+enqueue 372464029
+dequeue
+dequeue
+enqueue 612166240
+enqueue 621692943
+front
+enqueue 586838498
+dequeue
+dequeue
+enqueue 884673917
+front
+dequeue
+empty
+dequeue
+dequeue
+enqueue 632173343
+empty
+dequeue
+dequeue
+enqueue 710206270
+enqueue 275125287
+size
+enqueue 144034583
+dequeue
+dequeue
+full
+enqueue 399344239
+empty
+enqueue 859545340
+full
+dequeue
+enqueue 90558281
+enqueue 79468373
+enqueue 641027334
+enqueue 844549772
+front
+enqueue 772309586
+dequeue
+front
+enqueue 629582949
+dequeue
+enqueue 165139761
+dequeue
+enqueue 826191184
+front
+front
+dequeue
+enqueue 184497143
+enqueue 773883600
+enqueue 901402938
+empty
+enqueue 689388397
+front
+empty
+front
+enqueue 461580012
+enqueue 204992444
+enqueue 939435503
+enqueue 310535690
+front
+size
+enqueue 130458231
+clear
+enqueue 128794543
+dequeue
+enqueue 928445454
+front
+enqueue 329104576
+enqueue 328552806
+enqueue 865370828
+dequeue
+enqueue 465929004
+enqueue 964444460
+enqueue 301639514
+size
+enqueue 833567870
+enqueue 838347667
+front
+front
+empty
+enqueue 620728907
+enqueue 473728029
+empty
+enqueue 696874474
+front
+enqueue 720381184
+dequeue
+empty
+enqueue 645545509
+dequeue
+front
+enqueue 927093944
+dequeue
+enqueue 927545118
+dequeue
+dequeue
+enqueue 145422009
+enqueue 281748310
+enqueue 381158823
+empty
+dequeue
+dequeue
+enqueue 25083553
+enqueue 448347227
+enqueue 592823168
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 865838599
+empty
+size
+enqueue 386762326
+enqueue 292087559
+size
+dequeue
+enqueue 460853405
+enqueue 622643930
+front
+dequeue
+enqueue 784319003
+dequeue
+enqueue 619818827
+enqueue 457650257
+empty
+front
+enqueue 240911290
+dequeue
+enqueue 617512779
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+empty
+dequeue
+enqueue 450031311
+dequeue
+enqueue 769153119
+dequeue
+enqueue 404464825
+dequeue
+enqueue 606558678
+empty
+enqueue 769735984
+dequeue
+front
+full
+enqueue 807616268
+dequeue
+enqueue 785832735
+enqueue 270401944
+full
+enqueue 85654402
+full
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 459775271
+size
+dequeue
+enqueue 548522356
+full
+enqueue 397341581
+enqueue 666119422
+dequeue
+full
+dequeue
+dequeue
+front
+enqueue 271856938
+enqueue 20197931
+dequeue
+enqueue 441296120
+enqueue 478322726
+enqueue 670169772
+enqueue 15945138
+enqueue 470331069
+dequeue
+dequeue
+enqueue 940530016
+dequeue
+size
+dequeue
+dequeue
+dequeue
+dequeue
+front
+dequeue
+enqueue 326586102
+enqueue 134680440
+enqueue 631052325
+enqueue 652390712
+dequeue
+enqueue 907395125
+enqueue 271039131
+empty
+dequeue
+front
+empty
+size
+size
+dequeue
+dequeue
+dequeue
+enqueue 174772725
+dequeue
+dequeue
+enqueue 890090376
+enqueue 275635333
+enqueue 459723494
+empty
+dequeue
+size
+enqueue 123686104
+dequeue
+enqueue 599241392
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 113001658
+front
+dequeue
+dequeue
+dequeue
+enqueue 309722322
+dequeue
+enqueue 742671030
+enqueue 25986276
+empty
+enqueue 495046019
+enqueue 659164616
+empty
+size
+clear
+dequeue
+front
+enqueue 362763666
+dequeue
+enqueue 772257411
+enqueue 734751733
+front
+size
+front
+dequeue
+enqueue 798735541
+front
+enqueue 318443639
+dequeue
+enqueue 420021445
+enqueue 327174663
+front
+enqueue 553029819
+size
+enqueue 576314460
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 847258418
+size
+front
+enqueue 451956535
+dequeue
+enqueue 973990237
+dequeue
+dequeue
+front
+dequeue
+enqueue 451114574
+empty
+full
+enqueue 950590623
+enqueue 908802865
+enqueue 138051220
+enqueue 305803192
+front
+enqueue 689080617
+dequeue
+dequeue
+enqueue 875813970
+dequeue
+empty
+dequeue
+enqueue 1194209
+enqueue 386435521
+enqueue 122452239
+enqueue 141549809
+dequeue
+enqueue 432490075
+dequeue
+enqueue 891363206
+enqueue 193451540
+dequeue
+enqueue 899380800
+enqueue 670632289
+enqueue 60305026
+dequeue
+enqueue 24906571
+enqueue 76080753
+dequeue
+size
+enqueue 287574972
+enqueue 107412765
+enqueue 414198497
+front
+dequeue
+full
+dequeue
+enqueue 250753473
+enqueue 928078136
+dequeue
+dequeue
+empty
+enqueue 366316682
+front
+enqueue 709896418
+enqueue 744712262
+enqueue 314798699
+enqueue 411443314
+enqueue 824717863
+dequeue
+enqueue 774448689
+dequeue
+enqueue 233732694
+full
+enqueue 985679415
+dequeue
+dequeue
+front
+dequeue
+front
+dequeue
+front
+enqueue 20133157
+enqueue 357809194
+dequeue
+dequeue
+empty
+dequeue
+enqueue 608154941
+enqueue 155726824
+enqueue 976613637
+dequeue
+enqueue 186339799
+front
+enqueue 674344455
+front
+full
+enqueue 77616317
+enqueue 432811249
+enqueue 599993918
+size
+dequeue
+enqueue 740758639
+enqueue 209847260
+front
+dequeue
+empty
+enqueue 244403421
+enqueue 611830404
+enqueue 603098612
+enqueue 292611922
+enqueue 250425416
+dequeue
+enqueue 966234229
+enqueue 964468595
+size
+enqueue 997314168
+dequeue
+dequeue
+front
+empty
+size
+front
+front
+enqueue 771234479
+dequeue
+enqueue 751234385
+front
+enqueue 951347081
+enqueue 988138103
+dequeue
+enqueue 864933735
+dequeue
+dequeue
+enqueue 197325818
+enqueue 145843524
+front
+enqueue 570722899
+enqueue 992965799
+enqueue 735402657
+enqueue 179365304
+dequeue
+full
+enqueue 458664202
+enqueue 509129152
+enqueue 27937673
+dequeue
+empty
+empty
+dequeue
+front
+enqueue 172722290
+front
+enqueue 122187587
+full
+size
+dequeue
+dequeue
+empty
+enqueue 585578280
+dequeue
+dequeue
+enqueue 564609926
+size
+enqueue 213481261
+enqueue 21242300
+front
+dequeue
+enqueue 939083071
+front
+dequeue
+dequeue
+size
+dequeue
+enqueue 946842233
+enqueue 205814838
+dequeue
+enqueue 51651605
+front
+size
+enqueue 816570951
+empty
+size
+enqueue 904774597
+dequeue
+empty
+dequeue
+enqueue 392074079
+dequeue
+enqueue 786630202
+empty
+enqueue 903251671
+front
+dequeue
+dequeue
+empty
+dequeue
+enqueue 503769449
+enqueue 398211714
+front
+enqueue 243304390
+dequeue
+enqueue 861558073
+enqueue 521353966
+enqueue 261235798
+enqueue 250861853
+size
+enqueue 441696505
+front
+enqueue 881887750
+enqueue 121799028
+enqueue 879846913
+size
+dequeue
+size
+enqueue 651716284
+enqueue 933778909
+dequeue
+dequeue
+dequeue
+enqueue 215279008
+enqueue 690439545
+enqueue 802136243
+enqueue 2932432
+enqueue 683702192
+enqueue 222286051
+dequeue
+dequeue
+empty
+enqueue 318027826
+front
+enqueue 880679787
+enqueue 564163037
+enqueue 164933088
+enqueue 601701638
+enqueue 299342983
+enqueue 95441293
+full
+enqueue 10085297
+enqueue 522004245
+enqueue 830664178
+size
+enqueue 394294602
+enqueue 893877342
+dequeue
+enqueue 420676970
+dequeue
+enqueue 918105645
+enqueue 28167108
+dequeue
+front
+enqueue 270754114
+enqueue 868806690
+dequeue
+dequeue
+enqueue 102638460
+size
+dequeue
+enqueue 826864309
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 146899971
+dequeue
+dequeue
+front
+enqueue 147411883
+size
+enqueue 447931479
+front
+front
+front
+enqueue 780938950
+dequeue
+full
+full
+dequeue
+enqueue 134602293
+front
+dequeue
+front
+enqueue 737392470
+dequeue
+dequeue
+empty
+size
+enqueue 415392159
+front
+dequeue
+enqueue 9802892
+dequeue
+dequeue
+dequeue
+front
+enqueue 436139504
+enqueue 906429173
+enqueue 291340615
+enqueue 39357799
+dequeue
+enqueue 637404761
+enqueue 613693580
+dequeue
+front
+size
+enqueue 256055299
+clear
+front
+empty
+enqueue 730300734
+enqueue 781475522
+dequeue
+dequeue
+empty
+empty
+enqueue 929750702
+dequeue
+enqueue 764864936
+front
+dequeue
+enqueue 378026431
+size
+empty
+enqueue 636200734
+dequeue
+enqueue 947968370
+enqueue 438549978
+enqueue 817629819
+clear
+enqueue 398669821
+dequeue
+dequeue
+enqueue 902621365
+full
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 41170207
+enqueue 805771632
+empty
+enqueue 506238720
+dequeue
+enqueue 630383053
+dequeue
+full
+enqueue 385885045
+enqueue 775477190
+dequeue
+enqueue 190867839
+dequeue
+empty
+enqueue 114185240
+dequeue
+enqueue 955365573
+enqueue 243892803
+dequeue
+enqueue 55228560
+enqueue 199799945
+front
+empty
+full
+empty
+dequeue
+enqueue 652958180
+enqueue 754729722
+dequeue
+enqueue 426059708
+full
+full
+dequeue
+dequeue
+enqueue 95140962
+enqueue 772029774
+dequeue
+dequeue
+enqueue 71947246
+enqueue 437216747
+dequeue
+dequeue
+dequeue
+enqueue 225719010
+enqueue 34521865
+enqueue 816043624
+enqueue 582444797
+enqueue 355982586
+dequeue
+size
+enqueue 349072271
+size
+empty
+enqueue 200728222
+enqueue 773071873
+enqueue 66742672
+enqueue 768348068
+front
+front
+dequeue
+enqueue 92575033
+enqueue 319632420
+front
+empty
+dequeue
+front
+enqueue 866228398
+enqueue 606014130
+enqueue 925520223
+front
+enqueue 866606759
+dequeue
+enqueue 372627735
+enqueue 461498593
+enqueue 292417308
+enqueue 688911040
+dequeue
+dequeue
+enqueue 975124311
+size
+enqueue 600485818
+dequeue
+enqueue 688004593
+enqueue 765896208
+enqueue 563342574
+size
+enqueue 334954967
+enqueue 84673005
+enqueue 961187321
+enqueue 41191242
+full
+enqueue 319789111
+enqueue 177731185
+size
+enqueue 808715513
+dequeue
+enqueue 943962684
+enqueue 462530060
+enqueue 886879381
+empty
+enqueue 240397541
+enqueue 35970080
+enqueue 882119330
+dequeue
+dequeue
+enqueue 528544375
+dequeue
+enqueue 587417272
+front
+front
+dequeue
+front
+dequeue
+front
+enqueue 941896482
+empty
+dequeue
+enqueue 638695525
+enqueue 238855405
+dequeue
+enqueue 753672219
+enqueue 413738132
+enqueue 480941951
+size
+enqueue 126530631
+size
+enqueue 164307388
+front
+size
+enqueue 898730756
+enqueue 77399386
+enqueue 245977499
+enqueue 452804684
+enqueue 867647485
+enqueue 785102314
+front
+dequeue
+enqueue 861351021
+dequeue
+enqueue 162783104
+enqueue 461212570
+dequeue
+full
+full
+dequeue
+dequeue
+enqueue 325580078
+size
+front
+dequeue
+enqueue 421896798
+enqueue 87256918
+front
+dequeue
+enqueue 751706679
+empty
+front
+enqueue 226044352
+enqueue 27109554
+front
+dequeue
+dequeue
+enqueue 817301780
+empty
+dequeue
+enqueue 447195649
+enqueue 477299325
+enqueue 893155905
+enqueue 934308114
+dequeue
+dequeue
+dequeue
+enqueue 200448700
+enqueue 689349962
+enqueue 842442889
+enqueue 623378708
+enqueue 79164506
+enqueue 797059
+size
+full
+enqueue 886529371
+dequeue
+enqueue 495528259
+dequeue
+enqueue 807127778
+enqueue 620499778
+enqueue 816914118
+enqueue 947830938
+dequeue
+enqueue 774227845
+dequeue
+enqueue 628669016
+front
+enqueue 985581252
+dequeue
+enqueue 639991754
+size
+enqueue 563740145
+full
+enqueue 195634521
+dequeue
+enqueue 679753636
+dequeue
+front
+dequeue
+front
+dequeue
+enqueue 719579071
+dequeue
+front
+dequeue
+enqueue 708986818
+dequeue
+dequeue
+full
+enqueue 178941461
+enqueue 937115601
+enqueue 58600569
+front
+enqueue 382785359
+enqueue 839861067
+empty
+dequeue
+enqueue 363604821
+dequeue
+dequeue
+enqueue 725625913
+enqueue 222139966
+enqueue 767850977
+dequeue
+size
+dequeue
+enqueue 121606212
+dequeue
+dequeue
+enqueue 309773279
+dequeue
+full
+dequeue
+enqueue 452155542
+enqueue 131210219
+enqueue 683491397
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 313995106
+front
+front
+empty
+enqueue 595454917
+dequeue
+enqueue 519007470
+enqueue 35961688
+front
+enqueue 344358150
+dequeue
+front
+full
+enqueue 601538348
+enqueue 520100728
+dequeue
+dequeue
+enqueue 166484219
+enqueue 562985003
+enqueue 304508883
+dequeue
+front
+dequeue
+enqueue 562540521
+enqueue 835424111
+dequeue
+dequeue
+enqueue 638601194
+front
+enqueue 478040750
+dequeue
+dequeue
+front
+enqueue 573415658
+dequeue
+empty
+enqueue 312397761
+enqueue 972124853
+enqueue 577500610
+enqueue 454975653
+enqueue 421860894
+size
+dequeue
+empty
+enqueue 163698582
+enqueue 297215226
+dequeue
+enqueue 891898461
+enqueue 62721366
+dequeue
+dequeue
+front
+front
+enqueue 323543394
+empty
+dequeue
+enqueue 445147683
+front
+dequeue
+dequeue
+enqueue 63354234
+dequeue
+enqueue 741980012
+dequeue
+enqueue 695965773
+dequeue
+enqueue 770227515
+enqueue 153929974
+enqueue 373074387
+dequeue
+dequeue
+dequeue
+front
+enqueue 55700151
+enqueue 794563831
+dequeue
+enqueue 87861147
+dequeue
+full
+front
+enqueue 81088315
+dequeue
+dequeue
+dequeue
+enqueue 632572446
+enqueue 466526727
+dequeue
+dequeue
+dequeue
+front
+enqueue 296048441
+enqueue 244402446
+enqueue 635073943
+front
+enqueue 546148552
+dequeue
+dequeue
+enqueue 790406498
+enqueue 18657311
+dequeue
+dequeue
+front
+front
+dequeue
+enqueue 958980797
+front
+enqueue 90490149
+empty
+front
+enqueue 737492007
+enqueue 367741773
+front
+enqueue 317944018
+enqueue 926904893
+size
+enqueue 493095842
+full
+dequeue
+empty
+enqueue 433170839
+dequeue
+dequeue
+dequeue
+enqueue 701740371
+enqueue 967123815
+dequeue
+enqueue 294515500
+dequeue
+dequeue
+dequeue
+enqueue 146549939
+front
+enqueue 763633793
+dequeue
+dequeue
+enqueue 109689071
+enqueue 669436177
+enqueue 718254527
+enqueue 349086839
+enqueue 618761631
+dequeue
+dequeue
+enqueue 676428053
+front
+enqueue 870811179
+enqueue 617856523
+dequeue
+empty
+enqueue 816798152
+enqueue 662761198
+enqueue 579413025
+full
+dequeue
+enqueue 819036436
+enqueue 899907083
+dequeue
+dequeue
+size
+enqueue 915817727
+size
+enqueue 89707225
+enqueue 610774347
+front
+enqueue 31473313
+enqueue 223765948
+dequeue
+enqueue 645641755
+dequeue
+enqueue 968901483
+enqueue 362760648
+dequeue
+enqueue 641520950
+enqueue 697835352
+front
+enqueue 771635620
+empty
+enqueue 608483512
+dequeue
+dequeue
+enqueue 490265753
+enqueue 545163244
+enqueue 913630292
+enqueue 399246487
+size
+size
+full
+enqueue 577867185
+dequeue
+enqueue 95242648
+enqueue 844812722
+enqueue 431533225
+enqueue 605233598
+size
+enqueue 501669151
+enqueue 135998213
+enqueue 877068946
+front
+dequeue
+enqueue 313831459
+dequeue
+empty
+enqueue 771160222
+enqueue 622422349
+front
+dequeue
+enqueue 731605900
+front
+empty
+dequeue
+dequeue
+enqueue 10681048
+dequeue
+dequeue
+enqueue 819873695
+full
+empty
+dequeue
+dequeue
+enqueue 497152836
+full
+enqueue 951718365
+enqueue 481040826
+enqueue 602883505
+empty
+dequeue
+enqueue 845622945
+dequeue
+enqueue 58222342
+enqueue 193952730
+enqueue 423204365
+dequeue
+dequeue
+front
+enqueue 995602109
+enqueue 723671326
+enqueue 794041483
+enqueue 79658048
+dequeue
+enqueue 659183058
+dequeue
+full
+dequeue
+dequeue
+empty
+enqueue 383778043
+enqueue 28474255
+full
+enqueue 868679254
+empty
+full
+dequeue
+enqueue 486646769
+dequeue
+dequeue
+enqueue 397117914
+enqueue 591197657
+enqueue 66074127
+enqueue 756054871
+dequeue
+dequeue
+dequeue
+dequeue
+size
+dequeue
+dequeue
+enqueue 874512099
+enqueue 670794343
+front
+enqueue 965317973
+front
+enqueue 487253024
+enqueue 392237816
+dequeue
+full
+dequeue
+dequeue
+empty
+size
+empty
+enqueue 441634867
+full
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+front
+dequeue
+front
+dequeue
+dequeue
+size
+dequeue
+dequeue
+enqueue 544653620
+enqueue 389567683
+dequeue
+enqueue 328898322
+enqueue 42135315
+enqueue 228356587
+enqueue 277876471
+enqueue 811113516
+size
+enqueue 927720549
+dequeue
+enqueue 222783783
+enqueue 346340541
+dequeue
+dequeue
+empty
+dequeue
+full
+enqueue 889517197
+enqueue 289727790
+front
+dequeue
+dequeue
+front
+dequeue
+dequeue
+dequeue
+front
+front
+empty
+enqueue 189549590
+enqueue 994833128
+size
+dequeue
+front
+size
+full
+dequeue
+enqueue 774926508
+dequeue
+enqueue 221194333
+enqueue 490914391
+enqueue 330042143
+dequeue
+full
+enqueue 574775690
+enqueue 305588317
+size
+dequeue
+enqueue 908041348
+size
+front
+enqueue 524925956
+full
+dequeue
+enqueue 594994076
+dequeue
+dequeue
+enqueue 318092998
+dequeue
+enqueue 149729929
+enqueue 735255456
+dequeue
+dequeue
+empty
+enqueue 552525495
+enqueue 383450606
+front
+dequeue
+enqueue 981866560
+front
+enqueue 721484028
+dequeue
+size
+empty
+size
+enqueue 678770439
+dequeue
+dequeue
+size
+dequeue
+enqueue 77050598
+dequeue
+size
+enqueue 517878543
+front
+enqueue 741362594
+enqueue 477830935
+enqueue 484334888
+dequeue
+front
+enqueue 802418390
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 265453189
+enqueue 466437187
+front
+enqueue 849549039
+enqueue 647655841
+dequeue
+enqueue 203054167
+dequeue
+enqueue 563025945
+enqueue 132827713
+enqueue 497983347
+size
+empty
+clear
+enqueue 567624277
+full
+enqueue 11399070
+dequeue
+size
+enqueue 907940438
+enqueue 198939770
+enqueue 673932866
+enqueue 729194397
+dequeue
+dequeue
+dequeue
+dequeue
+front
+enqueue 559684400
+dequeue
+enqueue 510365642
+front
+dequeue
+empty
+enqueue 572080777
+dequeue
+enqueue 581848363
+enqueue 956104512
+dequeue
+enqueue 545844714
+dequeue
+front
+dequeue
+enqueue 464741504
+enqueue 144251277
+dequeue
+front
+enqueue 768261222
+enqueue 922310864
+enqueue 592790205
+dequeue
+dequeue
+front
+dequeue
+enqueue 293656324
+dequeue
+front
+dequeue
+dequeue
+dequeue
+enqueue 293443488
+empty
+enqueue 326309925
+front
+dequeue
+enqueue 495496989
+enqueue 599954002
+dequeue
+dequeue
+dequeue
+full
+front
+dequeue
+front
+enqueue 302666960
+enqueue 763300002
+size
+enqueue 550280879
+dequeue
+enqueue 592977861
+front
+dequeue
+front
+enqueue 555392251
+enqueue 249733588
+dequeue
+enqueue 150618204
+enqueue 68511582
+dequeue
+enqueue 469192110
+enqueue 296397542
+dequeue
+enqueue 413989705
+enqueue 840405976
+dequeue
+enqueue 489018197
+enqueue 685740273
+enqueue 726678645
+enqueue 951755268
+enqueue 839404045
+dequeue
+front
+enqueue 643056455
+enqueue 173956514
+enqueue 824134499
+front
+enqueue 775106273
+dequeue
+enqueue 247820818
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 822171925
+empty
+enqueue 341496567
+enqueue 879764483
+front
+front
+dequeue
+enqueue 360972501
+enqueue 855237772
+enqueue 780182584
+dequeue
+dequeue
+front
+front
+empty
+front
+front
+size
+enqueue 49787386
+enqueue 25854868
+full
+full
+enqueue 919912718
+enqueue 375257233
+empty
+enqueue 222661752
+size
+dequeue
+dequeue
+dequeue
+enqueue 198370917
+enqueue 883592766
+enqueue 471214410
+dequeue
+empty
+enqueue 310211297
+dequeue
+enqueue 947541644
+enqueue 439823405
+enqueue 957540326
+enqueue 928134977
+enqueue 54452264
+dequeue
+size
+enqueue 503457050
+enqueue 499232097
+size
+dequeue
+enqueue 655566098
+empty
+enqueue 647569680
+enqueue 604061807
+size
+dequeue
+dequeue
+enqueue 973492631
+front
+enqueue 419002825
+enqueue 836299303
+enqueue 508589535
+front
+enqueue 290124470
+enqueue 138745380
+front
+enqueue 464109004
+front
+enqueue 606573430
+clear
+enqueue 300369400
+front
+enqueue 224122042
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 260331120
+full
+dequeue
+dequeue
+enqueue 207740911
+enqueue 771900375
+enqueue 711569271
+dequeue
+enqueue 763618666
+enqueue 752594919
+enqueue 2604948
+enqueue 499064207
+dequeue
+enqueue 364329453
+front
+enqueue 755155419
+empty
+size
+enqueue 782903453
+dequeue
+enqueue 936712218
+empty
+enqueue 563457874
+dequeue
+size
+full
+front
+dequeue
+dequeue
+front
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 68608350
+enqueue 172600303
+enqueue 538314848
+dequeue
+enqueue 975426676
+dequeue
+enqueue 177034384
+enqueue 789337784
+enqueue 429328620
+enqueue 969664483
+dequeue
+dequeue
+full
+enqueue 416389021
+enqueue 906099702
+enqueue 614896234
+enqueue 49955290
+enqueue 223471465
+enqueue 258899710
+enqueue 586517090
+dequeue
+enqueue 328043366
+enqueue 442967663
+front
+enqueue 637841183
+dequeue
+dequeue
+size
+full
+enqueue 457765909
+dequeue
+front
+dequeue
+dequeue
+enqueue 92362905
+enqueue 745842483
+enqueue 916452442
+front
+enqueue 40765681
+dequeue
+dequeue
+enqueue 971562996
+enqueue 444804179
+enqueue 19028080
+enqueue 177533595
+size
+enqueue 950301680
+enqueue 985443871
+dequeue
+dequeue
+dequeue
+enqueue 393510293
+dequeue
+enqueue 810110743
+enqueue 612661510
+size
+enqueue 435516849
+front
+enqueue 99814242
+enqueue 40143235
+enqueue 63069876
+dequeue
+empty
+enqueue 177018564
+dequeue
+enqueue 373108545
+dequeue
+dequeue
+enqueue 827834164
+size
+size
+dequeue
+enqueue 680741561
+full
+empty
+enqueue 850260137
+enqueue 686321462
+size
+enqueue 752263735
+enqueue 868152047
+enqueue 711318316
+enqueue 540131518
+front
+enqueue 209497737
+enqueue 319641538
+enqueue 406559570
+dequeue
+dequeue
+dequeue
+size
+front
+dequeue
+dequeue
+dequeue
+enqueue 164130737
+dequeue
+enqueue 954577677
+enqueue 766269134
+enqueue 335908850
+enqueue 362805461
+front
+size
+enqueue 853671619
+enqueue 798698298
+enqueue 654657811
+enqueue 438474983
+enqueue 576501265
+enqueue 706593612
+enqueue 886291357
+enqueue 485827091
+enqueue 293790652
+enqueue 516858672
+enqueue 537702099
+size
+size
+dequeue
+dequeue
+size
+dequeue
+full
+enqueue 862250643
+enqueue 680055046
+dequeue
+enqueue 544947232
+front
+dequeue
+enqueue 976387249
+enqueue 179008655
+dequeue
+front
+enqueue 181323668
+dequeue
+enqueue 920729642
+size
+dequeue
+front
+enqueue 830729429
+front
+dequeue
+enqueue 437065594
+enqueue 90647439
+enqueue 792317376
+enqueue 618479765
+enqueue 895750753
+front
+dequeue
+full
+enqueue 160574416
+enqueue 27919781
+size
+front
+dequeue
+enqueue 761437671
+enqueue 60364127
+dequeue
+dequeue
+enqueue 7368037
+front
+dequeue
+enqueue 994534182
+enqueue 513997941
+front
+empty
+dequeue
+front
+enqueue 921009853
+dequeue
+enqueue 332722470
+dequeue
+dequeue
+front
+dequeue
+size
+enqueue 488422374
+enqueue 449404031
+dequeue
+dequeue
+dequeue
+enqueue 720582755
+dequeue
+size
+front
+dequeue
+full
+enqueue 893437640
+dequeue
+enqueue 819069855
+dequeue
+dequeue
+size
+enqueue 44517405
+enqueue 126795309
+size
+dequeue
+enqueue 858520174
+enqueue 529903769
+enqueue 672179046
+enqueue 425049414
+enqueue 788574950
+enqueue 332716063
+enqueue 109513515
+enqueue 191808331
+enqueue 361855507
+enqueue 94063042
+enqueue 833743661
+dequeue
+dequeue
+enqueue 83714875
+enqueue 222505636
+dequeue
+dequeue
+front
+front
+dequeue
+dequeue
+enqueue 508320602
+front
+dequeue
+enqueue 872954649
+enqueue 904544033
+enqueue 505458972
+front
+empty
+front
+enqueue 752907562
+enqueue 772529810
+dequeue
+enqueue 659071624
+enqueue 747709276
+enqueue 434531628
+enqueue 297425957
+front
+enqueue 667306792
+dequeue
+full
+enqueue 666236317
+dequeue
+enqueue 379694624
+dequeue
+full
+enqueue 37914759
+enqueue 747366139
+enqueue 599880380
+enqueue 169794132
+dequeue
+enqueue 925823638
+dequeue
+enqueue 580971142
+empty
+full
+enqueue 188937668
+empty
+enqueue 627588314
+front
+dequeue
+dequeue
+dequeue
+enqueue 600736500
+dequeue
+enqueue 220012333
+dequeue
+dequeue
+front
+dequeue
+enqueue 886140747
+enqueue 442237074
+enqueue 817510560
+enqueue 90220103
+dequeue
+empty
+enqueue 779846931
+dequeue
+enqueue 81144846
+size
+enqueue 763592845
+empty
+size
+empty
+enqueue 453273155
+dequeue
+enqueue 344945372
+front
+empty
+enqueue 654398182
+enqueue 770845486
+front
+dequeue
+front
+enqueue 155751764
+size
+front
+enqueue 283920868
+front
+front
+enqueue 207667199
+front
+enqueue 388930893
+size
+dequeue
+enqueue 212797288
+size
+enqueue 113878872
+front
+dequeue
+dequeue
+front
+enqueue 619670927
+front
+dequeue
+empty
+enqueue 568383480
+enqueue 796316099
+enqueue 687962068
+dequeue
+enqueue 814863775
+size
+enqueue 191855305
+enqueue 745970409
+full
+dequeue
+dequeue
+enqueue 182878140
+enqueue 505381820
+enqueue 800216074
+dequeue
+full
+enqueue 403786250
+enqueue 345116971
+dequeue
+dequeue
+dequeue
+enqueue 913210274
+enqueue 942071024
+size
+enqueue 842767358
+dequeue
+full
+enqueue 123455202
+enqueue 293777390
+front
+dequeue
+dequeue
+enqueue 686084353
+dequeue
+dequeue
+dequeue
+enqueue 350743322
+enqueue 258757796
+dequeue
+enqueue 422749090
+dequeue
+dequeue
+size
+enqueue 651570651
+enqueue 624073236
+size
+enqueue 600300470
+front
+dequeue
+dequeue
+enqueue 654144807
+enqueue 73015688
+size
+dequeue
+enqueue 329319085
+dequeue
+enqueue 700670340
+enqueue 689845213
+enqueue 683507714
+dequeue
+dequeue
+enqueue 229647933
+enqueue 164705487
+empty
+dequeue
+dequeue
+enqueue 881075883
+full
+enqueue 629149093
+full
+enqueue 45196929
+dequeue
+dequeue
+front
+enqueue 704418064
+enqueue 258704493
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 258974382
+empty
+front
+dequeue
+front
+dequeue
+enqueue 50304390
+enqueue 327255342
+enqueue 319558354
+enqueue 159090772
+empty
+enqueue 36661482
+dequeue
+enqueue 539411989
+dequeue
+enqueue 644007738
+enqueue 898325537
+enqueue 525025742
+enqueue 849002954
+enqueue 714972767
+enqueue 534661154
+enqueue 221751186
+front
+enqueue 413282547
+enqueue 233723055
+enqueue 10452071
+front
+enqueue 565536451
+full
+size
+empty
+dequeue
+enqueue 718710837
+enqueue 743820522
+enqueue 982289319
+enqueue 225833852
+enqueue 114054682
+empty
+enqueue 641621300
+dequeue
+dequeue
+dequeue
+enqueue 697991252
+front
+size
+empty
+front
+front
+enqueue 418124503
+dequeue
+enqueue 254549505
+empty
+front
+dequeue
+front
+clear
+dequeue
+enqueue 55143230
+enqueue 418597460
+enqueue 691149233
+enqueue 129376990
+enqueue 209420704
+enqueue 675890163
+enqueue 682752773
+enqueue 354777461
+enqueue 422119895
+empty
+enqueue 762781969
+full
+enqueue 782228907
+enqueue 364580646
+enqueue 679016018
+enqueue 725611736
+dequeue
+enqueue 182480805
+size
+dequeue
+enqueue 517094866
+enqueue 774561986
+dequeue
+dequeue
+enqueue 655917677
+enqueue 280050461
+enqueue 445012853
+empty
+enqueue 285067417
+dequeue
+enqueue 377016060
+enqueue 781425872
+enqueue 256622171
+enqueue 816767311
+dequeue
+front
+enqueue 92338172
+dequeue
+enqueue 105958455
+full
+dequeue
+front
+size
+enqueue 527812895
+dequeue
+enqueue 410096896
+dequeue
+enqueue 761480208
+enqueue 878377171
+enqueue 844168469
+enqueue 728951204
+enqueue 513988793
+dequeue
+dequeue
+empty
+enqueue 90105128
+enqueue 708374731
+enqueue 357556676
+enqueue 416389330
+enqueue 64529662
+empty
+front
+front
+enqueue 310870673
+front
+front
+size
+dequeue
+dequeue
+enqueue 909308285
+enqueue 618416503
+dequeue
+dequeue
+dequeue
+enqueue 928375642
+enqueue 998827127
+empty
+dequeue
+dequeue
+dequeue
+size
+empty
+enqueue 512888369
+dequeue
+enqueue 500678531
+size
+enqueue 275947390
+enqueue 30815048
+dequeue
+dequeue
+enqueue 141857330
+enqueue 102105900
+dequeue
+enqueue 75906932
+dequeue
+enqueue 761961577
+enqueue 434745425
+enqueue 366675946
+enqueue 665988016
+dequeue
+enqueue 228004644
+dequeue
+enqueue 340391946
+dequeue
+dequeue
+dequeue
+enqueue 819536935
+dequeue
+enqueue 313816926
+enqueue 113772906
+dequeue
+enqueue 214907543
+enqueue 671533087
+enqueue 114597612
+enqueue 18966879
+dequeue
+dequeue
+enqueue 713775395
+enqueue 419190796
+size
+enqueue 825758000
+enqueue 71232954
+enqueue 163058090
+enqueue 164726892
+enqueue 283959989
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 592287816
+enqueue 334089816
+enqueue 185306377
+dequeue
+dequeue
+dequeue
+enqueue 698463652
+enqueue 612412903
+dequeue
+enqueue 744164196
+full
+enqueue 176006007
+enqueue 954556909
+enqueue 664423062
+dequeue
+dequeue
+enqueue 723394277
+enqueue 352566716
+enqueue 763742457
+front
+enqueue 825030083
+dequeue
+empty
+size
+enqueue 712443126
+enqueue 877282668
+enqueue 305768952
+front
+dequeue
+dequeue
+enqueue 80781013
+front
+enqueue 483923134
+empty
+dequeue
+enqueue 813840171
+dequeue
+dequeue
+front
+dequeue
+empty
+dequeue
+enqueue 995880334
+empty
+dequeue
+enqueue 381756545
+enqueue 227233735
+dequeue
+full
+enqueue 887652811
+front
+enqueue 635542882
+enqueue 515934787
+enqueue 45651849
+dequeue
+enqueue 535039842
+front
+dequeue
+enqueue 674507448
+enqueue 740715469
+enqueue 615166975
+size
+dequeue
+empty
+dequeue
+enqueue 797706398
+dequeue
+enqueue 586178743
+enqueue 877609224
+enqueue 944375913
+front
+front
+enqueue 581751558
+front
+dequeue
+dequeue
+empty
+empty
+enqueue 607197330
+front
+front
+front
+dequeue
+enqueue 564682748
+enqueue 709706401
+empty
+enqueue 661875594
+dequeue
+enqueue 406673365
+enqueue 257354651
+dequeue
+dequeue
+full
+front
+front
+front
+front
+dequeue
+dequeue
+enqueue 713770798
+empty
+empty
+enqueue 97374493
+front
+enqueue 700281311
+enqueue 812011558
+enqueue 164333188
+enqueue 918300526
+enqueue 478130940
+dequeue
+full
+front
+enqueue 337814536
+full
+enqueue 872158705
+dequeue
+enqueue 359719384
+enqueue 859629647
+enqueue 155496714
+enqueue 701771202
+size
+enqueue 935715328
+enqueue 602617413
+size
+enqueue 255200629
+empty
+enqueue 246814238
+enqueue 233492548
+enqueue 844980097
+enqueue 150531255
+enqueue 648142727
+enqueue 890454725
+front
+enqueue 738714959
+enqueue 189751248
+full
+enqueue 160499326
+front
+dequeue
+dequeue
+dequeue
+dequeue
+size
+enqueue 56728604
+enqueue 296955716
+full
+dequeue
+empty
+dequeue
+dequeue
+size
+dequeue
+dequeue
+enqueue 234871217
+enqueue 196527296
+size
+dequeue
+enqueue 733768861
+dequeue
+dequeue
+size
+enqueue 214677959
+front
+enqueue 683943669
+empty
+enqueue 614077060
+enqueue 367617030
+enqueue 391783441
+enqueue 456668821
+full
+enqueue 262816644
+enqueue 239825184
+enqueue 905145769
+enqueue 582872962
+size
+front
+enqueue 129569299
+dequeue
+enqueue 725702401
+dequeue
+dequeue
+enqueue 375824243
+front
+enqueue 996931936
+enqueue 166917621
+enqueue 958908891
+dequeue
+enqueue 534317924
+enqueue 59435371
+enqueue 108352395
+enqueue 987377327
+enqueue 485949117
+enqueue 799578006
+dequeue
+enqueue 358482717
+front
+empty
+enqueue 97086268
+dequeue
+enqueue 995757296
+dequeue
+enqueue 241282968
+enqueue 881953187
+dequeue
+full
+dequeue
+dequeue
+dequeue
+enqueue 22138597
+enqueue 259886282
+enqueue 870756883
+enqueue 657304364
+enqueue 56008942
+dequeue
+enqueue 959820680
+dequeue
+dequeue
+enqueue 36251172
+dequeue
+dequeue
+dequeue
+front
+enqueue 39328588
+front
+enqueue 396699760
+empty
+front
+size
+dequeue
+size
+enqueue 385581892
+dequeue
+front
+size
+dequeue
+enqueue 23333511
+empty
+dequeue
+enqueue 439649289
+empty
+dequeue
+front
+enqueue 758345707
+enqueue 315040084
+dequeue
+dequeue
+enqueue 459815380
+size
+front
+clear
+full
+size
+dequeue
+dequeue
+enqueue 911278418
+empty
+enqueue 821214368
+enqueue 412638103
+empty
+enqueue 153991603
+front
+enqueue 838679966
+dequeue
+dequeue
+dequeue
+enqueue 840262907
+empty
+full
+empty
+dequeue
+enqueue 460983548
+enqueue 223833505
+full
+dequeue
+enqueue 530546756
+enqueue 798365983
+dequeue
+enqueue 418525599
+enqueue 771248873
+dequeue
+size
+enqueue 104569734
+full
+dequeue
+front
+enqueue 160775593
+dequeue
+enqueue 936246871
+dequeue
+dequeue
+size
+enqueue 709606085
+enqueue 11458800
+enqueue 156742300
+dequeue
+front
+empty
+enqueue 397350054
+dequeue
+enqueue 745993576
+front
+dequeue
+enqueue 62096275
+enqueue 535644575
+front
+empty
+enqueue 513002087
+enqueue 561581722
+enqueue 213506634
+enqueue 778948682
+enqueue 993842041
+dequeue
+enqueue 218490291
+enqueue 949357717
+enqueue 140543617
+enqueue 169282810
+dequeue
+front
+dequeue
+dequeue
+enqueue 327175873
+empty
+empty
+enqueue 383790958
+enqueue 960969072
+enqueue 913592206
+dequeue
+enqueue 32428845
+full
+enqueue 793516594
+enqueue 568218369
+size
+size
+dequeue
+size
+front
+enqueue 251738764
+empty
+enqueue 375977172
+enqueue 720357474
+enqueue 128751309
+empty
+enqueue 166573726
+enqueue 532779073
+enqueue 761029966
+dequeue
+front
+dequeue
+front
+dequeue
+enqueue 774882049
+size
+dequeue
+enqueue 306468267
+size
+front
+dequeue
+enqueue 775039073
+dequeue
+enqueue 349948519
+front
+enqueue 585440541
+dequeue
+front
+dequeue
+dequeue
+enqueue 728112988
+dequeue
+enqueue 821088174
+dequeue
+enqueue 934319047
+enqueue 827720002
+dequeue
+enqueue 908358769
+size
+enqueue 145510398
+enqueue 970292931
+enqueue 864908511
+dequeue
+enqueue 624201877
+front
+enqueue 390499058
+dequeue
+enqueue 721079642
+enqueue 692158314
+enqueue 595401584
+dequeue
+dequeue
+dequeue
+empty
+enqueue 131013989
+enqueue 246584024
+front
+enqueue 523924007
+dequeue
+front
+enqueue 152966927
+enqueue 151233312
+enqueue 656659366
+dequeue
+enqueue 347240023
+enqueue 936522450
+enqueue 289314884
+dequeue
+enqueue 123671118
+dequeue
+enqueue 344395168
+enqueue 215454887
+dequeue
+enqueue 950494041
+dequeue
+front
+enqueue 56397647
+dequeue
+dequeue
+enqueue 698356809
+enqueue 401536008
+enqueue 391958834
+enqueue 122907436
+dequeue
+enqueue 403274015
+enqueue 885095538
+dequeue
+front
+enqueue 95163677
+enqueue 995613271
+enqueue 711958998
+dequeue
+empty
+enqueue 246370884
+enqueue 463073160
+enqueue 427580992
+dequeue
+enqueue 544008903
+front
+enqueue 274218521
+dequeue
+enqueue 305761110
+empty
+empty
+enqueue 228313931
+enqueue 345753120
+enqueue 437092553
+enqueue 575793856
+size
+enqueue 854042192
+dequeue
+dequeue
+clear
+enqueue 942558974
+enqueue 754863703
+dequeue
+enqueue 444193971
+enqueue 865066391
+front
+enqueue 717575095
+enqueue 794228840
+dequeue
+enqueue 923805116
+enqueue 220245792
+enqueue 171493138
+dequeue
+full
+dequeue
+enqueue 515544570
+size
+enqueue 18975401
+enqueue 481900829
+dequeue
+enqueue 722214630
+enqueue 220564781
+dequeue
+enqueue 881384044
+full
+enqueue 35682840
+enqueue 882445840
+dequeue
+enqueue 559554723
+dequeue
+enqueue 140577211
+enqueue 372392892
+enqueue 211753084
+enqueue 753088867
+enqueue 939384178
+enqueue 521029514
+front
+dequeue
+front
+dequeue
+enqueue 70283123
+empty
+enqueue 492937352
+enqueue 292620822
+dequeue
+enqueue 228652462
+dequeue
+full
+enqueue 347384911
+dequeue
+enqueue 559016158
+enqueue 387942763
+enqueue 19749460
+front
+enqueue 803760684
+enqueue 525458923
+full
+front
+front
+enqueue 525268781
+size
+enqueue 365015671
+dequeue
+dequeue
+enqueue 897608904
+size
+size
+dequeue
+front
+dequeue
+enqueue 407150406
+enqueue 509494327
+dequeue
+front
+front
+dequeue
+enqueue 744089365
+enqueue 510949196
+enqueue 505256997
+enqueue 661429135
+size
+dequeue
+enqueue 371040055
+dequeue
+size
+enqueue 166684071
+dequeue
+size
+dequeue
+enqueue 637492175
+enqueue 734675095
+enqueue 696092463
+front
+empty
+size
+dequeue
+enqueue 601282679
+enqueue 854940198
+clear
+dequeue
+enqueue 808353631
+dequeue
+enqueue 724180468
+front
+enqueue 488696472
+enqueue 927972384
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 914363367
+empty
+dequeue
+enqueue 583172296
+front
+front
+enqueue 797295688
+enqueue 909045548
+dequeue
+front
+dequeue
+enqueue 586481046
+enqueue 608601721
+enqueue 701015263
+enqueue 162973064
+enqueue 53364985
+dequeue
+enqueue 637468577
+size
+dequeue
+empty
+enqueue 723861646
+front
+size
+dequeue
+dequeue
+enqueue 165361810
+dequeue
+enqueue 577082570
+clear
+enqueue 529667499
+enqueue 402168097
+dequeue
+dequeue
+enqueue 264939822
+enqueue 916248128
+enqueue 615182371
+dequeue
+enqueue 909643122
+enqueue 217753292
+enqueue 692583604
+dequeue
+front
+enqueue 566298541
+enqueue 731197626
+dequeue
+enqueue 191166052
+enqueue 704756020
+enqueue 723942086
+dequeue
+dequeue
+dequeue
+size
+front
+dequeue
+enqueue 12300264
+enqueue 236360047
+enqueue 941526588
+enqueue 323285657
+enqueue 484552930
+dequeue
+dequeue
+enqueue 347536107
+dequeue
+enqueue 460661737
+enqueue 761613373
+dequeue
+front
+dequeue
+enqueue 23075107
+dequeue
+dequeue
+enqueue 642740121
+empty
+front
+size
+enqueue 722193526
+dequeue
+dequeue
+enqueue 230849135
+enqueue 407264333
+enqueue 786845199
+enqueue 825391101
+dequeue
+empty
+enqueue 282833626
+enqueue 587208322
+size
+dequeue
+enqueue 339304724
+size
+front
+size
+dequeue
+dequeue
+enqueue 472589096
+front
+enqueue 40575134
+enqueue 720045723
+dequeue
+dequeue
+full
+enqueue 276366932
+front
+dequeue
+dequeue
+enqueue 186795360
+dequeue
+enqueue 54940248
+dequeue
+enqueue 307638058
+enqueue 702307795
+enqueue 884948674
+front
+front
+enqueue 320325456
+dequeue
+enqueue 114088825
+dequeue
+size
+enqueue 383358177
+front
+dequeue
+size
+enqueue 391777432
+dequeue
+enqueue 998454892
+enqueue 444761123
+empty
+enqueue 164623771
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 685128692
+enqueue 583120193
+front
+front
+size
+dequeue
+enqueue 868390602
+enqueue 527874397
+enqueue 742809699
+enqueue 625998577
+dequeue
+dequeue
+dequeue
+front
+size
+size
+dequeue
+enqueue 941766470
+enqueue 536550496
+front
+enqueue 856239267
+enqueue 240115171
+dequeue
+empty
+dequeue
+size
+enqueue 972481185
+enqueue 437654536
+enqueue 942588721
+enqueue 673073186
+dequeue
+enqueue 822978804
+full
+dequeue
+enqueue 639952568
+enqueue 749025106
+enqueue 413339646
+enqueue 903478029
+enqueue 688579114
+dequeue
+enqueue 954094178
+dequeue
+size
+front
+front
+enqueue 871744695
+dequeue
+enqueue 261545981
+front
+dequeue
+size
+enqueue 788393510
+empty
+dequeue
+dequeue
+enqueue 328587237
+dequeue
+enqueue 435156232
+front
+dequeue
+enqueue 607082633
+dequeue
+enqueue 898609846
+enqueue 231308045
+enqueue 485597970
+front
+enqueue 303016447
+front
+enqueue 94604992
+dequeue
+dequeue
+dequeue
+dequeue
+front
+dequeue
+enqueue 125244878
+front
+clear
+front
+dequeue
+dequeue
+empty
+empty
+dequeue
+enqueue 194024416
+enqueue 18857817
+dequeue
+dequeue
+size
+enqueue 440655169
+dequeue
+dequeue
+full
+dequeue
+enqueue 492303992
+enqueue 332126957
+enqueue 892070703
+full
+dequeue
+front
+dequeue
+empty
+enqueue 155320443
+enqueue 970883997
+empty
+enqueue 150523060
+front
+dequeue
+dequeue
+dequeue
+enqueue 587622820
+dequeue
+enqueue 111073556
+enqueue 43214001
+empty
+enqueue 345892538
+dequeue
+front
+enqueue 734101058
+enqueue 47769783
+dequeue
+dequeue
+dequeue
+empty
+enqueue 195290440
+enqueue 786156083
+enqueue 378365535
+enqueue 723231307
+dequeue
+dequeue
+enqueue 424642728
+enqueue 466448273
+enqueue 920266651
+dequeue
+enqueue 158130387
+full
+enqueue 972163038
+enqueue 103018034
+dequeue
+dequeue
+front
+dequeue
+dequeue
+dequeue
+front
+front
+size
+dequeue
+front
+size
+enqueue 821192482
+front
+enqueue 602740891
+enqueue 652430136
+enqueue 143655981
+dequeue
+enqueue 853199056
+dequeue
+size
+dequeue
+enqueue 214988362
+dequeue
+enqueue 367492174
+enqueue 316797091
+dequeue
+front
+enqueue 644408466
+enqueue 105794677
+dequeue
+enqueue 703133948
+size
+enqueue 777769295
+dequeue
+enqueue 173213725
+enqueue 433822842
+enqueue 465930528
+enqueue 85407622
+dequeue
+enqueue 772511636
+empty
+enqueue 659389442
+dequeue
+front
+front
+dequeue
+dequeue
+dequeue
+dequeue
+front
+enqueue 510549157
+size
+enqueue 888815511

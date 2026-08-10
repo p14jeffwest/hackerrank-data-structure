@@ -1,0 +1,3001 @@
+3000
+enqueue 526133281
+enqueue 876437944
+enqueue 730316776
+enqueue 12088941
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 852033035
+enqueue 779813434
+enqueue 593973958
+enqueue 686765091
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 891063855
+enqueue 112039455
+enqueue 64745878
+enqueue 548644385
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 958919059
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 783476808
+enqueue 749427442
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 715313500
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 631377341
+enqueue 945027941
+enqueue 200654681
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 21145592
+enqueue 296388892
+enqueue 350190307
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 25141821
+enqueue 412086375
+enqueue 44323510
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 525269776
+enqueue 822088850
+enqueue 919105437
+enqueue 790251373
+dequeue
+dequeue
+dequeue
+enqueue 213718459
+enqueue 197954262
+enqueue 778547593
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 493254699
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 313990471
+enqueue 467904654
+dequeue
+enqueue 604258976
+enqueue 661734890
+enqueue 243479626
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 119112205
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 581235560
+enqueue 918120220
+enqueue 529002529
+dequeue
+dequeue
+dequeue
+enqueue 717418159
+enqueue 886276370
+enqueue 390134186
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 130712039
+enqueue 681740972
+enqueue 732698873
+enqueue 497896156
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 44522669
+enqueue 547629820
+enqueue 377690221
+enqueue 902306752
+dequeue
+dequeue
+enqueue 516355377
+enqueue 857797116
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 429289233
+enqueue 570417644
+enqueue 259367683
+enqueue 246021015
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 827026669
+dequeue
+dequeue
+dequeue
+enqueue 156316616
+dequeue
+enqueue 65856830
+enqueue 439116708
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 368910356
+enqueue 188779654
+enqueue 642873602
+dequeue
+dequeue
+enqueue 153503746
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 665280014
+enqueue 968491947
+enqueue 218261085
+enqueue 619348252
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 904457959
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 733528801
+enqueue 729172465
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 763412369
+enqueue 564414798
+enqueue 554364160
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 656118138
+enqueue 476211658
+enqueue 393329858
+enqueue 24431127
+dequeue
+dequeue
+enqueue 145243183
+enqueue 882670975
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 110030665
+dequeue
+dequeue
+dequeue
+enqueue 888580741
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 925769565
+enqueue 228577221
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 931573252
+enqueue 124636791
+enqueue 552457687
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 441975679
+enqueue 570357573
+enqueue 148167459
+enqueue 300165462
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 428415204
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 110128005
+enqueue 952387060
+dequeue
+dequeue
+dequeue
+enqueue 685416262
+enqueue 933599432
+dequeue
+enqueue 292127412
+enqueue 162833007
+enqueue 416263288
+dequeue
+enqueue 418726565
+enqueue 408210904
+enqueue 25528840
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 906386764
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 3460888
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 684351147
+enqueue 560610547
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 368734668
+enqueue 252504480
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 242667537
+enqueue 83083096
+enqueue 704404643
+enqueue 696937580
+dequeue
+dequeue
+enqueue 177927459
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 467057527
+enqueue 110976110
+enqueue 492912169
+enqueue 428370097
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 44109371
+enqueue 996409259
+dequeue
+dequeue
+enqueue 213182552
+dequeue
+dequeue
+enqueue 311003719
+enqueue 187351458
+enqueue 227976573
+dequeue
+enqueue 259563850
+dequeue
+dequeue
+enqueue 512794264
+enqueue 746654751
+enqueue 35657898
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 940657389
+enqueue 232162148
+enqueue 601819460
+enqueue 286051939
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 209142401
+enqueue 266744279
+enqueue 889157940
+enqueue 364952268
+dequeue
+dequeue
+dequeue
+enqueue 184674713
+enqueue 321393615
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 890075571
+enqueue 722476377
+enqueue 451001520
+dequeue
+dequeue
+enqueue 868872049
+enqueue 437938609
+enqueue 785032704
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 29539005
+enqueue 904906750
+dequeue
+dequeue
+enqueue 5411149
+enqueue 957739575
+enqueue 261816125
+dequeue
+enqueue 107509535
+enqueue 878699369
+enqueue 281319375
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 442352422
+enqueue 641123201
+enqueue 870392774
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 346521538
+enqueue 755164583
+enqueue 140943887
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 844971331
+enqueue 543936791
+dequeue
+dequeue
+dequeue
+enqueue 77716718
+enqueue 752919514
+enqueue 966631466
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 726554606
+enqueue 803912168
+enqueue 853375021
+dequeue
+dequeue
+dequeue
+enqueue 471866021
+enqueue 159722051
+enqueue 294056817
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 958100366
+enqueue 319031594
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 513693171
+enqueue 710807220
+enqueue 512582125
+enqueue 280476104
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 540919406
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 97858815
+enqueue 818301614
+enqueue 118283546
+dequeue
+enqueue 633943043
+enqueue 586536497
+enqueue 335609592
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 797753113
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 165522532
+dequeue
+enqueue 499275119
+enqueue 705906277
+enqueue 123971894
+enqueue 595701797
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 187130969
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 894571190
+enqueue 207897507
+enqueue 215619972
+enqueue 776836305
+dequeue
+dequeue
+enqueue 544462418
+enqueue 281210182
+enqueue 305618576
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 347866973
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 113845561
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 752876262
+enqueue 352023085
+enqueue 27262550
+enqueue 190326288
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 215233922
+enqueue 205171575
+enqueue 667568350
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 326265997
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 92555593
+enqueue 672327423
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 678718096
+enqueue 203218657
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 208002451
+enqueue 60539485
+enqueue 516491731
+enqueue 496463195
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 224014859
+enqueue 511462440
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 146807308
+enqueue 561230014
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 980438026
+enqueue 826169808
+enqueue 942352399
+enqueue 88816897
+dequeue
+dequeue
+dequeue
+enqueue 636046991
+enqueue 237017384
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 325759583
+enqueue 318505865
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 432438696
+dequeue
+dequeue
+enqueue 597437858
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 165424601
+enqueue 274250119
+enqueue 585178108
+enqueue 472854702
+dequeue
+dequeue
+enqueue 759321089
+enqueue 292926499
+enqueue 447582709
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 450503242
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 370337478
+enqueue 921833162
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 997439289
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 828855440
+enqueue 97876837
+enqueue 124673390
+enqueue 919946973
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 21586667
+enqueue 195073543
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 919856281
+enqueue 69796333
+dequeue
+dequeue
+enqueue 423264885
+enqueue 721961025
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 788397704
+enqueue 341914890
+enqueue 7963658
+enqueue 302460670
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 175451194
+enqueue 935571596
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 961380662
+enqueue 875447945
+enqueue 561905469
+dequeue
+dequeue
+enqueue 883029129
+enqueue 413165864
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 613377017
+enqueue 987713707
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 649255057
+dequeue
+dequeue
+dequeue
+enqueue 421489571
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 229585965
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 253818836
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 128735054
+enqueue 815874361
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 102645301
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 316648658
+enqueue 134151297
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 534160938
+enqueue 94838990
+enqueue 798330644
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 347235698
+enqueue 275126520
+enqueue 104475538
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 166631214
+enqueue 581072275
+enqueue 157461505
+dequeue
+dequeue
+dequeue
+enqueue 743340855
+enqueue 716192031
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 347453068
+enqueue 36291506
+dequeue
+dequeue
+dequeue
+enqueue 399941923
+enqueue 959667199
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 39088421
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 890122332
+enqueue 246734777
+dequeue
+enqueue 630117065
+enqueue 43055125
+dequeue
+dequeue
+dequeue
+enqueue 206410447
+enqueue 945920319
+enqueue 450916435
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 808830383
+enqueue 47771264
+enqueue 654672726
+enqueue 788691911
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 138384970
+enqueue 198599839
+enqueue 401307705
+enqueue 619550336
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 404104105
+enqueue 283092142
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 73163451
+enqueue 363517874
+enqueue 454848379
+dequeue
+dequeue
+dequeue
+enqueue 649649535
+enqueue 313990327
+enqueue 136976630
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 651496786
+enqueue 806916619
+enqueue 862573333
+enqueue 669757059
+dequeue
+dequeue
+dequeue
+enqueue 264687029
+enqueue 668837993
+dequeue
+enqueue 348777516
+enqueue 552693439
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 13931007
+enqueue 426268700
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 719537389
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 829181150
+enqueue 699688751
+enqueue 668270049
+dequeue
+enqueue 400247276
+enqueue 898482492
+enqueue 724894057
+enqueue 712503038
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 364342034
+enqueue 408254337
+enqueue 217659020
+enqueue 230622200
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 542795469
+enqueue 576921063
+enqueue 41862070
+enqueue 735692672
+dequeue
+dequeue
+dequeue
+enqueue 715918180
+enqueue 886788836
+enqueue 233441862
+enqueue 617075471
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 403847842
+enqueue 967054089
+dequeue
+enqueue 434196582
+enqueue 64251620
+enqueue 14117273
+dequeue
+dequeue
+enqueue 795026869
+enqueue 70212059
+enqueue 306109355
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 793157863
+enqueue 593451615
+enqueue 171756350
+enqueue 244849524
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 632726323
+enqueue 873690505
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 919887787
+enqueue 172587167
+dequeue
+dequeue
+dequeue
+enqueue 109543092
+enqueue 315125071
+enqueue 133762646
+enqueue 413241651
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 905313173
+enqueue 307538890
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 148784755
+enqueue 672271578
+enqueue 891481274
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 87632300
+enqueue 60870086
+enqueue 853145335
+enqueue 192793794
+dequeue
+enqueue 702393709
+enqueue 907784918
+enqueue 494230514
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 928707018
+enqueue 525409548
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 695002506
+enqueue 913210728
+enqueue 362727177
+enqueue 509990053
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 725332301
+enqueue 683270544
+enqueue 474499775
+enqueue 104472642
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 866639240
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 276780537
+enqueue 451504684
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 140204848
+enqueue 742794149
+enqueue 357059020
+dequeue
+dequeue
+dequeue
+enqueue 989542445
+enqueue 840504591
+enqueue 942022500
+enqueue 678876368
+dequeue
+enqueue 176209124
+enqueue 129937520
+enqueue 405006144
+enqueue 268781851
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 484584519
+enqueue 191152807
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 421719540
+enqueue 13703193
+enqueue 406309017
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 920342279
+enqueue 61331248
+enqueue 169250963
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 343861943
+enqueue 799321668
+enqueue 627977053
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 387093748
+dequeue
+dequeue
+enqueue 88168726
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 51947527
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 397768686
+enqueue 359166683
+enqueue 587681749
+enqueue 35550182
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 24226663
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 899403883
+enqueue 132586270
+enqueue 249578010
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 911278421
+enqueue 42333818
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 165009734
+enqueue 117343577
+enqueue 4104047
+enqueue 355953517
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 167948713
+enqueue 862887947
+enqueue 655673091
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 167906864
+enqueue 45846927
+enqueue 454388727
+enqueue 905934300
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 887730819
+enqueue 697029266
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 78876042
+enqueue 375054495
+enqueue 886338422
+enqueue 244166773
+dequeue
+enqueue 617883888
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 411690399
+enqueue 471137636
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 139974360
+enqueue 720766068
+enqueue 413159094
+enqueue 728435198
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 332267363
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 618933744
+enqueue 19678172
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 533376755
+enqueue 731470740
+dequeue
+dequeue
+dequeue
+enqueue 901970741
+enqueue 611883791
+enqueue 22869532
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 492486478
+enqueue 332064842
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 673131034
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 323236956
+enqueue 234564610
+enqueue 686689711
+dequeue
+enqueue 882703671
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 164172980
+enqueue 679576196
+enqueue 418787957
+enqueue 73033995
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 905246910
+enqueue 715013723
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 999871089
+enqueue 771917237
+enqueue 216974872
+enqueue 855991413
+dequeue
+enqueue 937111415
+enqueue 463706511
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 19430287
+enqueue 233593104
+enqueue 772455075
+enqueue 464752894
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 722827291
+enqueue 874248237
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 664786310
+enqueue 269250421
+dequeue
+dequeue
+enqueue 630026798
+enqueue 436467765
+enqueue 840630937
+enqueue 379562367
+dequeue
+dequeue
+enqueue 710631593
+enqueue 906698335
+dequeue
+dequeue
+dequeue
+enqueue 319593301
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 120622755
+enqueue 46244106
+enqueue 637220045
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 631600342
+enqueue 887181846
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 762464098
+enqueue 97215579
+enqueue 227881558
+enqueue 986194789
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 796139305
+enqueue 585926638
+enqueue 895481247
+dequeue
+dequeue
+enqueue 73054976
+enqueue 604912820
+enqueue 684465693
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 378305741
+enqueue 168675151
+enqueue 392179675
+enqueue 690968024
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 388198663
+enqueue 62675440
+enqueue 333893509
+dequeue
+enqueue 943253566
+enqueue 447344967
+dequeue
+dequeue
+dequeue
+enqueue 356406894
+enqueue 401108758
+enqueue 143564743
+enqueue 752000309
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 836175339
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 907128852
+dequeue
+dequeue
+dequeue
+enqueue 172249122
+enqueue 805510593
+enqueue 799377051
+enqueue 644592073
+dequeue
+enqueue 965814770
+enqueue 692018923
+enqueue 497266327
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 467410437
+enqueue 960319821
+enqueue 36729803
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 877392002
+enqueue 253757611
+enqueue 669485597
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 370028239
+enqueue 917807499
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 537020069
+enqueue 222647986
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 340697215
+enqueue 634567547
+enqueue 848015510
+enqueue 209961420
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 609034534
+enqueue 870970287
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 912081941
+enqueue 358983249
+enqueue 549877597
+enqueue 73244814
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 563601849
+enqueue 219202258
+enqueue 463410046
+enqueue 817578961
+dequeue
+dequeue
+dequeue
+enqueue 37263085
+enqueue 860928537
+enqueue 595028706
+enqueue 305614724
+dequeue
+dequeue
+enqueue 751972951
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 865999363
+enqueue 261267632
+enqueue 427960925
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 535390272
+enqueue 331441206
+enqueue 573068095
+enqueue 785837180
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 132240125
+enqueue 364337408
+enqueue 982622383
+enqueue 407180681
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 538326783
+enqueue 684937764
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 220180608
+enqueue 145601285
+dequeue
+enqueue 104979521
+enqueue 326706705
+enqueue 4989942
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 667614201
+enqueue 734238720
+enqueue 698185613
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 695665562
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 77517511
+enqueue 614649042
+enqueue 194762977
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 74668960
+enqueue 115713676
+enqueue 317875953
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 288207521
+enqueue 92238672
+enqueue 170302952
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 838010413
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 200348875
+enqueue 476737484
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 660196874
+enqueue 331075418
+enqueue 545838144
+enqueue 393863113
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 312937512
+enqueue 672459119
+enqueue 518830349
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 605488572
+enqueue 146658595
+enqueue 351154322
+enqueue 276229640
+dequeue
+dequeue
+enqueue 283644326
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 44691369
+enqueue 875767636
+enqueue 883734960
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 129380893
+dequeue
+dequeue
+enqueue 296291712
+enqueue 366490893
+enqueue 211819246
+enqueue 182656326
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 567065393
+enqueue 143831336
+enqueue 655981716
+enqueue 881953565
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 694946543
+enqueue 131219863
+enqueue 818793646
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 317726802
+enqueue 266567290
+enqueue 102733204
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 40209301
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 443740688
+enqueue 613713620
+enqueue 977037374
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 898226740
+enqueue 453261344
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 56057492
+enqueue 572966254
+enqueue 751446056
+enqueue 247677854
+dequeue
+enqueue 693077820
+enqueue 98395346
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 379867059
+enqueue 696256023
+enqueue 634963004
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 948616685
+enqueue 227275931
+enqueue 409432657
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 409075149
+enqueue 642270859
+dequeue
+enqueue 303748341
+enqueue 257390811
+enqueue 70966099
+enqueue 11039605
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 931663656
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 543957092
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 286406101
+enqueue 399706517
+enqueue 596594882
+enqueue 297092422
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 760193908
+enqueue 283926330
+enqueue 583026602
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 373330986
+enqueue 409213208
+enqueue 206696544
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 836002799
+enqueue 138191279
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 175074499
+dequeue
+enqueue 11167270
+enqueue 776339152
+enqueue 915297364
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 888867006
+enqueue 807458160
+enqueue 646796853
+enqueue 278482896
+dequeue
+dequeue
+enqueue 959322723
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 798878612
+enqueue 195845736
+enqueue 541730768
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 480333871
+enqueue 132239300
+enqueue 111079121
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 165638428
+enqueue 829602342
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 851300771
+enqueue 213921799
+enqueue 702253294
+dequeue
+dequeue
+enqueue 749391659
+enqueue 589951641
+enqueue 232269383
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 609683868
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 136812404
+enqueue 187415607
+enqueue 419800907
+enqueue 988684293
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 311194156
+enqueue 435957170
+enqueue 188186765
+enqueue 968173625
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 388144709
+enqueue 703920772
+enqueue 86761780
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 376363822
+enqueue 194440071
+enqueue 474783775
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 417856341
+enqueue 525488982
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 236988161
+enqueue 338559388
+enqueue 752659586
+enqueue 172122662
+dequeue
+dequeue
+dequeue
+enqueue 183674821
+enqueue 803200713
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 400051284
+dequeue
+dequeue
+enqueue 373641507
+dequeue
+dequeue
+enqueue 770503075
+enqueue 189232137
+enqueue 778350013
+enqueue 36568213
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 892749053
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 456143712
+enqueue 734163947
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 581090746
+enqueue 629564350
+enqueue 852147516
+enqueue 90865926
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 615982171
+enqueue 833002519
+enqueue 641239936
+dequeue
+dequeue
+enqueue 639870872
+dequeue
+dequeue
+dequeue
+enqueue 170129829
+enqueue 22825796
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 697952985
+enqueue 317272124
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 420308682
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 682522439
+enqueue 181494023
+dequeue
+dequeue
+enqueue 281627728
+enqueue 822693050
+enqueue 19901828
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 207287865
+enqueue 533279110
+enqueue 283411790
+enqueue 666227603
+dequeue
+dequeue
+enqueue 538767462
+enqueue 97315265
+enqueue 426416029
+enqueue 514540030
+dequeue
+dequeue
+enqueue 844379767
+enqueue 770773670
+enqueue 682334928
+enqueue 954237717
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 642636462
+enqueue 462281729
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 750803016
+enqueue 869657113
+enqueue 784933708
+enqueue 206871075
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 214011328
+enqueue 983554605
+enqueue 722826989
+enqueue 704098658
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 664956963
+enqueue 391735035
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 430961753
+enqueue 962612099
+enqueue 161821252
+enqueue 801559391
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 480827411
+enqueue 821523279
+enqueue 443202753
+enqueue 387558447
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 966713362
+enqueue 66128310
+enqueue 131230652
+enqueue 441174132
+dequeue
+enqueue 843970140
+enqueue 196670886
+enqueue 7300968
+enqueue 736181342
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 499790465
+enqueue 53096909
+enqueue 367650568
+enqueue 267064162
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 758273416
+enqueue 57574533
+enqueue 472704359
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 385536716
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 753109907
+enqueue 465686561
+dequeue
+dequeue
+dequeue
+enqueue 799892984
+enqueue 742775313
+enqueue 512685429
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 250304852
+enqueue 448038531
+enqueue 659552246
+enqueue 928433574
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 811349427
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 746265712
+enqueue 36770704
+enqueue 146680670
+dequeue
+dequeue
+dequeue
+enqueue 8023410
+enqueue 199752211
+enqueue 26989868
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 439533890
+enqueue 255208718
+enqueue 953268464
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 602649258
+enqueue 795193093
+enqueue 988596643
+enqueue 934748990
+dequeue
+dequeue
+dequeue
+enqueue 5628159
+dequeue
+enqueue 98429782
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 333459162
+enqueue 154448067
+enqueue 1212529
+enqueue 932060582
+dequeue
+enqueue 280077275
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 238580222
+enqueue 843186444
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 410183966
+enqueue 722203760
+dequeue
+enqueue 309881540
+enqueue 679812456
+enqueue 553909395
+enqueue 310651608
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 459024627
+enqueue 231375772
+enqueue 768630178
+enqueue 100395906
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 205813956
+enqueue 173232993
+enqueue 883311144
+enqueue 363467430
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 60388217
+enqueue 179743360
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 376157209
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 323497825
+enqueue 957553116
+enqueue 385515719
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 324213535
+enqueue 455168558
+enqueue 395258897
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 175366437
+dequeue
+enqueue 282653030
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 211869010
+enqueue 238938857
+enqueue 170005288
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 735874418
+enqueue 808835065
+enqueue 5485156
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 815861231
+enqueue 741265240
+enqueue 499378029
+enqueue 947241831
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 214273329
+enqueue 237331408
+enqueue 550369709
+enqueue 687876936
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 880837716
+enqueue 375195423
+enqueue 981987803
+enqueue 366593889
+dequeue
+enqueue 780844108
+enqueue 327809338
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 516471079
+dequeue
+dequeue
+enqueue 374852319
+enqueue 389330594
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 302721708
+enqueue 310411433
+enqueue 158817105
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 823031907
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 428477910
+enqueue 872348083
+enqueue 225479191
+enqueue 318652610
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 364736586
+enqueue 960368240
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 38636444
+enqueue 510147592
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 797349438
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 918278334
+dequeue
+dequeue
+dequeue
+enqueue 289861540
+dequeue
+enqueue 157814228
+enqueue 969008564
+dequeue
+dequeue
+enqueue 116814962
+enqueue 813596584
+enqueue 807585793
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 28991095
+dequeue
+enqueue 888878622
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 99108377
+enqueue 601315956
+enqueue 921706372
+enqueue 286416073
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 933163638
+enqueue 562803299
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 707577351
+enqueue 729370284
+enqueue 758342751
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 134524547
+enqueue 722935014
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 863747509
+enqueue 571949739
+enqueue 884206043
+enqueue 753864822
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 224549159
+enqueue 405198939
+dequeue
+enqueue 277338861
+enqueue 883120403
+enqueue 309908424
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 313871319
+enqueue 805364684
+dequeue
+enqueue 431625397
+enqueue 391033742
+dequeue
+dequeue
+dequeue
+enqueue 343463009
+dequeue
+enqueue 533400191
+enqueue 587211809
+enqueue 122056527
+enqueue 371718258
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 949105148
+enqueue 737224441
+enqueue 853038962
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 373140960
+enqueue 350882387
+enqueue 393486814
+dequeue
+dequeue
+dequeue
+enqueue 942284399
+enqueue 648240530
+enqueue 562310124
+enqueue 165024697
+dequeue
+enqueue 348959860
+enqueue 876988931
+dequeue
+enqueue 386071194
+enqueue 684352283
+enqueue 456280255
+enqueue 795868428
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 109743856
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 484920589
+enqueue 668345187
+enqueue 963001562
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 535147318
+dequeue
+enqueue 943955507
+enqueue 30657771
+enqueue 772078731
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 386147259
+enqueue 777889789
+enqueue 249216126
+enqueue 197281157
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 816761158
+enqueue 14951297
+enqueue 326596873
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 193003434
+dequeue
+dequeue
+dequeue
+enqueue 804548107
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 251441194
+enqueue 331867398
+dequeue
+dequeue
+enqueue 644273921
+enqueue 240575611
+enqueue 320985947
+enqueue 420372885
+dequeue
+dequeue

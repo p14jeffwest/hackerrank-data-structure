@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's own example
+# 01 a median before anything arrives, one value, and the parity alternating
+#    at every step
+# 02 a strictly increasing stream. 02 must be published: every new value
+#    belongs to the larger half, so without rebalancing the two heaps drift
+#    apart at once and the median comes from the wrong one.
+00
+01
+02

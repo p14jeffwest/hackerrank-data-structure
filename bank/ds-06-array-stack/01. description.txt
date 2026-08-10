@@ -1,0 +1,1 @@
+Implement push, pop and peek for an array-based stack.

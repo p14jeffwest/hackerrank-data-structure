@@ -1,0 +1,1 @@
+Implement a hash table that resolves collisions by chaining.

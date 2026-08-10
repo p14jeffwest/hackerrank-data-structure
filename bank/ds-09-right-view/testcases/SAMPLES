@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example, where a node is hidden behind another at the
+#    same level
+# 01 a single node
+# 02 the book's second example -- a tree leaning LEFT. 02 must be published:
+#    a solution that walks down the right children reports just the root,
+#    and this is the only sample that shows it.
+00
+01
+02

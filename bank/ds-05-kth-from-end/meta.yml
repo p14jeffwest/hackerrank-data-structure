@@ -1,0 +1,96 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-05-kth-from-end
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch05
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "05"
+
+# page_id of the source section.
+# 5.6 Coding Test Problems, Problem 2 (The k-th Node from the End)
+source_page_id: 375815
+
+# Title shown on HackerRank
+title: "The k-th Node from the End"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the stub is doing real work here. The premise of the problem is
+# that the length is unknown, and the only way to hold a student to that is to
+# hand them a bare Node and nothing else. With plain stdin they would read n
+# themselves and the problem would evaporate.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no equivalent; its nearest problem by technique is
+# dsa-07-find-middle, which is the same two-pointer idea applied to the middle
+# node. That is 5.5 Problem 5 here and is reserved as a variation axis rather
+# than made into a second contest problem.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^4, data in -10^4 .. 10^4"
+  here: "sum of n <= 2*10^5, data in -10^9 .. 10^9"
+
+# The book's statement names the fast/slow pointer technique in its hint.
+# That hint is not repeated here: 5.6 is a hidden page, so students do not see
+# it, and naming the technique would leave nothing to work out.
+hint_withheld_from_statement: "advance a fast pointer k steps first (book 5.6, Problem 2 hint)"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "247 ms (case 13)"
+  largest_input: "2.1 MB (case 08)"
+  scored_variants:
+    - code: "two pointers, one pass (the registered solution)"
+      score: "14/14"
+    - code: "fast pointer advanced k-1 steps instead of k"
+      score: "0/14"
+    - code: "fast pointer advanced k+1 steps"
+      score: "0/14, crashing with a NullPointerException when k = n"
+    - code: "for each node, count the nodes that follow it"
+      score: "10/14, timing out on 08 10 12 13"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    Both off-by-one mistakes score 0/14 rather than a partial score, because
+    every hidden case punishes them. That is acceptable only because the three
+    published samples diagnose the error precisely: 00 shows the wrong value
+    against the right one, 01 is all k = 1 so a pointer sent one step short
+    returns the second-to-last node, and 02 is all k = n so a pointer sent one
+    step too far walks off the end and throws.
+    What is NOT enforced: the book asks for a single traversal, and two passes
+    (measure the length, then walk n-k) also run in time. Copying the nodes
+    into an array passes too. Neither can be excluded at this size, so the
+    statement asks for O(n) time and O(1) extra space rather than claiming a
+    single pass is required.

@@ -1,0 +1,93 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-05-merge-sorted
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch05
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "05"
+
+# page_id of the source section.
+# 5.6 Coding Test Problems, Problem 1 (Merging Two Linked Lists)
+source_page_id: 375815
+
+# Title shown on HackerRank
+title: "Merging Two Sorted Lists"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Tail carries the enforcement. It registers every node it builds
+# in an IdentityHashMap, and after the call walks the returned list checking
+# that each node is one it handed over, that none appears twice, and that the
+# count still matches n + m.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Same source problem. The Korean version dresses it as two queues of people
+# merging by number and leaves "do not create new nodes" as an honour rule in
+# the constraints. This version checks it, which is the main reason to keep
+# both rather than treating them as duplicates.
+ko_counterpart: dsa-07-merge-sorted
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n, m <= 10^4, data in -10^4 .. 10^4"
+  here: "sum of n+m <= 2*10^5, data in -10^9 .. 10^9"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "613 ms (case 10, two lists of 100,000 over disjoint ranges)"
+  largest_input: "2.1 MB (case 11)"
+  scored_variants:
+    - code: "dummy head, relinking (the registered solution)"
+      score: "14/14"
+    - code: "read both lists into an array, sort, rebuild with new nodes"
+      score: "0/14, every case reported as invalid"
+    - code: "forgets to attach the leftover tail"
+      score: "0/14, every case reported as invalid"
+    - code: "no dummy head; picks the first node by comparing head1.data with head2.data"
+      score: "9/14, crashing whenever a list is empty"
+    - code: "insert each node of list 2 into list 1 by scanning, O(n*m)"
+      score: "9/14, timing out on 09 through 13"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The node-identity check is what makes this problem different from its
+    Korean counterpart. The array-and-rebuild solution produces a perfectly
+    correct sequence of values and still scores zero, because every node in
+    its answer is one the driver never handed over.
+    Note what cannot be detected: choosing `<` instead of `<=` swaps two nodes
+    carrying the same number, so the printed values are identical either way.
+    The distinction is real -- it is what stability means -- but no output
+    test can see it, and it is left to the exam.
+    The dummy node the solution allocates is not flagged, because it never
+    appears in the returned list. That is by design; the check is about the
+    nodes in the answer, not about allocation.

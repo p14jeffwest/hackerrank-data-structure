@@ -1,0 +1,11 @@
+10
+push 5
+print
+push 3
+print
+push 8
+print
+push 1
+print
+push 6
+print

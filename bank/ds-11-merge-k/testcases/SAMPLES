@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's example
+# 01 a single list
+# 03 empty lists at the front, in the middle and at the end. 03 must be
+#    published: offering an empty list to the heap reads a position that does
+#    not exist, and this is the only sample that shows it.
+00
+01
+03

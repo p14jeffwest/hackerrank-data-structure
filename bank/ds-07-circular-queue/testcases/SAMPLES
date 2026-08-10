@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, on a capacity large enough that the ring never wraps
+# 01 an empty queue touched in every way, still without wrapping
+# 02 the ring wraps twice. 02 must be published: a solution that leaves out
+#    the modulo passes 00 and 01 and fails here, which is what tells the
+#    student the wrap is the problem rather than their whole approach.
+00
+01
+02

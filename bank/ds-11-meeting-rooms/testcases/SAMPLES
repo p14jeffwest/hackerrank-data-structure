@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's two examples
+# 01 a single meeting, and two identical meetings
+# 02 meetings laid end to start. 02 must be published: they do NOT overlap, so
+#    one room holds all five, and a solution comparing with < instead of <=
+#    asks for five.
+00
+01
+02

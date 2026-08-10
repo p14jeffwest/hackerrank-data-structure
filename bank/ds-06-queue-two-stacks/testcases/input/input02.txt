@@ -1,0 +1,15 @@
+14
+empty
+dequeue
+dequeue
+enqueue 5
+empty
+dequeue
+empty
+dequeue
+enqueue 6
+enqueue 7
+dequeue
+empty
+dequeue
+empty

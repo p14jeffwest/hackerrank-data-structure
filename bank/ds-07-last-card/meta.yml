@@ -1,0 +1,88 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-07-last-card
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch07
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "07"
+
+# page_id of the source section.
+# 7.5 Exercises, Level 2 Problem 4 (A Card Game Using a Queue)
+source_page_id: 375828
+
+# Title shown on HackerRank
+title: "The Last Remaining Card"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No. This is a queue application, and the whole difficulty is choosing a
+# structure whose front removal is O(1). Handing one over would remove the
+# question.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Deliberately the same problem, in the same input and output format, so that
+# one explanation serves both courses. The rule and the worked examples are
+# identical in both books.
+ko_counterpart: dsa-06-last-card
+
+# Deviation from the book's statement, and why.
+# 7.5 Problem 4 numbers the cards 1 through N and asks only for the survivor.
+# That version needs no queue: the survivor of 1..N is a closed form, and a
+# student who finds it never simulates anything. Two changes fix it, both
+# taken from the Korean counterpart -- arbitrary numbers on the cards, so no
+# formula in N applies, and the discard ORDER as part of the answer, which
+# cannot be produced without running the simulation through.
+changed_from_book:
+  book: "cards numbered 1..N; output the survivor only"
+  here: "arbitrary card values; output the discard order and then the survivor"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "363 ms (case 09, N = 500,000 random values)"
+  largest_output: "5.0 MB (case 11)"
+  scored_variants:
+    - code: "ArrayDeque (the registered solution)"
+      score: "14/14"
+    - code: "ArrayList with remove(0)"
+      score: "8/14, timing out on 08 through 13"
+    - code: "the two steps swapped -- move first, then discard"
+      score: "2/14"
+    - code: "discards two cards per round instead of moving one"
+      score: "1/14"
+  notes: >
+    java.util.LinkedList was tried as a fourth wrong variant and turned out to
+    be a correct solution: its get(0) and remove(0) are both O(1), so it is a
+    legitimate deque here. Worth knowing before telling a student otherwise.
+    The swapped-steps mistake passes exactly two cases -- N = 1, where nothing
+    happens, and the case where every card carries the same number, where the
+    discard order cannot distinguish anything.

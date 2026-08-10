@@ -1,0 +1,89 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-08-climb-stairs
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch08
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "08"
+
+# page_id of the source section.
+# 8.5 Coding Test Problems, Problem 1 (Number of Ways to Climb Stairs)
+source_page_id: 375836
+
+also_cites:
+  - 375832   # 8.2 item 4 (why plain Fibonacci recursion is O(2^n))
+  - 375833   # 8.3 (memoization)
+
+# Title shown on HackerRank
+title: "Climbing Stairs"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged, including the bound and the input and output format.
+ko_counterpart: dsa-09-climb-stairs
+
+# Deviation from the book's stated bound, inherited from the Korean version.
+# The book says n <= 45, which sits on exactly the wrong side of a line:
+#   ways(45) = 1,836,311,903  fits in an int
+#   ways(46) = 2,971,215,073  does not
+# At n <= 45 an int solution is correct and the type question never comes up.
+# At n <= 90 it is the point of the problem. ways(90) is 4.66 * 10^18, inside
+# long's range but not by a wide margin.
+bounds_changed_from_book:
+  book: "n <= 45"
+  here: "n <= 90, T <= 1,000"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "71 ms (case 08)"
+  scored_variants:
+    - code: "table filled once in long, then looked up (the registered solution)"
+      score: "14/14"
+    - code: "the same table in int"
+      score: "3/14, wrong on 11 cases"
+    - code: "plain recursion, no memoization"
+      score: "2/14, timing out on 12 cases"
+    - code: "ways(2) set to 1 instead of 2"
+      score: "0/14"
+  notes: >
+    The int mistake is the one worth seeing. On sample 02 it prints
+    1836311903 for n = 45 and then -1323752223 for n = 46 -- a negative count
+    of staircases, from a program that throws nothing and warns about nothing.
+    Cases 11 and 13 are drawn entirely from n <= 45 and n <= 20, which is what
+    keeps the int and the naive-recursion mistakes partial rather than total.
+    The base-case mistake scores zero and deserves to: ways(2) is 2 because
+    1+1 and 2 are different routes, and getting it wrong shifts every
+    subsequent answer one place along the sequence. Sample 01 shows it at
+    once.

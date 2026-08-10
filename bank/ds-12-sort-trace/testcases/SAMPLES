@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, three passes
+# 01 K = 0 on the same array. 01 must be published: a solution that just
+#    sorts the array gets this wrong at once.
+# 02 one pass on an array whose smallest value sits at the back. 02 must be
+#    published: after the swap the value that was at the front is now at the
+#    back, so the tail is NOT the original order -- which is the part of an
+#    intermediate state students expect wrongly.
+00
+01
+02

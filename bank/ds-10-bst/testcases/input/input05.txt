@@ -1,0 +1,11 @@
+10
+insert 7
+print
+preorder
+search 7
+delete 7
+print
+search 7
+insert 7
+insert 7
+print

@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example
+# 01 the book's second example, with repeated values across both arrays
+# 02 an empty array. 02 must be published: with nothing to compare against,
+#    one tail loop does all the work and the other must not run -- and it also
+#    shows that an empty array has no values line.
+00
+01
+02

@@ -1,0 +1,24 @@
+23
+add 1
+add 2
+add 3
+print
+removeAt 2
+print
+add 4
+print
+size
+removeAt 1
+print
+add 5
+print
+removeAt 0
+removeAt 0
+print
+size
+add 6
+print
+removeAt 0
+add 7
+print
+size

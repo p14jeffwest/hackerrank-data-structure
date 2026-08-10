@@ -1,0 +1,1 @@
+Report the state of an array partway through selection sort.

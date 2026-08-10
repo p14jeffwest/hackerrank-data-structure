@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's own verification run from 10.3: removing a leaf, then a node
+#    with one child, then a node with two children
+# 01 an empty tree, a duplicate insert, and deleting a key that is not there
+# 02 removing a root with two children. 02 must be published: the promoted
+#    key is 45 under the required rule and 70 under the other one, and the
+#    `print` line is identical either way -- only `preorder` separates them.
+00
+01
+02

@@ -1,0 +1,98 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-06-daily-temperatures
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch06
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "06"
+
+# page_id of the source section.
+# 6.7 Coding Test Problems, Problem 2 (Daily Temperatures)
+source_page_id: 375823
+
+# Title shown on HackerRank
+title: "Daily Temperatures"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No, for the same reason as ds-06-eval-postfix: this is an application of a
+# stack rather than an implementation of one, and 6.2 and 6.5 both write
+# applications against ArrayDeque.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None directly, but the Korean set has two problems of the same family --
+# dsa-05-next-greater and dsa-05-laser-tower, both monotonic stacks. This one
+# asks for the DISTANCE to the warmer day rather than its value, which is what
+# forces indices onto the stack instead of temperatures. variants.md reserves
+# the value-returning versions for the Korean exams.
+ko_counterpart: null
+same_family_as:
+  - dsa-05-next-greater
+  - dsa-05-laser-tower
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^5"
+  here: "sum of n <= 3*10^5"
+
+# The book's statement names the monotonic stack in its hint. That hint is not
+# repeated here: 6.7 is a hidden page, so students do not see it, and naming
+# the pattern would leave nothing to work out.
+hint_withheld_from_statement: "store indices on the stack (book 6.7, Problem 2 hint)"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "446 ms (case 13)"
+  scored_variants:
+    - code: "monotonic stack of indices (the registered solution)"
+      score: "14/14"
+    - code: "scan forward from each day, O(n^2)"
+      score: "10/14, timing out on 08 09 11 13"
+    - code: "comparison written as >= instead of >"
+      score: "2/14"
+    - code: "distance computed as i - waiting - 1"
+      score: "2/14"
+    - code: "temperatures pushed instead of indices"
+      score: "2/14"
+  notes: >
+    The narrow temperature range is the book's, and it is worth understanding
+    rather than widening. With only 71 distinct values a strictly decreasing
+    run can be at most 71 long, but that does not rescue the naive scan: when
+    readings repeat, no day finds a warmer one and the forward scan runs to
+    the end from every position. The same input fills the stack to all n
+    indices, since an equal reading never pops.
+    Case 09 took two attempts. Built first as descending blocks, the naive
+    solution finished it in 0.6 s because a warmer day was only a block away.
+    Rebuilt as a single long descent with one warm day at the very end, every
+    day does have an answer but it is the last index, and the naive scan takes
+    30 s against the reference's 0.3 s.

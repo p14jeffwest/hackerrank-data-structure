@@ -1,0 +1,82 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-13-merge-two
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch13
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "13"
+
+# page_id of the source section.
+# 13.7 Exercises, Level 1 Problem 1 (Merging Two Sorted Arrays)
+source_page_id: 375872
+
+also_cites:
+  - 375866   # 13.1 Merge Sort
+
+# Title shown on HackerRank
+title: "Merging Two Sorted Arrays"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "no bound stated"
+  here: "n + m <= 400,000"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "381 ms (cases 11 and 12)"
+  scored_variants:
+    - code: "two indices, both tails copied (the registered solution)"
+      score: "14/14"
+    - code: "only one of the two tails copied"
+      score: "6/14"
+    - code: "advancing both indices on a tie, dropping a value"
+      score: "9/14"
+    - code: "concatenate and call Arrays.sort"
+      score: "14/14 -- not excluded; see the note"
+  notes: >
+    Concatenating and re-sorting cannot be excluded and was measured: 363 to
+    422 ms against the merge's 380 to 381. At 400,000 values the log factor
+    costs almost nothing. The book asks for the merge because it is the step
+    merge sort is built from, not because sorting would be too slow, and the
+    constraints say so directly rather than pretending the bound enforces it.
+    An empty array writes its length and NO values line, rather than a blank
+    one. The Tail reads with StreamTokenizer, which ignores line structure, so
+    a blank line would carry no information and would only be something an
+    editor or an archive could strip. gen.py's own summary had to be changed
+    to read the files as token streams for the same reason.

@@ -1,0 +1,92 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-08-gcd
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch08
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+# NONE. Euclid's algorithm does not appear anywhere in this book's chapter 8.
+# It is included at the instructor's request so that the two courses share one
+# more problem: the Korean book has it as an exercise in its chapter 9, and
+# teaching it from one set of notes is worth more than strict book fidelity.
+# The recursion it exercises -- one call, a shrinking argument, a base case at
+# zero -- is squarely chapter 8 material, and it is the cleanest example of
+# the tail recursion 8.3 discusses.
+chapter: "08"
+source_page_id: null
+in_book: false
+added_at_instructor_request: true
+
+# The nearest sections in this book.
+also_cites:
+  - 375832   # 8.2 (recurrences; fast exponentiation is the other halving recursion)
+  - 375833   # 8.3 (tail recursion)
+
+# Title shown on HackerRank
+title: "Greatest Common Divisor"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged, including the bounds, the stub and the StreamTokenizer
+# in the Tail -- T reaches 100,000, which is where BufferedReader plus
+# StringTokenizer starts to cost more than it needs to.
+ko_counterpart: dsa-09-gcd
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "278 ms (case 08, T = 100,000 random pairs)"
+  deepest_recursion: "43 calls (case 05 and case 10, consecutive Fibonacci numbers)"
+  scored_variants:
+    - code: "gcd(b, a % b) with a base case at b == 0 (the registered solution)"
+      score: "14/14"
+    - code: "base case at b == 1"
+      score: "0/14"
+    - code: "arguments the wrong way round: gcd(a % b, b)"
+      score: "0/14, infinite recursion"
+    - code: "subtraction instead of remainder"
+      score: "8/14, StackOverflowError on the lopsided pairs"
+    - code: "unmodified stub"
+      score: "4/14 -- it returns 1, right for the coprime cases"
+  notes: >
+    The subtraction variant is the one worth showing. gcd(a-b, b) is correct
+    mathematically and dies on (1, 999999999) with a StackOverflowError after
+    a billion levels, which is exactly why Euclid's algorithm uses the
+    remainder. It scores 8/14, so the failure is partial and points at the
+    lopsided inputs.
+    A fourth variant was written and discarded: a hand-rolled swap for the
+    a < b case turned out to be correct. That is worth knowing when marking --
+    the swap is unnecessary rather than wrong, because a % b is a when a < b,
+    so the first call simply reverses them at the cost of one step.
+    What no test can check is whether the method is recursive. `while (b != 0)`
+    passes everything. Same limitation as ds-08-palindrome.

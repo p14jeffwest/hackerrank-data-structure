@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example
+# 01 a single participant
+# 03 every participant on the same score, so the answer is the input
+#    unchanged. 03 must be published: sorting ascending and reversing the
+#    array returns the input backwards, which is the most common wrong way to
+#    get a descending order.
+00
+01
+03

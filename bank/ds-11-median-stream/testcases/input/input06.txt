@@ -1,0 +1,25 @@
+24
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median
+add 7
+median

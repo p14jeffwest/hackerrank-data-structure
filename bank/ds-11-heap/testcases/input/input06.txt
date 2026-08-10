@@ -1,0 +1,11 @@
+10
+push 5
+print
+pop
+print
+size
+pop
+push 9
+peek
+pop
+peek

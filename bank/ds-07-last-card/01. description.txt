@@ -1,0 +1,1 @@
+Discard the top card, send the next one to the bottom, and repeat until one card is left.

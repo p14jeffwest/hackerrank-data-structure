@@ -1,0 +1,7 @@
+6
+add 1
+add 2
+median
+add 3
+median
+size

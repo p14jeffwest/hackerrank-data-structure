@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example
+# 01 a single node. 01 must be published: it is the smallest place the two
+#    height conventions part company (0 edges against 1 node), and it is where
+#    an empty-subtree base case of 0 instead of -1 shows immediately.
+# 02 one-sided nodes with real subtrees under them. 02 must be published: a
+#    solution that counts a node with one child as a leaf stops there and
+#    reports 2 instead of 4.
+00
+01
+02

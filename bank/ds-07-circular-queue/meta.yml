@@ -1,0 +1,96 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-07-circular-queue
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch07
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "07"
+
+# page_id of the source section.
+# 7.3 A Circular Array-Based Implementation of a Queue
+source_page_id: 375826
+
+also_cites:
+  - 375824   # 7.1 The ADT Queue (QueueInterface)
+  - 375816   # 6.1 The ADT Stack (the two ways of reporting an empty structure)
+
+# Title shown on HackerRank
+title: "A Circular Array-Based Queue"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Deliberately the same problem, so that one explanation serves both courses.
+# The command set matches; the boundary behaviour does not, because the two
+# books differ. The Korean 6.2 has enqueue on a full queue do nothing and
+# dequeue on an empty one return -1; this book's 7.3 throws on full and
+# returns null on empty. Each version follows its own book.
+ko_counterpart: dsa-06-circular-queue
+differs_from_ko:
+  full_queue:
+    ko: "enqueue does nothing, no output"
+    en: "enqueue throws; the driver prints `full`"
+  empty_queue:
+    ko: "dequeue and peek print -1"
+    en: "dequeue and getFront return null; the driver prints `empty`"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "350 ms (case 13, capacity 2, Q = 200,000)"
+  scored_variants:
+    - code: "reference implementation"
+      score: "14/14"
+    - code: "rear computed without % capacity"
+      score: "7/14"
+    - code: "front advanced without % capacity"
+      score: "7/14"
+    - code: "enqueue without count++"
+      score: "0/14"
+    - code: "enqueue without the isFull check"
+      score: "8/14"
+    - code: "dequeue and getFront without the isEmpty checks"
+      score: "8/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The two missing-modulo mistakes score the same 7/14 but fail different
+    cases -- 02 06 07 08 10 12 13 for the write, 02 04 05 07 08 10 13 for the
+    read -- so the score still points somewhere useful.
+    Cases 00, 01, 03, 04, 05, 09 and 11 never need a wrap at all, which is
+    what keeps those mistakes partial rather than total. gen.py reports, for
+    each case, how many enqueues would run off the array without the modulo;
+    that number is the one to look at when editing the data.
+    A missing isFull check is the quietest of the five: enqueue overwrites the
+    front element and the queue carries on answering, with the wrong contents
+    rather than an error.

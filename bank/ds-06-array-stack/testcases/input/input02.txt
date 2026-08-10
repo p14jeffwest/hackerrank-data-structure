@@ -1,0 +1,14 @@
+13
+empty
+size
+pop
+peek
+push 7
+empty
+size
+peek
+pop
+empty
+size
+pop
+peek

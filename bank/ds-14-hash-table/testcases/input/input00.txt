@@ -1,0 +1,10 @@
+10 9
+put 1 100
+put 11 200
+get 1
+get 11
+print
+remove 1
+get 1
+get 11
+print

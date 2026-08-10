@@ -1,0 +1,11 @@
+10 10
+put -7 1
+put 3 2
+print
+get -7
+get 3
+put -13 5
+print
+remove -7
+print
+get -7

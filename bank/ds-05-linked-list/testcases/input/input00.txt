@@ -1,0 +1,14 @@
+13
+add 10
+add 20
+add 30
+print
+addAt 1 15
+print
+removeAt 0
+print
+indexOf 30
+get 5
+addAt 3 99
+print
+size

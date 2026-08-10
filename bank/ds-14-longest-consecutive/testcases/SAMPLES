@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example
+# 02 duplicates: six values but only three distinct ones, so the answer is 3.
+#    02 must be published: letting a repeat extend a run answers 6.
+# 03 an empty array, where the answer is 0 and there is no second input line.
+00
+02
+03

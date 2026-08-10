@@ -1,0 +1,12 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the three worked examples from the statement
+# 01 k = 1 in every test case, so the answer is always the last node
+# 02 k = n in every test case, so the answer is always the first node
+#
+# All three must be published. An off-by-one scores 0/14 rather than a partial
+# score, because every hidden case punishes it, so the samples are where the
+# student has to be able to diagnose it: 01 catches a pointer sent one step
+# short, and 02 makes one sent a step too far walk off the end.
+00
+01
+02

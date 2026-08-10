@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example from the statement, ending on the append that the
+#    array version would have rejected
+# 01 an empty list, and both bounds at their edges
+# 02 values on both sides of the Integer cache boundary (127 / 128).
+#    02 must be published: it is the only place a student can see an
+#    == comparison fail before submitting.
+00
+01
+02

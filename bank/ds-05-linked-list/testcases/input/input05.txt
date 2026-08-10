@@ -1,0 +1,73 @@
+72
+add 100
+addAt 0 8
+addAt 0 15
+addAt 0 22
+addAt 0 29
+addAt 0 36
+addAt 0 43
+addAt 0 50
+addAt 0 57
+addAt 0 64
+addAt 0 71
+addAt 0 78
+addAt 0 85
+addAt 0 92
+addAt 0 99
+addAt 0 106
+addAt 0 113
+addAt 0 120
+addAt 0 127
+addAt 0 134
+addAt 0 141
+addAt 0 148
+addAt 0 155
+addAt 0 162
+addAt 0 169
+addAt 0 176
+addAt 0 183
+addAt 0 190
+addAt 0 197
+addAt 0 204
+addAt 0 211
+addAt 0 218
+addAt 0 225
+addAt 0 232
+addAt 0 239
+addAt 0 246
+addAt 0 253
+addAt 0 260
+addAt 0 267
+addAt 0 274
+print
+size
+get 0
+get 5
+get 10
+get 15
+get 20
+get 25
+get 30
+get 35
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+removeAt 0
+print
+size

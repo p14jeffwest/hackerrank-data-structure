@@ -1,0 +1,85 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-12-sort-records
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch12
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "12"
+
+# page_id of the source section.
+# 12.1 Introduction to Sorting and Java's Built-In Sort
+source_page_id: 375857
+
+also_cites:
+  - 375863   # 12.7 Exercises, Level 1 Problem 2 (the stability column)
+
+# Title shown on HackerRank
+title: "Ranking by Score"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged: same signature, same input and output format, same
+# bounds, same Head and Tail. One change: the Body comments no longer explain
+# that Java's object sort is stable, because saying so removes the problem.
+ko_counterpart: dsa-13-sort-records
+changed_from_ko:
+  - "the stub comments no longer state that Arrays.sort on objects is stable"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "498 ms (case 11, 100,000 participants)"
+  scored_variants:
+    - code: "descending comparator on score only (the registered solution)"
+      score: "14/14"
+    - code: "sort ascending, then reverse the array"
+      score: "4/14"
+    - code: "comparator with a tie-break on name"
+      score: "7/14"
+    - code: "a hand-written selection sort"
+      score: "10/14, and timing out on 11 12 13"
+  notes: >
+    Stability is the whole content, so ties are the whole test set: case 13 is
+    100,000 participants on one score, where the answer is the input
+    unchanged, and case 12 has five distinct scores across 100,000
+    participants.
+    The hand-written selection sort is the interesting variant. It is
+    unstable, but a selection sort only disturbs a tie when it swaps across
+    one, so it happens to survive most cases -- it fails just one on
+    correctness (case 05) and the rest of its losses are timeouts from being
+    quadratic. That is a reminder that "unstable" does not mean "visibly
+    wrong on every input".
+    Not a mistake: writing the comparator as y.score - x.score. Scores are at
+    most 1,000, so it cannot overflow here. It is a bad habit rather than a
+    bug in this problem, and no case punishes it.

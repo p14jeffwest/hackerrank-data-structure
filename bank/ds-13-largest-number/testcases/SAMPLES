@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example
+# 02 numbers that are prefixes of one another -- 3, 30, 302, 303. 02 must be
+#    published: this is the only situation where sorting by value and sorting
+#    by concatenation disagree, and by value the answer comes out
+#    "303302303" instead of "330330302".
+# 03 every number is 0, where the answer is "0" and not "0000".
+00
+02
+03

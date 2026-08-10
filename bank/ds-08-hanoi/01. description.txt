@@ -1,0 +1,1 @@
+Print the minimum number of moves for the Tower of Hanoi, and the moves themselves.

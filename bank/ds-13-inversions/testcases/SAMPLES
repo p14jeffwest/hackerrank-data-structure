@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example
+# 01 a reversed array, where every pair is an inversion
+# 02 ten copies of one value, where the answer is 0. 02 must be published:
+#    counting equal values as inversions gives 45 here.
+00
+01
+02

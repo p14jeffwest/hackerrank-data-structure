@@ -1,0 +1,99 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-11-meeting-rooms
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch11
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "11"
+
+# page_id of the source section.
+# 11.6 Coding Test Problems, Problem 2 (Meeting Rooms)
+source_page_id: 375856
+
+# Title shown on HackerRank
+title: "Meeting Rooms"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# NONE, despite the matching name. dsa-13-meeting-rooms asks for the largest
+# number of meetings that fit in ONE room -- a greedy selection sorted by end
+# time, using no heap, which is why it sits in the Korean sorting chapter.
+# This one asks for the smallest number of ROOMS, which is the heap problem.
+# Same setting, different question, no shared code or data.
+ko_counterpart: null
+ko_same_name_different_problem: dsa-13-meeting-rooms
+
+# CAUTION: the boundary rule is the OPPOSITE of ds-12-merge-intervals.
+#   here:                   a meeting ending at t and one starting at t do NOT
+#                           overlap; one room takes both.
+#   ds-12-merge-intervals:  [1,4] and [4,5] DO overlap and merge into [1,5].
+# Both are the book's own rules, stated in their own chapters, and both
+# problems take the same {start, end} input. A comparison carried across from
+# one to the other is wrong in a way that passes most small cases.
+boundary_rule_differs_from: ds-12-merge-intervals
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^4, one case"
+  here: "T <= 500, sum of n <= 2*10^5"
+
+# The book's statement names the technique in its hint. Not repeated here:
+# 11.6 is a hidden page.
+hint_withheld_from_statement: "sort by start, keep the end times in a min-heap"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "600 ms (case 09, 200,000 short meetings over a wide span)"
+  scored_variants:
+    - code: "sort by start, min-heap of end times (the registered solution)"
+      score: "14/14"
+    - code: "count overlaps by comparing every pair, O(n^2)"
+      score: "10/14, timing out on 09 10 11 12"
+    - code: "reusing a room only when its end time is strictly before the start"
+      score: "7/14"
+    - code: "not sorting by start time"
+      score: "6/14"
+  notes: >
+    The reference is the book's own code, and one thing about it is worth
+    understanding before marking: it removes AT MOST ONE finished meeting per
+    step and returns the heap's final size. That works because the heap then
+    never shrinks, so its size at the end is the largest it ever was. A
+    student who instead drains every finished meeting each step has a heap
+    that does shrink and must track the maximum separately -- that is also
+    correct, and it is not the same code.
+    The model in gen.py answers by sweeping the endpoints rather than with a
+    heap, so it shares no reasoning with the solution. Ends are processed
+    before starts at equal times, which is the sweep's way of saying that
+    meetings meeting end to start do not overlap.

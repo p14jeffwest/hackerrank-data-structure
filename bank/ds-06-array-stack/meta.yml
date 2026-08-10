@@ -1,0 +1,97 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-06-array-stack
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch06
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "06"
+
+# page_id of the source section.
+# 6.4 An Array-Based Implementation of a Stack
+source_page_id: 375819
+
+also_cites:
+  - 375816   # 6.1 The ADT Stack (StackInterface, underflow handling)
+  - 375728   # 4.2 An Array-Based Implementation (the same ensureCapacity idea)
+
+# Title shown on HackerRank
+title: "An Array-Based Stack"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Same three methods and the same shape. The Korean version is built on that
+# book's 5.2; this one follows 6.4, which differs in detail -- it carries
+# checkIntegrity, a MAX_CAPACITY guard, and clears the popped slot to null.
+ko_counterpart: dsa-05-array-stack
+
+# Deviation from the book.
+# The book sets MAX_CAPACITY to 10,000, which with a default capacity of 50
+# means the array can only ever reach 6,400 elements: the next doubling would
+# be 12,800 and ensureCapacity throws. That ceiling is a safeguard rather than
+# a teaching point, and it would have capped this problem at a stack depth of
+# 6,400. Raised here to 1,000,000; everything else is the book's code.
+constant_changed_from_book:
+  MAX_CAPACITY:
+    book: 10000
+    here: 1000000
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "311 ms (case 12, Q = 200,000)"
+  scored_variants:
+    - code: "reference implementation"
+      score: "14/14"
+    - code: "item[top++] instead of item[++top]"
+      score: "0/14"
+    - code: "pop without top--"
+      score: "2/14"
+    - code: "push without ensureCapacity()"
+      score: "6/14"
+    - code: "pop and peek without their isEmpty checks"
+      score: "8/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The driver distinguishes two kinds of failure, and it had to. In the first
+    version it caught RuntimeException and printed "empty", which meant a
+    solution with no empty checks at all scored 14/14: reading item[-1] throws
+    ArrayIndexOutOfBoundsException, that is a RuntimeException, and the
+    accidental catch produced exactly the right word. The driver now catches
+    IndexOutOfBoundsException separately and prints "crash", which drops that
+    solution to 8/14. Reading outside the array is a bug and should not be
+    allowed to impersonate a correct underflow report.
+    Note what still cannot be caught: leaving out item[top] = null in pop
+    changes no output, exactly as in ds-04-array-list. It is a
+    garbage-collection concern and belongs on an exam.

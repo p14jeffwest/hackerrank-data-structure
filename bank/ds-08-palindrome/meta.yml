@@ -1,0 +1,81 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-08-palindrome
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch08
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "08"
+
+# page_id of the source section.
+# 8.4 Exercises, Level 2 Problem 5 (Reversing a String) -- the same family of
+# recursive string processing, and the same recursion skeleton.
+source_page_id: 375834
+
+# Title shown on HackerRank
+title: "Palindrome"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over unchanged, including the input and output format, so that one
+# explanation serves both courses. This book's own exercise at this point is
+# "reverse a string recursively" rather than "is it a palindrome", but the two
+# share the skeleton -- narrow a range from both ends -- so the Korean problem
+# was kept in preference to inventing a second one.
+ko_counterpart: dsa-09-palindrome
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "166 ms (case 12, 1,000 strings of about 1,000 characters)"
+  scored_variants:
+    - code: "narrow from both ends with a helper (the registered solution)"
+      score: "14/14"
+    - code: "comparison ignoring case"
+      score: "8/14, wrong on 00 02 04 10 11 13"
+    - code: "base case written low == high only"
+      score: "3/14"
+    - code: "recursing on (low + 1, high) instead of (low + 1, high - 1)"
+      score: "5/14"
+    - code: "unmodified stub"
+      score: "1/14 -- it returns false, which is right for one case by luck"
+  notes: >
+    What no test can check is whether the method is recursive at all. A
+    student can write s.equals(new StringBuilder(s).reverse().toString()) and
+    score full marks, and there is no way to prevent that from the test data.
+    The Korean counterpart accepts the same limitation, and so does this one;
+    the recursion is asked for in the constraints and assessed on the exam.
+    The base-case mistake is the interesting one. Writing `low == high`
+    catches odd-length strings and misses even-length ones, where the range
+    ends with low > high and the recursion runs past the ends of the string.
+    Cases 01 and 03 separate the two parities deliberately.

@@ -1,0 +1,8 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, where all four traversals differ in every position
+# 01 a single node, where all four are the same
+# 02 the tree from section 9.3's Check Your Understanding, so a student can
+#    check against an answer they have already seen
+00
+01
+02

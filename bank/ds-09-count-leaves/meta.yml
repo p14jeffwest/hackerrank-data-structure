@@ -1,0 +1,86 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-09-count-leaves
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch09
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "09"
+
+# page_id of the source section.
+# 9.4 Exercises, Level 2 Problem 4 (Counting the Leaf Nodes of a Tree)
+source_page_id: 375840
+
+also_cites:
+  - 375842   # 9.5 Coding Test Problems, Problem 1 (Maximum Depth of a Tree)
+  - 375837   # 9.1 Tree Concepts and Terminology (height counted in edges)
+
+# Title shown on HackerRank
+title: "Leaves and Height"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Head is byte-identical to ds-09-traversal's.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over with its input format and bounds unchanged. One change: a third
+# method. The Korean version asks for the leaf count and the height in edges;
+# this book measures the same thing in nodes in 9.5, and its own answer page
+# warns that the two differ by one and that the problem's definition has to be
+# checked. Asking for both is what turns that warning into something a student
+# has to act on.
+ko_counterpart: dsa-10-count-leaves
+changed_from_ko:
+  - "adds maxDepth (height counted in nodes) as a third method and output line"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "368 ms (case 13, 100,000 nodes)"
+  deepest_tree: "height 5,000 in nodes (cases 11 and 12)"
+  scored_variants:
+    - code: "the three methods as written (the registered solution)"
+      score: "14/14"
+    - code: "a node with one child counted as a leaf"
+      score: "11/14, wrong on 02 10 13"
+    - code: "height with an empty subtree of 0 instead of -1"
+      score: "0/14"
+    - code: "maxDepth delegating to height"
+      score: "0/14"
+  notes: >
+    The one-sided-node trap needed its sample rebuilt. A zigzag -- every node
+    with exactly one child -- looks like the obvious test and does not work:
+    such a tree has exactly one leaf, and a solution that stops at the first
+    one-sided node also reports one, so it passes by accident. Case 02 is now
+    a tree where each one-sided node leads to a subtree with several leaves,
+    so stopping early undercounts: 4 against 2.
+    The zigzag is still in the set, as case 12, where it does a different job
+    -- maximum height with a single leaf.

@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the book's first example, using only 0, 1 and 2
+# 01 the book's second example
+# 02 maxValue itself occurs, and so does 0. 02 must be published: a count
+#    array of maxValue entries instead of maxValue + 1 runs off the end here,
+#    and nothing else in the samples reaches that value.
+00
+01
+02

@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, including N = 90
+# 01 the first ten staircases, small enough that even plain recursion answers
+#    them, so a student can check their base cases before worrying about speed
+# 02 N = 44, 45, 46, 47. 02 must be published: ways(45) is the last answer
+#    that fits in an int and ways(46) is the first that does not, so a
+#    solution counting in int prints 1836311903 and then -1323752223. Nothing
+#    else reveals that.
+00
+01
+02

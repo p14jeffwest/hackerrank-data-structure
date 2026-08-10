@@ -1,0 +1,17 @@
+16
+add 126
+add 127
+add 128
+add 129
+add 1000
+print
+indexOf 126
+indexOf 127
+indexOf 128
+indexOf 129
+indexOf 1000
+indexOf 500
+removeValue 128
+print
+removeValue 127
+print

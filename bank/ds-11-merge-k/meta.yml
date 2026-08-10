@@ -1,0 +1,83 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-11-merge-k
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch11
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "11"
+
+# page_id of the source section.
+# 11.6 Coding Test Problems, Problem 1 (Merging K Sorted Lists)
+source_page_id: 375856
+
+# Title shown on HackerRank
+title: "Merging K Sorted Lists"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "k <= 10^4, N unstated"
+  here: "k <= 10^5, N <= 5*10^5"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "751 ms (case 11, k = 100,000)"
+  scored_variants:
+    - code: "min-heap of one candidate per list (the registered solution)"
+      score: "14/14"
+    - code: "scan every list front at each step, O(N*k)"
+      score: "11/14, timing out on 11 12 13"
+    - code: "never re-offering the next element of the list just used"
+      score: "2/14"
+    - code: "max-heap instead of min-heap"
+      score: "4/14"
+    - code: "pour everything into one array and sort it"
+      score: "14/14 -- not a mistake; see the note"
+  notes: >
+    WHAT THIS PROBLEM CANNOT ENFORCE. Collecting every value into one array
+    and calling Arrays.sort is O(N log N), and at these sizes it is not slower
+    than the heap -- measured at 481 to 656 ms against the reference's 609 to
+    751 ms. It cannot be excluded: the required output is the fully merged
+    list, so any method producing a sorted sequence of the same values is
+    right by definition.
+    So the heap here is the taught method rather than the enforced one. What
+    the problem does enforce is that the O(N*k) scan fails, which is the
+    comparison the book's hint is actually about.
+    Making the heap necessary would mean changing the question -- asking for
+    only the first m values of the merge, with N far larger than m -- and that
+    is no longer the book's problem. Flagged rather than done.

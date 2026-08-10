@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the three worked examples from the statement
+# 01 every reading identical, so every answer is 0
+# 02 ties with a warmer day further along. 02 must be published: it is where
+#    a comparison written as >= gives a different answer from >, and the only
+#    place a student sees that before submitting.
+00
+01
+02

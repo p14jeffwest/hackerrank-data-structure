@@ -1,0 +1,17 @@
+16
+pop
+peek
+size
+push 3
+push 4
+push 6
+push 21
+push 10
+push 7
+push 8
+print
+pop
+print
+peek
+pop
+print

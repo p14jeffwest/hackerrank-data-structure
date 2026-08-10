@@ -1,0 +1,92 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-14-group-anagrams
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch14
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "14"
+
+# page_id of the source section.
+# 14.7 Coding Test Problems, Problem 2 (Group Anagrams)
+source_page_id: 375882
+
+also_cites:
+  - 375877   # 14.3 Using Java's HashMap
+  - 375880   # 14.6 Exercises, Level 1 Problem 2 (Detecting an Anagram)
+
+# Title shown on HackerRank
+title: "Grouping Anagrams"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviations from the book, agreed before the problem was built.
+changed_from_book:
+  order:
+    book: "the order within groups and among groups is free"
+    here: >
+      within a group, input order; groups in the order their first word
+      appeared. A free order cannot be graded, and this particular one is what
+      a LinkedHashMap gives -- so requiring it makes the chapter's own point
+      testable, namely that a plain HashMap has no order at all.
+  bounds:
+    book: "n <= 10^4"
+    here: "n <= 10^5, word length <= 20"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "386 ms (case 12, 100,000 words each in its own group)"
+  scored_variants:
+    - code: "sorted-letters key in a LinkedHashMap (the registered solution)"
+      score: "14/14"
+    - code: "the same, in a plain HashMap"
+      score: "5/14"
+    - code: "key made from the sum of the character codes"
+      score: "10/14"
+    - code: "the word itself as the key"
+      score: "4/14"
+    - code: "sorting the words within each group"
+      score: "8/14"
+  notes: >
+    The sum-of-character-codes key is the interesting mistake. It scores
+    10/14, because a collision needs two words whose letters sum alike without
+    being anagrams -- "ad" and "bc" both come to 197 -- and random words
+    rarely produce one at short lengths. Case 04 is built from such pairs on
+    purpose, and the large cases 11 to 13 hit it by volume.
+    The order requirement is not decoration: without it the problem cannot be
+    graded at all, and with it the plain-HashMap solution -- which is the
+    book's own code -- scores 5/14. Sample 03 exists so that is visible before
+    submitting rather than after.

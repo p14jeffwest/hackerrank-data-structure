@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the three worked examples from the statement
+# 01 values shared between the two lists, and runs of equal values
+# 02 the empty cases: one side empty, the other side empty, and both at once.
+#    02 must be published: a solution that picks its first node by comparing
+#    head1.data with head2.data crashes the moment a list is empty, and this
+#    is where the student sees that before submitting.
+00
+01
+02

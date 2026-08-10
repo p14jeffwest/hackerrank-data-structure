@@ -1,0 +1,82 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-06-eval-postfix
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch06
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "06"
+
+# page_id of the source section.
+# 6.2 Applications of Stacks, item 2 (Evaluating Postfix Expressions)
+source_page_id: 375817
+
+also_cites:
+  - 375821   # 6.6 Exercises, Level 2 Problem 5 (evalPostfix)
+  - 375820   # 6.5 Java Class Library: ArrayDeque
+
+# Title shown on HackerRank
+title: "Evaluating a Postfix Expression"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# No. This is an application problem rather than an implementation one, and
+# 6.2 writes it against ArrayDeque, with 6.5 devoted to using ArrayDeque as a
+# stack. There is no library call that shortcuts postfix evaluation, so
+# nothing is lost by letting students reach for the standard stack -- which is
+# what the book teaches them to do at this point.
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: dsa-05-eval-postfix
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "a handful of short expressions"
+  here: "T <= 2,000, at most 300,000 tokens in total"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "251 ms (case 09, one expression of 300,000 tokens)"
+  scored_variants:
+    - code: "stack evaluation, right operand popped first (the registered solution)"
+      score: "14/14"
+    - code: "operands popped in the wrong order"
+      score: "3/14, passing 03 05 11 -- the cases with no - or /"
+    - code: "operator detected by first character only"
+      score: "3/14, misreading every negative literal"
+    - code: "Math.floorDiv instead of Java's truncating division"
+      score: "9/14"
+  notes: >
+    The reference model in gen.py implements Java's truncation toward zero
+    rather than Python's floor division. Writing it the natural Python way
+    would have produced expected output that agrees with a Java solution only
+    when the two operands happen to share a sign.

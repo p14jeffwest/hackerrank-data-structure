@@ -1,0 +1,87 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-14-hash-table
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch14
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "14"
+
+# page_id of the source section.
+# 14.6 Exercises, Level 3 Problem 4 (Implementing a Chaining Hash Table)
+source_page_id: 375880
+
+also_cites:
+  - 375878   # 14.4 Resolving Collisions
+  - 375879   # 14.5 The Load Factor and Performance
+
+# Title shown on HackerRank
+title: "A Chaining Hash Table"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. This is the only chapter 14 problem that BUILDS a hash table; the
+# other three use HashMap. Sections 14.4 and 14.5 would otherwise go
+# untested, the same gap ds-11-heap fills in chapter 11.
+ko_counterpart: null
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "831 ms (case 10, 200,000 commands on a table of 10 slots)"
+  scored_variants:
+    - code: "chaining, with the negative-key fix (the registered solution)"
+      score: "14/14"
+    - code: "hash written as key % size, without the fix"
+      score: "8/14"
+    - code: "put appending instead of replacing an existing key"
+      score: "10/14"
+    - code: "each slot holding one entry, overwriting on a collision"
+      score: "4/14"
+    - code: "delegating to java.util.HashMap"
+      score: "0/14"
+  notes: >
+    The print command is what makes this a hash-table problem rather than a
+    map problem. A HashMap-backed solution answers every get correctly and
+    scores 0/14, because it never fills the buckets. Same reasoning as
+    ds-11-heap's print.
+    Case 12 had to be cut down from 200,000 commands to 4,000. Its keys are
+    all congruent, so every one of them lands in a single chain and each put
+    walks the whole chain -- the work is quadratic FOR THE CORRECT SOLUTION
+    TOO. At 200,000 that is 2 * 10^10 steps and the reference would have been
+    the thing that timed out. 4,000 makes the degenerate-load point without
+    punishing anybody, and case 10 -- 200,000 commands over 10 slots -- is
+    where the load factor costs real time at 831 ms.
+    Note the get() convention: -1 for a miss, which a stored -1 is
+    indistinguishable from. That is the book's, and case 06 contains it
+    deliberately so nobody discovers it by surprise.

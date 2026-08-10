@@ -1,0 +1,41 @@
+40
+add 0
+median
+add 1000
+median
+add -2000
+median
+add 3000
+median
+add -4000
+median
+add 5000
+median
+add -6000
+median
+add 7000
+median
+add -8000
+median
+add 9000
+median
+add -10000
+median
+add 11000
+median
+add -12000
+median
+add 13000
+median
+add -14000
+median
+add 15000
+median
+add -16000
+median
+add 17000
+median
+add -18000
+median
+add 19000
+median

@@ -1,0 +1,85 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-11-heap
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch11
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "11"
+
+# page_id of the source section.
+# 11.3 Heap Operations (Adding and Removing)
+source_page_id: 375852
+
+also_cites:
+  - 375851   # 11.2 The Heap and its array representation
+  - 375854   # 11.5 Exercises, Level 1 Problems 1 and 2 (the traces)
+
+# Title shown on HackerRank
+title: "A Min-Heap"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean chapter 11 uses PriorityQueue and never asks for the heap
+# itself. Sections 11.2 to 11.4 of this book are about building it, and
+# without this problem that half of the chapter goes untested -- the other
+# three chapter 11 problems are all PriorityQueue applications.
+ko_counterpart: null
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "877 ms (case 13, 100,000 pushes then 100,000 pops)"
+  scored_variants:
+    - code: "the book's up-heap and down-heap (the registered solution)"
+      score: "14/14"
+    - code: "down-heap swapping with the LARGER child"
+      score: "4/14"
+    - code: "pop removing the root by shifting the array left"
+      score: "5/14, and timing out on 10 and 13"
+  notes: >
+    A variant that overwrote the root before detaching the last element was
+    written and turned out to be CORRECT, not wrong: setting index 0 to the
+    last value and then removing the last is the same operation in the other
+    order. Worth knowing when marking.
+    A PriorityQueue-backed variant was also tried and is not representative:
+    to answer `print` at all it has to maintain the visible array itself,
+    which made it O(n) per operation and timed out for a reason unrelated to
+    the mistake. What is true, and is the reason `print` exists, is that
+    java.util.PriorityQueue does NOT lay its array out the way 11.3 does once
+    removals are involved -- its sift-down differs -- so a solution built on
+    it cannot reproduce these outputs.
+    The `print` commands are spread through the large cases rather than left
+    at the end. PriorityQueue's sift-UP is the same as the book's, so after a
+    run of pushes the arrays agree; they only diverge after removals, and a
+    single print at the end catches that far less often.

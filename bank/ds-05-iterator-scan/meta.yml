@@ -1,0 +1,93 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-05-iterator-scan
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch05
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "05"
+
+# page_id of the source section.
+# 5.4 ListIterator
+source_page_id: 375812
+
+also_cites:
+  - 375734   # 5.2 Linked List Operations (getNodeAt, and why get(i) is O(n))
+
+# Title shown on HackerRank
+title: "Editing a List While You Walk It"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Head is the problem. It offers both routes through the list --
+# index-based get/add/set and a cursor -- because the point of 5.4 is choosing
+# between them. Hand over only a cursor and there is nothing to get wrong;
+# hand over only indices and the problem is impossible.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no ListIterator section, which is why this problem
+# exists here: it is the chapter 5 material the two courses do not share.
+ko_counterpart: null
+
+# This problem is not in the book's coding-test section. The task is taken
+# from the TIP at the end of 5.4, which names "inserting a 0 before each odd
+# element while traversing" as the natural use of ListIterator.add. Changed to
+# "after" rather than "before" because a forward-only cursor learns the value
+# only after stepping over it, and the book's own interface description puts
+# add() just before the cursor.
+origin: "written for this contest, from the TIP at the end of 5.4"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "422 ms (case 10, one list of 200,000 random values)"
+  largest_output: "2.4 MB (case 11)"
+  scored_variants:
+    - code: "one pass with a cursor (the registered solution)"
+      score: "14/14"
+    - code: "index-based loop over get / add(int,T) / set(int,T)"
+      score: "8/14, timing out on 08 through 13"
+    - code: "oddness tested as x % 2 == 1"
+      score: "5/14"
+    - code: "the two branches swapped"
+      score: "0/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The index-based mistake scores 8/14, and the shape of that score is the
+    lesson: it passes every small case and fails every large one, so the
+    student can read off that the logic was right and the traversal was not.
+    This is the only problem in chapters 4 and 5 where the intended mistake is
+    caught by the clock rather than by a wrong value, and it is therefore the
+    one most exposed to the grader being slower or faster than this container.
+    Values are capped at 10^8 rather than 10^9 so that ten times a value still
+    fits in an int. Raising the cap would introduce an overflow this problem
+    is not about.

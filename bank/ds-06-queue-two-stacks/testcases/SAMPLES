@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the sequence the book uses to describe the behaviour
+# 01 a straight run in and out, confirming the order is not reversed
+# 02 an empty queue touched in every way, then refilled
+# 03 an enqueue landing between two dequeues. 03 must be published: it is
+#    where refilling the outbox unconditionally puts the newer element first,
+#    and the only sample that separates that mistake from a correct solution.
+00
+01
+02
+03

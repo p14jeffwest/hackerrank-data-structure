@@ -1,0 +1,10 @@
+9
+insert 0
+insert -1000000000
+insert 1000000000
+search -1000000000
+print
+preorder
+delete 0
+print
+preorder

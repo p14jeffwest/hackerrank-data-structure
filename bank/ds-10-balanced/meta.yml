@@ -1,0 +1,91 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-10-balanced
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch10
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "10"
+
+# page_id of the source section.
+# 10.5 Exercises, Level 3 Problem 6 (Building a Balanced BST, walkthrough)
+source_page_id: 375847
+
+also_cites:
+  - 375846   # 10.4 Efficiency Analysis and the Skew Problem
+
+# Title shown on HackerRank
+title: "Building a Balanced BST"
+
+# tutorial | easy | medium | hard
+difficulty: hard
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 50
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "no bound stated"
+  here: "n <= 2*10^5"
+
+# The book requires height O(log n) but does not identify a single tree: any
+# choice of middle balances it. A grader needs one, so the statement requires
+# nums[(lo + hi) / 2], which is what the book's own code produces.
+rule_pinned_down: "root of a range is nums[(lo + hi) / 2]"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "308 ms (case 11, 200,000 keys)"
+  scored_variants:
+    - code: "middle by (lo + hi) / 2, ranges passed as indices (the registered solution)"
+      score: "14/14"
+    - code: "middle by (lo + hi + 1) / 2"
+      score: "5/14, identical heights and different preorders"
+    - code: "keys inserted in order, producing a spine"
+      score: "2/14"
+    - code: "copying a subList per call instead of passing indices"
+      score: "14/14 -- not a mistake; see the note"
+  notes: >
+    THIS PROBLEM HAS NO PERFORMANCE DISCRIMINATION, and that was established
+    by measurement rather than assumed. The obvious candidate for a slow
+    solution -- copying a subarray at every call instead of passing indices --
+    was written and scores 14/14, because the copying is O(n) per level and
+    O(n log n) overall, not quadratic. There is no natural quadratic mistake
+    here at all.
+    So what the problem tests is entirely correctness: the midpoint rule, and
+    the recursion producing a tree of minimum height. That is worth knowing
+    before deciding whether 50 points is the right weight; on the evidence
+    this is a Medium that sits in a Hard slot because it is the chapter's
+    Level 3 walkthrough. Raised with the instructor.
+    The two output lines check different things on purpose. A tree can have
+    the right height and the wrong shape -- the (lo + hi + 1) / 2 variant is
+    exactly that, matching every height and failing nine preorders.

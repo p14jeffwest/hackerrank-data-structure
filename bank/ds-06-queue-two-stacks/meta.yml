@@ -1,0 +1,88 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-06-queue-two-stacks
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch06
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "06"
+
+# page_id of the source section.
+# 6.6 Exercises, Level 3 Problem 6 (Implementing a Queue with Stacks)
+source_page_id: 375821
+
+also_cites:
+  - 375819   # 6.4 An Array-Based Implementation of a Stack (the provided ArrayStack)
+  - 375729   # 4.3 Efficiency Analysis (what "amortized" means)
+
+# Title shown on HackerRank
+title: "A Queue Made of Two Stacks"
+
+# tutorial | easy | medium | hard
+difficulty: hard
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 50
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and it is what makes the problem answerable. The two stacks are
+# declared as fields in the Head, so "use only stacks" is the shape of the
+# code the student is handed rather than a rule they are asked to respect.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean book has no equivalent exercise, which is part of why this
+# was chosen: chapter 6 otherwise overlaps heavily with the Korean chapter 5.
+ko_counterpart: null
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "342 ms (case 10, Q = 200,000 over a queue held at 100,000)"
+  scored_variants:
+    - code: "refill only when the outbox is empty (the registered solution)"
+      score: "14/14"
+    - code: "refill the outbox on every dequeue"
+      score: "5/14, wrong ORDER as well as slow"
+    - code: "refill, take one, then move everything back"
+      score: "9/14, correct answers, timing out on 09 through 13"
+    - code: "isEmpty checks the outbox only"
+      score: "9/14"
+    - code: "pop the outbox without ever refilling it"
+      score: "0/14"
+    - code: "unmodified stub"
+      score: "0/14"
+  notes: >
+    The amortized requirement is the one thing in this problem that can be
+    enforced, and it is enforced by the clock. The move-everything-back
+    solution is the interesting one: its answers are correct everywhere, and
+    it fails only on the five large cases. That is the cleanest demonstration
+    in the whole set that a correct algorithm and an affordable one are
+    different questions.
+    The unconditional-refill mistake fails for a second and more instructive
+    reason. Pouring the inbox onto a non-empty outbox buries older elements
+    under newer ones, so the order breaks the moment an enqueue lands between
+    two dequeues. Case 03 is nine commands long and shows it: the answer is
+    1 2 3 9 and that solution prints 1 9 2 3.

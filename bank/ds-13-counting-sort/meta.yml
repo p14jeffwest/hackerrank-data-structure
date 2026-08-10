@@ -1,0 +1,99 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-13-counting-sort
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch13
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "13"
+
+# page_id of the source section.
+# 13.7 Exercises, Level 2 Problem 2 (Sorting Three Values)
+source_page_id: 375872
+
+also_cites:
+  - 375869   # 13.4 Counting sort
+  - 375870   # 13.5 Radix sort (which is built on this)
+
+# Title shown on HackerRank
+title: "Counting Sort"
+
+# tutorial | easy | medium | hard
+difficulty: easy
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 10
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed with the instructor before building.
+# 13.7 Level 2 Problem 2 restricts the values to 0, 1 and 2, where "counting
+# sort" collapses into counting three things. The range is widened to
+# 0..10^6 so that the count array, the prefix sum and the placement pass are
+# all actually needed -- which is what 13.4 describes and what 13.5 reuses.
+changed_from_book:
+  book: "values are only 0, 1 and 2"
+  here: "0 <= v <= maxValue <= 10^6"
+
+# NOTE: the same 0/1/2 array also appears as 12.7 Level 3 Problem 6, the Dutch
+# National Flag problem, which was not made into a contest problem. That one
+# asks for three pointers and O(1) space; this one asks for counting. Same
+# input, different method, so they do not collide.
+related_but_not_used: "12.7 L3 P6, the Dutch National Flag problem"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "371 ms (case 11)"
+  scored_variants:
+    - code: "count, prefix sum, place from the back (the registered solution)"
+      score: "14/14"
+    - code: "count array sized maxValue instead of maxValue + 1"
+      score: "0/14"
+    - code: "placing from the front instead of the back"
+      score: "14/14 -- still correct here; see the note"
+    - code: "no prefix sum, emitting each value count[v] times"
+      score: "14/14 -- the other correct way to write it"
+    - code: "Arrays.sort"
+      score: "14/14 -- not excluded; see the note"
+  notes: >
+    COUNTING SORT CANNOT BE ENFORCED BY TIME, and the sizes reflect that
+    rather than pretending otherwise. Measured here: 371 ms against
+    Arrays.sort's 565 ms on case 11, and on case 13 -- a million identical
+    values -- the library sort is actually the faster of the two at 354 ms
+    against 364. Raising n does not help: at 5,000,000 it was 1219 ms against
+    1972 ms, both far inside any limit, and the input file alone would be
+    34 MB. n is capped at 1,000,000 because a larger one costs megabytes and
+    buys nothing.
+    Placing from the front rather than the back also scores 14/14. It is what
+    makes the sort unstable, and for plain ints there is nothing for stability
+    to preserve -- equal values are indistinguishable. It matters in 13.5,
+    where radix sort needs each digit pass to leave the previous one's order
+    alone, so it is reserved in variants.md as an exam question rather than
+    marked wrong here.

@@ -1,0 +1,86 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-09-path-sum
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch09
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+# NONE. This book's chapter 9 has no path-sum problem; its Level 3 walkthrough
+# is the diameter, which is ds-09-diameter. Added at the instructor's request
+# so that the two courses share one more problem, the same reasoning as
+# ds-08-gcd. The recursion it exercises -- carry a remainder down, decide at
+# the leaf -- is squarely chapter 9 material.
+chapter: "09"
+source_page_id: null
+in_book: false
+added_at_instructor_request: true
+
+also_cites:
+  - 375840   # 9.4 Exercises (the Node class and the recursion patterns)
+
+# Title shown on HackerRank
+title: "Path Sum"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Head is byte-identical to ds-09-traversal's.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Taken over with its input format, bounds and Tail unchanged.
+ko_counterpart: dsa-10-path-sum
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "931 ms (case 11, 100,000 nodes and 1,000 queries)"
+  scored_variants:
+    - code: "carry the remainder down, test at the leaf (the registered solution)"
+      score: "14/14"
+    - code: "a missing child answering `target == 0`"
+      score: "7/14"
+    - code: "the leaf testing `target == 0` rather than `target == node.data`"
+      score: "1/14"
+    - code: "abandoning a branch once the remainder goes negative"
+      score: "9/14"
+  notes: >
+    The missing-child mistake is the one the problem is built around, and it
+    is subtle: `if (node == null) return target == 0;` reads like a correct
+    base case and quietly allows a path to stop at a one-sided node. Case 02
+    is a chain of one-sided nodes whose partial sums are all offered as
+    targets; the answer is false to every one of them and that solution says
+    true to every one.
+    The prune-on-negative mistake is correct whenever the values are all
+    positive, which is why case 10 uses only positive values -- it keeps the
+    mistake partial rather than total and shows the student which half of the
+    input broke it.
+    Each query re-walks the tree, so the cost is O(n * Q) = 10^8 in the worst
+    case. That is fine at 900 ms and it is why Q is capped at 1,000 rather
+    than raised further.

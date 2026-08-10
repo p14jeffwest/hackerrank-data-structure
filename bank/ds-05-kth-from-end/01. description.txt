@@ -1,0 +1,1 @@
+Return the data of the k-th node from the end of a singly linked list, without being told its length.

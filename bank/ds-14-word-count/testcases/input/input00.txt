@@ -1,0 +1,4 @@
+6
+apple banana apple cherry banana apple
+4
+apple banana cherry durian

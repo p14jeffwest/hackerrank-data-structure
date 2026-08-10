@@ -1,0 +1,12 @@
+1 11
+empty
+enqueue 1
+full
+enqueue 2
+front
+dequeue
+empty
+enqueue 3
+front
+dequeue
+dequeue

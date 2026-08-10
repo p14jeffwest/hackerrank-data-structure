@@ -1,0 +1,10 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the two worked examples from the book
+# 01 a single process, and the target at each end of a short queue
+# 02 every priority equal, so nothing displaces anything and the processes run
+#    in their original order. 02 must be published: a comparison written with
+#    >= makes equal priorities displace each other and the queue never empties,
+#    which shows up here as a hang rather than a wrong answer.
+00
+01
+02

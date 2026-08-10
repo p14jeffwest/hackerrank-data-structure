@@ -1,0 +1,85 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-13-largest-number
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch13
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "13"
+
+# page_id of the source section.
+# 13.8 Coding Test Problems, Problem 2 (Building the Largest Number)
+source_page_id: 375874
+
+also_cites:
+  - 375871   # 13.6 What to sort by
+
+# Title shown on HackerRank
+title: "Building the Largest Number"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviation from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "n <= 10^4"
+  here: "n <= 10^5"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "601 ms (case 12, an answer of 888,842 digits)"
+  scored_variants:
+    - code: "sort on the concatenation comparison (the registered solution)"
+      score: "14/14"
+    - code: "sort by value, descending"
+      score: "5/14"
+    - code: "sort by plain string order, descending"
+      score: "8/14"
+    - code: "no all-zeros case"
+      score: "13/14, wrong only on 03"
+  notes: >
+    THE MODEL WAS WRONG FIRST TIME and the Java solution caught it. The
+    comparator's sign was inverted, so gen.py sorted ascending and produced
+    "3033459" for the book's own example instead of "9534330". Every case
+    disagreed with the Java solution immediately. gen.py now has the
+    comparison in a named function with the sign spelled out, and a note
+    saying what went wrong.
+    This is the one problem in the set where the model and the solution
+    necessarily share their reasoning -- the required order IS the comparison,
+    so there is no independent way to compute the answer. Running the two
+    against each other is the only check available, which is exactly why it is
+    always done.
+    The all-zeros omission scores 13/14. It is a single special case and there
+    is only one case that can test it, so sample 03 exists for that alone.

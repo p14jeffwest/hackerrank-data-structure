@@ -1,0 +1,11 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked examples from the statement
+# 01 subtraction and division, each pair being the same two numbers in the
+#    other order, so popping the operands the wrong way round is visible
+# 02 negative literals standing next to the minus operator. 02 must be
+#    published: a solution that decides on the first character alone reads
+#    "-11" as an operator, and this is the only place that shows before
+#    submitting.
+00
+01
+02

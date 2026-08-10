@@ -1,0 +1,601 @@
+600
+add 12
+add 90
+add 70
+add 25
+add 89
+add 41
+add 16
+add 93
+add 61
+add 29
+add 62
+add 3
+add 11
+add 8
+add 60
+add 36
+add 32
+add 63
+add 14
+add 94
+add 45
+add 43
+add 1
+add 2
+add 34
+add 37
+add 28
+add 11
+add 18
+add 99
+removeAt 2
+add 93
+add 51
+addAt 18 88
+get 11
+removeValue 99
+add 60
+removeValue 89
+add 61
+add 46
+add 60
+removeAt 11
+indexOf 51
+removeValue 36
+add 9
+removeAt 11
+add 90
+removeAt 13
+removeAt 30
+add 4
+indexOf 32
+indexOf 36
+addAt 28 72
+removeValue 28
+add 76
+add 79
+addAt 31 29
+indexOf 93
+add 74
+addAt 11 82
+removeAt 24
+get 9
+indexOf 51
+addAt 24 60
+add 74
+add 27
+add 62
+removeAt 35
+addAt 0 98
+add 66
+add 16
+indexOf 72
+removeAt 33
+get 32
+removeAt 11
+removeValue 37
+add 2
+removeValue 72
+indexOf 61
+add 22
+add 55
+removeValue 61
+removeAt 3
+add 22
+add 97
+addAt 12 22
+add 14
+addAt 8 99
+removeAt 40
+indexOf 14
+add 19
+addAt 7 66
+add 26
+removeValue 2
+add 89
+removeAt 9
+get 35
+add 58
+removeAt 9
+removeValue 79
+removeAt 31
+removeAt 42
+add 57
+removeValue 4
+removeAt 25
+addAt 0 66
+add 12
+addAt 21 5
+get 38
+add 77
+addAt 30 27
+add 75
+removeAt 45
+indexOf 66
+add 41
+get 25
+removeValue 26
+addAt 17 34
+removeAt 9
+add 72
+add 18
+get 22
+add 49
+removeAt 41
+add 26
+addAt 9 94
+removeAt 36
+addAt 33 83
+removeAt 41
+add 62
+addAt 8 69
+indexOf 2
+indexOf 48
+add 57
+add 53
+size
+removeAt 23
+removeAt 15
+removeValue 27
+removeValue 1
+addAt 27 19
+removeValue 86
+add 67
+removeAt 24
+removeAt 22
+removeValue 82
+get 19
+get 9
+removeValue 88
+get 6
+size
+removeValue 27
+add 1
+add 73
+get 29
+addAt 39 93
+addAt 13 86
+removeValue 41
+addAt 29 32
+addAt 24 10
+add 36
+addAt 29 89
+removeValue 14
+removeAt 34
+removeAt 4
+add 4
+add 63
+size
+add 70
+get 29
+addAt 8 56
+removeValue 63
+addAt 29 50
+size
+indexOf 21
+removeValue 18
+add 62
+removeValue 96
+removeAt 35
+removeAt 12
+removeValue 60
+addAt 16 74
+addAt 33 80
+addAt 49 79
+addAt 37 3
+indexOf 60
+add 36
+add 27
+indexOf 62
+indexOf 75
+addAt 28 17
+addAt 42 93
+add 18
+add 22
+removeAt 58
+removeValue 20
+indexOf 41
+add 75
+removeValue 66
+removeValue 41
+indexOf 62
+size
+add 12
+removeAt 15
+addAt 33 14
+removeValue 94
+addAt 55 53
+add 81
+add 37
+get 53
+indexOf 43
+removeAt 15
+add 26
+addAt 59 75
+removeValue 5
+addAt 47 20
+indexOf 77
+addAt 55 58
+indexOf 70
+removeValue 75
+indexOf 87
+indexOf 67
+addAt 56 42
+removeValue 32
+addAt 45 98
+indexOf 58
+add 6
+add 54
+removeAt 43
+add 13
+add 58
+addAt 62 24
+addAt 41 70
+removeAt 22
+add 100
+removeAt 42
+get 38
+indexOf 22
+add 29
+addAt 9 11
+removeAt 63
+addAt 59 54
+size
+removeAt 58
+get 61
+indexOf 4
+removeAt 3
+add 23
+add 67
+add 82
+get 53
+add 62
+removeAt 2
+indexOf 61
+addAt 52 44
+removeValue 36
+removeValue 5
+removeValue 82
+addAt 61 16
+removeAt 10
+size
+addAt 52 40
+add 39
+indexOf 16
+add 35
+addAt 55 61
+removeValue 26
+addAt 6 54
+add 31
+indexOf 90
+indexOf 85
+addAt 14 28
+addAt 20 64
+indexOf 94
+add 54
+removeValue 22
+indexOf 89
+indexOf 29
+add 24
+indexOf 99
+addAt 32 16
+add 42
+get 6
+get 64
+add 28
+indexOf 53
+indexOf 2
+addAt 71 68
+indexOf 99
+indexOf 56
+get 55
+indexOf 61
+addAt 72 99
+removeAt 72
+add 19
+indexOf 100
+add 15
+indexOf 31
+indexOf 79
+removeValue 39
+add 36
+add 80
+indexOf 73
+indexOf 63
+indexOf 32
+add 97
+removeValue 46
+addAt 5 65
+add 95
+size
+indexOf 84
+indexOf 11
+add 15
+removeValue 90
+removeAt 71
+get 10
+addAt 71 78
+add 87
+removeAt 2
+removeValue 46
+size
+get 47
+add 80
+size
+add 25
+removeAt 72
+indexOf 4
+indexOf 32
+removeValue 95
+removeValue 7
+removeValue 23
+indexOf 56
+removeValue 2
+addAt 41 31
+removeAt 45
+removeValue 28
+removeAt 42
+addAt 36 30
+add 70
+addAt 7 11
+add 1
+add 92
+removeAt 14
+indexOf 29
+get 45
+addAt 71 58
+addAt 3 7
+addAt 66 99
+removeValue 58
+indexOf 6
+removeAt 1
+removeAt 79
+add 28
+removeValue 26
+add 46
+indexOf 75
+removeValue 10
+size
+indexOf 65
+removeAt 58
+removeValue 25
+removeAt 38
+add 21
+get 56
+get 0
+add 30
+add 8
+addAt 47 20
+add 88
+indexOf 42
+removeValue 72
+get 0
+add 22
+indexOf 83
+removeValue 32
+get 71
+indexOf 80
+addAt 54 32
+indexOf 74
+removeValue 16
+addAt 46 75
+get 81
+removeValue 72
+indexOf 32
+removeValue 70
+addAt 78 61
+removeValue 88
+addAt 69 84
+indexOf 16
+get 41
+removeValue 66
+removeAt 19
+addAt 74 91
+removeAt 14
+indexOf 11
+indexOf 36
+add 91
+indexOf 47
+indexOf 44
+removeValue 28
+add 3
+removeValue 54
+addAt 9 56
+add 65
+indexOf 24
+addAt 1 81
+removeValue 98
+removeAt 18
+removeValue 76
+indexOf 44
+indexOf 36
+removeValue 36
+add 90
+add 38
+addAt 72 94
+removeAt 48
+indexOf 41
+indexOf 27
+indexOf 21
+add 38
+indexOf 16
+add 100
+add 25
+size
+add 27
+addAt 16 83
+get 28
+indexOf 16
+add 26
+add 68
+indexOf 3
+add 15
+removeAt 43
+add 18
+addAt 44 84
+removeValue 54
+size
+add 5
+indexOf 48
+add 83
+add 8
+addAt 90 96
+removeAt 21
+get 73
+size
+indexOf 62
+removeAt 55
+add 83
+addAt 53 92
+removeValue 9
+get 17
+removeValue 27
+indexOf 74
+get 28
+add 78
+indexOf 21
+removeAt 5
+removeValue 21
+removeValue 14
+size
+removeAt 38
+add 83
+indexOf 83
+removeValue 54
+indexOf 27
+get 82
+add 71
+removeValue 32
+removeAt 71
+removeValue 25
+add 59
+removeAt 1
+indexOf 60
+add 73
+add 18
+addAt 2 42
+indexOf 94
+add 80
+removeAt 54
+get 61
+addAt 63 72
+add 30
+removeAt 56
+size
+add 9
+indexOf 54
+addAt 62 52
+add 14
+indexOf 16
+add 71
+removeValue 62
+indexOf 70
+add 44
+get 33
+size
+addAt 92 14
+indexOf 15
+add 74
+add 30
+indexOf 67
+indexOf 67
+add 75
+removeAt 5
+indexOf 74
+add 51
+removeValue 50
+get 63
+removeValue 53
+indexOf 56
+add 10
+add 96
+add 26
+addAt 60 77
+addAt 51 36
+indexOf 56
+indexOf 25
+indexOf 29
+removeValue 83
+add 9
+add 63
+get 37
+removeAt 24
+removeValue 66
+add 36
+addAt 51 60
+addAt 49 87
+add 44
+add 21
+add 71
+add 58
+removeAt 33
+indexOf 32
+get 6
+add 22
+add 72
+removeAt 78
+indexOf 90
+get 78
+indexOf 89
+add 53
+add 16
+removeAt 15
+add 14
+addAt 14 48
+get 38
+removeAt 94
+removeValue 6
+add 75
+size
+removeAt 51
+removeValue 83
+add 36
+removeAt 65
+indexOf 12
+removeValue 16
+indexOf 1
+addAt 2 5
+removeAt 4
+removeAt 69
+size
+add 67
+add 17
+add 57
+removeValue 82
+removeValue 63
+add 42
+add 34
+add 72
+add 54
+addAt 57 85
+add 77
+indexOf 76
+removeAt 13
+addAt 102 27
+removeValue 2
+removeValue 87
+size
+removeValue 46
+addAt 32 49
+add 26
+indexOf 60
+indexOf 5
+add 85
+removeAt 36
+indexOf 12
+removeValue 11
+indexOf 14
+indexOf 57
+get 36
+size
+get 82
+add 46
+addAt 75 38
+add 80
+size
+addAt 85 73
+add 30
+add 24
+add 58
+removeValue 5

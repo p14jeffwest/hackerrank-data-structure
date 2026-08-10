@@ -1,0 +1,89 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-10-range-sum
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch10
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "10"
+
+# page_id of the source section.
+# 10.6 Coding Test Problems, Problem 2 (Range Sum)
+source_page_id: 375849
+
+also_cites:
+  - 375843   # 10.1 The Concept of a Binary Search Tree
+
+# Title shown on HackerRank
+title: "Range Sum in a BST"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes. The Head is byte-identical to ds-10-validate's.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Deviations from the book, agreed before the problem was built.
+bounds_changed_from_book:
+  book: "1 <= n <= 2*10^4, one query"
+  here: "n <= 2*10^5, Q <= 2*10^5"
+  why: >
+    A single query cannot punish a full traversal -- O(n) once is fine.
+    Pruning only pays when the same tree is asked many times.
+
+# The book's statement names the technique in its hint ("use the properties of
+# a BST to prune"). Not repeated here: 10.6 is a hidden page.
+hint_withheld_from_statement: "prune the subtree that cannot contain the range"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "840 ms (case 09, 200,000 nodes and 200,000 queries)"
+  scored_variants:
+    - code: "prune by the BST rule, long accumulator (the registered solution)"
+      score: "14/14"
+    - code: "full traversal per query"
+      score: "10/14, timing out on 09 10 11 13"
+    - code: "accumulating in an int"
+      score: "9/14, wrong on 02 09 10 12 13"
+    - code: "pruning the wrong side"
+      score: "2/14"
+  notes: >
+    Two things about the query design are worth keeping in mind if this is
+    ever edited. The queries have to be NARROW: a window covering most of the
+    tree visits most of it however it is written, so a random low/high pair
+    over the whole key range separates nothing.
+    And case 12 -- the spine at the height cap -- had to have its query count
+    cut from 200,000 to 20,000. On a spine every query costs the height
+    whatever it does, so 200,000 queries against a 5,000-deep tree is 10^9
+    steps for the CORRECT solution, which ran at 3.45 s. The point of that
+    case is the depth, not the query count.

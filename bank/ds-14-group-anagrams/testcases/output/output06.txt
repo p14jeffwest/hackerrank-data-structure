@@ -1,0 +1,2 @@
+1
+abc acb bac bca cab cba

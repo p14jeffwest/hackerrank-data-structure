@@ -1,0 +1,90 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-09-diameter
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch09
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "09"
+
+# page_id of the source section.
+# 9.4 Exercises, Level 3 Problem 6 (Finding the Diameter of a Tree, walkthrough)
+source_page_id: 375840
+
+also_cites:
+  - 375837   # 9.1 Tree Concepts and Terminology (height counted in edges)
+
+# Title shown on HackerRank
+title: "The Diameter of a Binary Tree"
+
+# tutorial | easy | medium | hard
+difficulty: hard
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 50
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes, and the Head is byte-identical to ds-09-traversal's.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# None. The Korean chapter 10's Level 3 walkthrough is path sum, not the
+# diameter, so this is chapter 9 material the two courses do not share.
+ko_counterpart: null
+
+# Deviation from the other chapter 9 problems, and why.
+# Every other chapter 9 problem caps the tree at 100,000 nodes. This one goes
+# to 500,000, and the reason is recorded in UPLOAD.md: the quadratic solution
+# costs roughly (nodes) x (height), and at 100,000 nodes it finished in 1.6
+# seconds -- comfortably inside a four-second limit. At 500,000 it takes 5.4
+# seconds against the reference's 0.6.
+node_cap: 500000
+node_cap_elsewhere_in_ch09: 100000
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "624 ms (case 13, 500,000 nodes at height 4,913)"
+  scored_variants:
+    - code: "one pass returning the height and updating a field (the registered solution)"
+      score: "14/14"
+    - code: "height(left) + height(right) at every node"
+      score: "11/14, timing out on 13 and overflowing the stack on 09 and 12"
+    - code: "measuring only through the root"
+      score: "11/14, wrong on 02 08 12"
+    - code: "empty subtree reported as 0, so the count is in nodes"
+      score: "0/14"
+    - code: "unmodified stub"
+      score: "1/14 -- it returns 0, right for the single-node case"
+  notes: >
+    The quadratic solution fails in two different ways and it took three
+    rounds of test data to make the first of them happen for the right reason.
+    On the deep cases (09, 12) it overflows the stack, because it nests a
+    height recursion inside a diameter recursion; that is a real failure but a
+    marginal one, and it should not be the only thing catching it. Case 13 is
+    the one that catches it on time: a caterpillar that is large and deep at
+    once.
+    Note that the node values are irrelevant to the answer. That is stated in
+    the constraints so nobody wastes time looking for a weighting.

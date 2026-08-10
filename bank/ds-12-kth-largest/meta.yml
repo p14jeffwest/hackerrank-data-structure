@@ -1,0 +1,87 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-12-kth-largest
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch12
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "12"
+
+# page_id of the source section.
+# 12.8 Coding Test Problems, Problem 1 (The K-th Largest Element in an Array)
+source_page_id: 375865
+
+# Title shown on HackerRank
+title: "The K-th Largest Value"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# The Korean version asks for the k-th SMALLEST. Same algorithm, opposite
+# direction; this book's 12.8 Problem 1 asks for the largest and the English
+# section follows the book, as agreed. Input format, bounds, Head and Tail are
+# the Korean version's unchanged.
+ko_counterpart: dsa-13-kth-smallest
+changed_from_ko:
+  - "asks for the k-th largest rather than the k-th smallest, following 12.8"
+  - >
+    the stub no longer describes quickselect. The Korean version sketches the
+    partition step in its comments; this book compares a full sort with a
+    size-k heap instead, and both are left for the student to choose between.
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "326 ms (case 13)"
+  scored_variants:
+    - code: "sort ascending, read nums[n-k] (the registered solution)"
+      score: "14/14"
+    - code: "a size-k min-heap"
+      score: "14/14 -- the book's other method, also correct"
+    - code: "take the maximum out k times, O(n*k)"
+      score: "12/14, timing out on 12 and 13"
+    - code: "reading nums[k-1] after an ascending sort"
+      score: "2/14"
+    - code: "counting distinct values instead of positions"
+      score: "10/14, wrong on 01 04 05 12"
+  notes: >
+    12.8 Problem 1 is explicitly a comparison of two correct methods -- a full
+    sort at O(n log n) and a size-k min-heap at O(n log k) -- so neither is
+    excluded, and both were measured: 306-326 ms for the sort against 277-355
+    ms for the heap. At n = 200,000 the choice does not show, which is worth
+    saying to students rather than pretending otherwise. The exam question is
+    when it would.
+    What the bounds DO exclude is the approach students reach for first:
+    take the maximum out k times. Cases 12 and 13 put k at n/2 and n, where
+    that is 2*10^10 and 4*10^10 operations. Case 11 keeps k at 5 so the same
+    mistake passes, which turns a total failure into a 12/14 that points at
+    large k.

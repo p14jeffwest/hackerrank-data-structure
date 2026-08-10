@@ -1,0 +1,5001 @@
+5000
+push 950192363
+push 874125644
+size
+empty
+push 434085842
+push 573640857
+push 903681110
+clear
+push 263338186
+push 544830720
+push 962363212
+push 379440944
+clear
+pop
+push 66067799
+clear
+push 79680671
+push 706941950
+size
+push 14187949
+push 254413841
+pop
+push 727598459
+push 90140829
+push 380488834
+pop
+size
+size
+peek
+push 995947053
+push 393350373
+size
+push 282860111
+push 513013291
+push 692278451
+push 729676713
+pop
+pop
+pop
+peek
+empty
+push 990795520
+push 468798749
+peek
+pop
+pop
+pop
+pop
+push 313640379
+pop
+pop
+push 355369207
+push 276783521
+push 315396883
+push 545963179
+push 814243459
+peek
+peek
+push 90028521
+pop
+push 479821103
+size
+peek
+push 950317741
+peek
+push 211214724
+pop
+pop
+peek
+pop
+peek
+push 726163913
+push 390361195
+push 90176597
+pop
+push 231484755
+pop
+push 321995856
+peek
+push 765945564
+push 525338316
+push 749901318
+empty
+pop
+push 602507910
+peek
+pop
+pop
+clear
+peek
+pop
+pop
+push 145825628
+push 410646729
+pop
+size
+pop
+size
+push 89760425
+push 125783552
+push 152486906
+push 700841195
+peek
+push 753547226
+push 580286897
+peek
+peek
+push 976393301
+size
+push 993220547
+push 801618248
+pop
+push 437046544
+push 799868282
+pop
+peek
+empty
+pop
+pop
+pop
+empty
+push 436029645
+size
+push 787096074
+push 933421488
+push 293724114
+peek
+push 71237246
+pop
+pop
+push 297994670
+empty
+push 204310024
+push 278464648
+push 790104700
+push 28411069
+size
+push 484801029
+push 354992727
+push 944897622
+peek
+pop
+pop
+pop
+pop
+push 476887232
+pop
+pop
+pop
+size
+push 176155708
+push 223969017
+push 563773278
+push 283484302
+pop
+push 688359698
+push 503944402
+push 902263406
+peek
+push 617955478
+push 533419477
+peek
+size
+clear
+peek
+push 25099545
+push 493504097
+pop
+push 924692448
+pop
+push 351151223
+pop
+peek
+peek
+pop
+pop
+push 999726363
+size
+push 697481058
+pop
+pop
+push 407807397
+empty
+push 392449008
+push 953688070
+push 533569951
+push 251291767
+peek
+peek
+push 230019766
+push 700463833
+pop
+peek
+push 838609132
+pop
+size
+pop
+push 867348478
+pop
+empty
+pop
+push 907524783
+pop
+push 747132766
+push 305346648
+push 583607879
+size
+pop
+pop
+pop
+pop
+push 830919589
+pop
+pop
+pop
+pop
+size
+push 591725054
+push 422236608
+push 903424404
+push 147265291
+empty
+push 690976135
+empty
+pop
+push 414522799
+push 273175687
+pop
+push 488461982
+size
+push 378559211
+push 191571188
+push 914390885
+push 271342951
+push 818516500
+push 881014502
+pop
+peek
+size
+peek
+peek
+pop
+push 385590002
+pop
+push 724971907
+empty
+pop
+push 461270782
+peek
+pop
+peek
+pop
+push 714233733
+peek
+push 491501260
+pop
+peek
+pop
+push 377219491
+push 671889788
+push 720621537
+push 569587287
+push 934303099
+push 506122124
+empty
+push 986737567
+pop
+push 157504788
+push 574799240
+peek
+size
+push 648063971
+pop
+empty
+push 431278761
+push 688289361
+push 560119277
+push 400317779
+push 976295870
+clear
+peek
+pop
+push 334380568
+peek
+push 817465815
+push 600562762
+peek
+push 281131813
+push 546016234
+pop
+size
+push 390105695
+pop
+push 321208674
+push 937699099
+push 238042090
+push 495551627
+push 763490442
+peek
+push 354277984
+push 22617340
+push 641333479
+pop
+push 874711005
+peek
+empty
+push 954769492
+pop
+push 48723950
+pop
+pop
+peek
+size
+empty
+clear
+push 600897935
+pop
+pop
+push 993340901
+push 529914249
+peek
+push 57122327
+push 349958086
+pop
+pop
+pop
+push 73091893
+push 36402832
+push 194083937
+push 35344507
+peek
+size
+pop
+push 178829053
+push 80294790
+peek
+push 884857272
+push 402575878
+pop
+peek
+push 159052340
+push 470908588
+push 254388796
+pop
+empty
+push 70023125
+pop
+push 643113021
+push 588409957
+push 539514280
+push 123005747
+size
+push 15731048
+pop
+empty
+pop
+pop
+push 363791566
+pop
+push 613313585
+pop
+size
+push 871460930
+peek
+peek
+push 451558679
+size
+push 459130225
+empty
+empty
+push 437657042
+push 957082404
+push 884870659
+pop
+size
+empty
+push 127419234
+empty
+pop
+push 658487210
+push 655282127
+empty
+pop
+peek
+size
+push 881476891
+push 697403710
+pop
+empty
+push 862940989
+pop
+push 442928893
+pop
+push 705122959
+push 254604736
+pop
+push 836118977
+pop
+push 104592855
+pop
+push 954387214
+peek
+size
+push 31663064
+push 148622776
+pop
+pop
+peek
+push 803288954
+push 28553092
+pop
+push 574655996
+pop
+push 126929091
+pop
+push 931570235
+empty
+push 223816987
+push 75545647
+push 326579520
+pop
+push 902581465
+pop
+peek
+pop
+pop
+push 717883690
+pop
+size
+size
+pop
+size
+push 257073265
+push 592283552
+push 34551583
+push 63342766
+pop
+peek
+empty
+peek
+peek
+pop
+pop
+push 620655271
+peek
+push 745719583
+push 211404388
+push 438427246
+push 667954948
+peek
+peek
+push 348162105
+push 802796952
+peek
+push 419885987
+clear
+push 410645871
+pop
+peek
+peek
+pop
+push 3535885
+pop
+empty
+pop
+push 413031014
+peek
+pop
+push 511686656
+pop
+pop
+size
+push 643924874
+push 235692630
+pop
+pop
+pop
+push 337471151
+pop
+empty
+size
+empty
+push 223519867
+size
+pop
+empty
+push 675593622
+push 436253207
+peek
+push 411490241
+peek
+push 429094477
+push 199706227
+push 236363043
+pop
+pop
+push 329042248
+peek
+push 811698424
+push 105152619
+push 742827816
+push 295285918
+push 596565543
+push 422461255
+push 642099589
+push 340697347
+push 425092301
+pop
+push 560879243
+pop
+push 133933629
+push 429766379
+pop
+push 354233413
+size
+push 952475496
+size
+pop
+pop
+pop
+push 819258681
+empty
+empty
+push 603261426
+pop
+push 614667023
+size
+empty
+push 207225962
+push 262599724
+push 645706940
+push 673519937
+push 494111121
+push 301509286
+empty
+pop
+push 427091424
+peek
+pop
+pop
+size
+push 691665203
+peek
+pop
+pop
+push 359875296
+push 647135566
+push 223661498
+pop
+push 737119365
+push 296303444
+pop
+push 322037912
+empty
+push 309921486
+empty
+clear
+pop
+push 778829094
+peek
+empty
+pop
+peek
+push 927561701
+peek
+peek
+peek
+pop
+size
+peek
+push 324866225
+push 521419238
+push 330048551
+push 379135601
+peek
+peek
+peek
+pop
+peek
+peek
+push 523235308
+pop
+peek
+pop
+size
+push 200797739
+pop
+peek
+push 501421634
+peek
+push 778968314
+pop
+push 98545962
+empty
+push 78407732
+peek
+push 641100862
+push 152169166
+push 921289624
+peek
+push 492753952
+pop
+peek
+pop
+peek
+push 352316648
+pop
+push 511723433
+pop
+push 442493241
+push 68899224
+push 977518495
+push 893126319
+push 595344226
+push 449546368
+pop
+pop
+empty
+pop
+pop
+push 196851335
+peek
+push 72979229
+size
+push 384548023
+peek
+push 283610030
+clear
+size
+push 610758364
+push 847375735
+push 590540951
+push 155438623
+push 693061829
+push 403390669
+clear
+push 34076689
+pop
+pop
+pop
+push 583343754
+empty
+peek
+push 56681866
+peek
+pop
+empty
+pop
+pop
+push 292034168
+pop
+push 32605094
+push 683931310
+push 697203425
+size
+size
+pop
+push 346372486
+push 333019107
+pop
+push 417056815
+push 718906934
+push 627711657
+peek
+push 229090549
+peek
+push 223419168
+pop
+empty
+size
+empty
+peek
+pop
+size
+pop
+push 792759419
+size
+peek
+push 932084095
+clear
+empty
+push 775115689
+size
+push 921217262
+push 399104192
+pop
+push 264015669
+pop
+push 897821949
+peek
+peek
+pop
+peek
+pop
+pop
+peek
+push 390964015
+pop
+push 513964019
+pop
+pop
+pop
+size
+peek
+push 840977973
+push 516850542
+pop
+peek
+push 705865338
+pop
+peek
+empty
+push 601712594
+push 230110463
+push 875696359
+empty
+size
+size
+push 56435558
+peek
+empty
+pop
+push 762150614
+push 941184183
+push 133544446
+pop
+pop
+pop
+pop
+size
+pop
+peek
+pop
+push 853004862
+pop
+pop
+size
+push 129164992
+size
+pop
+push 411225451
+push 598315127
+clear
+pop
+push 27248528
+push 965815113
+push 224901438
+push 702692370
+push 427031890
+peek
+push 593614109
+push 354566357
+pop
+size
+push 37953498
+push 585149921
+pop
+peek
+push 74123517
+peek
+push 633735714
+size
+push 156637266
+push 114515945
+push 849266233
+push 382480141
+size
+pop
+push 121273412
+push 560252058
+push 757035361
+size
+push 380481452
+peek
+pop
+empty
+push 692256161
+pop
+push 244585960
+clear
+empty
+clear
+push 395093851
+pop
+push 352306575
+peek
+peek
+push 909307061
+push 434557255
+pop
+push 38770613
+push 813566114
+push 945529562
+empty
+pop
+size
+size
+pop
+push 935812127
+pop
+pop
+peek
+push 168135229
+clear
+push 955807521
+pop
+push 844479938
+push 780826003
+empty
+pop
+pop
+push 4529816
+push 31631903
+push 538009906
+clear
+push 151989513
+push 709287524
+push 37765520
+peek
+peek
+peek
+push 291831914
+size
+peek
+push 784763151
+push 115935528
+push 116255174
+pop
+push 779550068
+pop
+pop
+push 139371379
+push 122408825
+push 966832725
+push 812949491
+push 230394856
+peek
+push 244707492
+pop
+push 598797184
+pop
+push 654762903
+push 424093913
+pop
+push 88787001
+peek
+pop
+pop
+push 982567531
+pop
+push 609316448
+size
+push 910948971
+push 475497631
+pop
+push 323789999
+peek
+push 151146442
+pop
+push 666314536
+push 447125448
+push 99107803
+push 224441160
+push 222417750
+pop
+pop
+pop
+pop
+peek
+push 132605370
+peek
+pop
+pop
+pop
+push 193827093
+push 55113626
+push 978636823
+peek
+peek
+pop
+push 482038049
+size
+pop
+size
+push 451698004
+pop
+push 855782717
+push 182147716
+pop
+empty
+clear
+peek
+pop
+push 696283053
+push 27891957
+pop
+push 594322656
+pop
+size
+empty
+push 582025206
+push 538424431
+peek
+pop
+size
+push 769784571
+clear
+push 472544108
+push 165494073
+peek
+push 756033311
+pop
+push 414868275
+push 553703838
+push 473363223
+push 223663678
+empty
+push 415368977
+pop
+peek
+peek
+peek
+pop
+pop
+peek
+push 810455705
+pop
+size
+peek
+empty
+push 195448711
+pop
+push 258467120
+push 119130269
+pop
+peek
+push 745906607
+push 344942595
+empty
+push 300317496
+size
+push 820307304
+pop
+peek
+pop
+pop
+push 46339973
+pop
+push 844950225
+push 47770044
+push 51199473
+pop
+empty
+pop
+empty
+pop
+peek
+push 261513293
+pop
+size
+empty
+empty
+push 291203728
+pop
+push 477797477
+size
+size
+push 477069538
+size
+pop
+peek
+push 695613765
+pop
+peek
+pop
+size
+push 841842075
+push 41035696
+peek
+push 877157803
+peek
+push 342809955
+pop
+pop
+size
+push 261234529
+pop
+peek
+peek
+push 885504029
+push 294048877
+push 777472640
+pop
+pop
+push 880178915
+empty
+empty
+push 948486583
+pop
+peek
+peek
+pop
+size
+peek
+push 785670467
+empty
+clear
+push 587943628
+push 457566250
+push 904081293
+clear
+push 126562737
+empty
+pop
+pop
+push 801379946
+push 26853555
+empty
+pop
+push 40312003
+pop
+peek
+peek
+pop
+peek
+empty
+push 640507012
+pop
+push 521727473
+push 772342576
+pop
+empty
+pop
+peek
+push 842366849
+peek
+pop
+peek
+peek
+push 444277756
+clear
+push 915189497
+push 373636122
+push 740345830
+push 934398724
+push 397533091
+clear
+push 368313875
+empty
+empty
+push 82835360
+peek
+peek
+push 232106385
+pop
+push 89997244
+push 986331199
+peek
+push 99008851
+peek
+empty
+pop
+pop
+push 439552990
+pop
+empty
+pop
+push 207413540
+empty
+clear
+push 160843427
+pop
+push 527967730
+push 455294825
+pop
+push 292053901
+push 983991517
+peek
+peek
+push 653252125
+size
+empty
+pop
+peek
+pop
+push 191435072
+peek
+push 804489663
+clear
+push 340518697
+pop
+peek
+push 711294750
+push 120771936
+peek
+clear
+pop
+pop
+peek
+size
+push 421889722
+pop
+push 655417918
+push 94266049
+peek
+peek
+push 93353502
+pop
+push 15902618
+push 628012636
+pop
+pop
+push 99752554
+pop
+peek
+size
+push 81609643
+push 388981652
+push 971080737
+peek
+push 583574297
+push 632511118
+size
+pop
+push 491427322
+peek
+push 362281403
+pop
+push 935852386
+pop
+peek
+peek
+push 324645054
+push 820496580
+pop
+pop
+peek
+push 426413853
+push 910248175
+push 969173709
+pop
+push 672565148
+push 23511903
+push 427343141
+peek
+push 120587140
+push 459659422
+peek
+push 958190450
+push 782335382
+push 191481075
+empty
+pop
+push 443723711
+push 604723112
+push 488755510
+pop
+push 348416409
+pop
+empty
+push 368412685
+push 121480677
+push 374270470
+peek
+push 191603789
+push 334273817
+pop
+pop
+push 686158804
+push 939652493
+size
+push 265398971
+size
+push 111991286
+peek
+pop
+push 101935638
+pop
+empty
+pop
+push 72357344
+push 681209082
+peek
+push 750299771
+pop
+push 586057005
+size
+push 47947819
+pop
+pop
+pop
+empty
+size
+empty
+empty
+push 744886764
+push 399721728
+peek
+pop
+peek
+empty
+empty
+push 861588146
+push 143058304
+push 489667212
+empty
+push 858418804
+push 399151561
+push 915802071
+peek
+push 305880225
+push 740589751
+pop
+empty
+size
+pop
+push 448556087
+pop
+push 808679455
+clear
+push 275075415
+push 264562168
+push 195514324
+push 541752354
+pop
+pop
+pop
+pop
+clear
+push 276567927
+size
+peek
+pop
+pop
+push 247626342
+pop
+peek
+push 564621762
+pop
+peek
+pop
+push 889598554
+push 659302057
+peek
+pop
+peek
+pop
+empty
+peek
+push 702245248
+pop
+peek
+push 250023925
+peek
+pop
+peek
+size
+size
+peek
+pop
+peek
+pop
+clear
+push 309420841
+peek
+peek
+push 89823733
+push 126380690
+push 911155368
+size
+empty
+push 191961423
+push 576680883
+push 240728268
+size
+push 113065344
+peek
+push 462610712
+push 653005025
+pop
+peek
+peek
+peek
+pop
+pop
+pop
+push 462822217
+pop
+push 904411766
+push 799836128
+push 211085133
+size
+empty
+push 865378018
+peek
+peek
+empty
+push 314299885
+pop
+push 422399644
+peek
+pop
+pop
+size
+pop
+pop
+push 273354214
+size
+peek
+push 782354842
+push 514910355
+push 477375176
+push 352206744
+pop
+peek
+empty
+peek
+push 264129327
+push 131731749
+push 226092205
+peek
+push 901279326
+empty
+push 861888884
+peek
+pop
+pop
+push 959173888
+push 77372213
+push 284009877
+pop
+pop
+pop
+peek
+push 355030532
+push 374894546
+push 765500249
+pop
+pop
+pop
+empty
+pop
+push 204886970
+push 11192640
+push 535329924
+push 283686898
+push 210069216
+push 822822447
+peek
+pop
+peek
+peek
+pop
+push 288472097
+push 665989067
+push 382185614
+pop
+size
+pop
+push 454907333
+push 679518967
+empty
+push 377029173
+push 903270926
+empty
+push 906785556
+push 67933694
+push 824052679
+peek
+pop
+push 631745236
+push 625802549
+pop
+push 43908203
+size
+push 984116593
+peek
+peek
+push 572069995
+pop
+size
+push 962926470
+peek
+peek
+push 451403555
+clear
+empty
+push 495673024
+push 888985050
+peek
+pop
+push 933657253
+pop
+push 233083826
+push 558594066
+peek
+size
+push 120533750
+peek
+size
+size
+pop
+pop
+push 914400609
+clear
+pop
+pop
+push 162805549
+pop
+push 13942280
+push 652882758
+peek
+pop
+push 519703937
+push 559634533
+pop
+push 720502764
+push 639659166
+push 48564654
+pop
+pop
+pop
+push 922636787
+peek
+push 220642997
+empty
+peek
+push 964525929
+push 845307488
+push 593759274
+peek
+pop
+push 42137086
+peek
+peek
+pop
+push 974511587
+empty
+pop
+pop
+pop
+push 983077368
+pop
+push 82830677
+push 881367806
+size
+pop
+size
+peek
+empty
+pop
+pop
+pop
+push 279421096
+push 423050899
+push 457487832
+push 172966426
+peek
+push 690670426
+push 68341639
+peek
+push 883411203
+size
+push 176756876
+push 111090813
+peek
+push 476750908
+push 318619404
+pop
+push 450862160
+pop
+empty
+pop
+pop
+pop
+push 184894125
+pop
+peek
+push 146991329
+pop
+push 388822034
+push 974238237
+push 948079849
+empty
+empty
+pop
+push 375308552
+push 859374399
+push 4958637
+pop
+empty
+empty
+push 924147361
+size
+push 141097412
+size
+pop
+pop
+pop
+pop
+peek
+push 458042790
+pop
+pop
+push 456095202
+peek
+push 478825764
+push 114876019
+pop
+peek
+pop
+push 445931250
+pop
+size
+pop
+pop
+size
+peek
+push 249455402
+pop
+push 195264794
+pop
+push 960473092
+pop
+pop
+peek
+push 651728704
+push 436884222
+push 539040342
+push 675548870
+peek
+push 308954342
+pop
+pop
+pop
+pop
+push 788703235
+peek
+push 854221120
+pop
+peek
+pop
+peek
+size
+peek
+pop
+push 524424519
+push 537612030
+push 878265059
+pop
+pop
+push 101499893
+push 448852673
+push 712004871
+push 620588754
+peek
+push 855840745
+peek
+pop
+pop
+size
+peek
+pop
+push 400387896
+push 641473171
+push 798492949
+push 902821837
+pop
+peek
+pop
+size
+pop
+push 931904989
+empty
+push 253127657
+clear
+peek
+push 162930082
+push 909775248
+size
+push 895111420
+empty
+push 928755125
+peek
+empty
+peek
+pop
+push 839250155
+push 973739883
+pop
+push 469787512
+pop
+push 844449084
+push 229180943
+peek
+pop
+pop
+clear
+push 344238140
+push 194017012
+size
+size
+push 99559969
+pop
+push 305649128
+peek
+empty
+push 292046145
+pop
+peek
+size
+push 986266223
+push 239414097
+size
+push 154396799
+push 24627425
+push 679216114
+pop
+empty
+push 160167751
+peek
+peek
+push 478371387
+push 152099668
+size
+empty
+size
+empty
+pop
+push 491593385
+pop
+clear
+push 290880693
+empty
+pop
+push 748418775
+peek
+size
+push 914989042
+push 127259748
+push 326704419
+push 446628810
+pop
+peek
+empty
+pop
+size
+push 907508854
+push 152144522
+pop
+push 189577775
+peek
+peek
+pop
+push 653809017
+push 294679123
+pop
+peek
+pop
+pop
+pop
+peek
+peek
+size
+size
+size
+push 332303249
+pop
+empty
+push 289175657
+peek
+peek
+push 565138064
+push 476547261
+pop
+push 134155924
+push 997366124
+pop
+push 287689074
+pop
+peek
+size
+clear
+push 444295850
+push 132853292
+size
+pop
+push 899521390
+pop
+push 187448813
+pop
+push 310005444
+size
+push 819278081
+push 265665646
+peek
+pop
+push 243069517
+pop
+empty
+push 650657189
+empty
+push 336431865
+push 162929681
+push 932510043
+push 580816876
+push 244659582
+pop
+pop
+pop
+peek
+pop
+pop
+push 619195631
+empty
+pop
+size
+pop
+empty
+peek
+push 306846036
+empty
+pop
+pop
+empty
+peek
+push 141036684
+push 290358017
+peek
+empty
+push 635418760
+pop
+push 962267804
+push 818863871
+pop
+push 933557379
+peek
+size
+pop
+size
+push 396584759
+push 111074533
+push 191454601
+peek
+pop
+pop
+size
+push 19681084
+empty
+push 852536811
+pop
+pop
+push 708313652
+peek
+push 63270472
+clear
+push 360901968
+size
+push 616078827
+size
+peek
+push 738026857
+push 395520856
+pop
+pop
+push 106874210
+push 287942676
+push 800069569
+pop
+push 990843288
+size
+pop
+push 973083280
+pop
+push 431899831
+push 230721115
+push 684439872
+empty
+peek
+push 477132105
+empty
+peek
+peek
+pop
+size
+push 968088936
+empty
+clear
+push 933581430
+empty
+push 151479483
+empty
+push 405278908
+pop
+pop
+pop
+peek
+push 432278146
+peek
+pop
+push 830746059
+empty
+push 772236815
+empty
+push 582687078
+push 491245911
+push 449422999
+push 530578668
+pop
+pop
+push 655901799
+pop
+push 380909958
+push 232016903
+push 183968514
+push 86239766
+push 398453394
+push 198971572
+push 697258918
+peek
+pop
+clear
+empty
+push 363089789
+push 148148229
+pop
+empty
+push 199807881
+peek
+peek
+peek
+empty
+size
+push 401170619
+pop
+push 89101603
+pop
+pop
+push 479624455
+size
+pop
+push 716433733
+size
+push 821634319
+size
+peek
+pop
+push 513542689
+push 901816683
+pop
+clear
+push 944295019
+peek
+pop
+push 466337566
+peek
+pop
+pop
+push 224405822
+pop
+push 697042411
+empty
+push 576583584
+clear
+pop
+peek
+pop
+pop
+pop
+pop
+pop
+push 130215057
+push 498281216
+peek
+push 287739721
+push 561829976
+push 896070842
+pop
+clear
+push 764146206
+push 755747957
+peek
+push 448358602
+push 263622215
+pop
+empty
+pop
+empty
+pop
+push 192375174
+push 295282423
+clear
+empty
+push 61872723
+push 553120854
+push 700882464
+pop
+push 312034928
+pop
+push 239453678
+push 823095983
+pop
+clear
+push 17455894
+push 222409065
+pop
+push 625166245
+push 356432671
+size
+push 921342038
+pop
+pop
+size
+push 923630024
+peek
+push 892545557
+push 68107989
+push 379623097
+peek
+push 714170893
+size
+push 487449422
+push 122145951
+push 224581233
+push 954052780
+push 178727952
+push 372082389
+push 760752591
+pop
+push 930523408
+size
+push 92758863
+peek
+push 465100750
+peek
+push 838445441
+pop
+push 71180202
+pop
+peek
+push 501380654
+push 538492747
+size
+push 64765408
+empty
+peek
+pop
+pop
+peek
+push 980330991
+push 701962037
+empty
+pop
+push 423506592
+push 286862217
+peek
+push 247912186
+pop
+size
+empty
+pop
+peek
+push 92686669
+push 358898757
+push 251718266
+size
+push 717267664
+pop
+peek
+empty
+push 294106892
+pop
+push 10509644
+pop
+push 268403423
+pop
+empty
+peek
+peek
+push 44835572
+peek
+size
+pop
+push 500111757
+empty
+push 775908663
+pop
+size
+push 914756281
+push 911830618
+push 200725933
+push 36441564
+push 649611048
+peek
+pop
+pop
+push 993484933
+pop
+pop
+push 512453403
+push 263690453
+push 544734406
+empty
+empty
+size
+push 348068660
+pop
+size
+push 146015586
+peek
+push 361663137
+peek
+size
+push 895610135
+size
+pop
+pop
+size
+push 787094171
+push 568482671
+pop
+peek
+push 91874282
+pop
+push 730047554
+size
+empty
+pop
+push 365960076
+push 299931196
+push 343931596
+push 615144943
+push 338173555
+push 929891923
+push 437122324
+peek
+push 621078088
+clear
+pop
+clear
+push 346631052
+size
+peek
+pop
+pop
+peek
+pop
+empty
+size
+pop
+pop
+pop
+pop
+push 260514214
+pop
+push 350705791
+push 936603859
+push 164232651
+push 145993514
+pop
+pop
+push 782540214
+pop
+pop
+peek
+push 897510672
+push 886403226
+pop
+clear
+peek
+empty
+push 193253025
+peek
+push 339835699
+peek
+push 827265125
+pop
+push 769015049
+pop
+push 830225833
+push 413380212
+size
+peek
+push 856549906
+size
+push 126868705
+clear
+pop
+push 282121407
+push 314723617
+pop
+push 968817508
+pop
+pop
+peek
+peek
+push 370329786
+pop
+push 417833019
+push 849121487
+push 944582480
+push 726591574
+pop
+peek
+push 500620527
+push 134366402
+pop
+push 824885080
+peek
+pop
+empty
+empty
+pop
+size
+size
+push 364350980
+pop
+push 652954987
+push 658064552
+pop
+pop
+pop
+peek
+size
+push 985561773
+push 248502920
+pop
+push 315561931
+pop
+push 510773459
+push 93984212
+size
+peek
+pop
+push 429410317
+pop
+empty
+size
+push 155279255
+size
+empty
+peek
+push 156684958
+push 584702711
+push 690469125
+push 138528050
+peek
+peek
+size
+pop
+empty
+pop
+pop
+pop
+push 590504492
+pop
+pop
+pop
+push 673569628
+push 487686098
+push 915605538
+pop
+push 216604061
+push 466285038
+peek
+empty
+peek
+push 244395620
+push 124772359
+pop
+peek
+push 512688409
+push 576749515
+push 884832599
+push 169797104
+pop
+peek
+pop
+empty
+push 584562499
+empty
+push 587023924
+pop
+size
+push 674241515
+size
+peek
+pop
+pop
+push 665323596
+push 817104987
+empty
+peek
+push 487291506
+pop
+peek
+pop
+push 687556215
+push 123760650
+size
+peek
+empty
+empty
+push 267620063
+pop
+push 12262732
+push 460911828
+pop
+pop
+push 364875411
+push 137324886
+push 810760193
+empty
+push 973451665
+peek
+peek
+peek
+push 509665215
+peek
+pop
+pop
+push 711392853
+pop
+peek
+push 787715896
+push 221747808
+empty
+push 560219492
+pop
+push 157038923
+push 247308558
+peek
+push 627996416
+push 371684747
+push 871523772
+push 767172060
+push 235734330
+push 876527038
+size
+peek
+push 492048252
+peek
+peek
+push 831941113
+peek
+peek
+push 43664881
+push 938763181
+pop
+push 664214538
+pop
+push 680251046
+push 326615476
+push 90738744
+push 481982374
+pop
+push 743238822
+push 495488116
+peek
+pop
+pop
+peek
+size
+push 517719076
+peek
+push 923886579
+push 239319474
+push 176990235
+empty
+push 820861391
+push 873876266
+peek
+push 496548940
+pop
+pop
+peek
+push 738270760
+size
+peek
+push 738274068
+empty
+push 824203172
+push 623413017
+push 798074836
+pop
+push 707186471
+push 751687824
+pop
+push 417035603
+pop
+push 246399628
+pop
+push 613601898
+push 11761715
+push 124357475
+pop
+empty
+push 235214709
+push 261304363
+push 144725071
+size
+size
+push 97429959
+push 374376356
+peek
+peek
+push 20169566
+peek
+push 110590576
+pop
+push 852011206
+empty
+clear
+pop
+size
+push 229609837
+push 631895330
+pop
+push 619818407
+size
+push 510043298
+pop
+push 711433668
+pop
+peek
+size
+push 676855137
+push 332982670
+peek
+push 721631676
+push 692839905
+peek
+push 743439510
+peek
+push 222461078
+push 915042036
+pop
+size
+peek
+push 798283862
+push 714716043
+push 440970411
+push 245702971
+pop
+pop
+pop
+push 431576844
+push 425964039
+push 257771818
+push 597098616
+empty
+peek
+pop
+push 777061093
+push 27294759
+size
+size
+pop
+size
+clear
+push 649141903
+push 362745585
+pop
+size
+push 887074796
+peek
+pop
+pop
+push 832596972
+push 691063250
+push 547857931
+push 570413644
+push 446874776
+pop
+pop
+size
+push 459269341
+push 616976595
+clear
+pop
+pop
+push 89954933
+pop
+push 942457768
+peek
+push 3845771
+empty
+pop
+pop
+push 2374364
+push 998421069
+pop
+push 915553509
+clear
+pop
+size
+peek
+push 379252506
+pop
+pop
+push 623251999
+push 290943482
+pop
+push 905214624
+size
+peek
+push 705662776
+push 942090918
+pop
+pop
+push 72514127
+push 73214397
+push 798291386
+push 1006925
+pop
+pop
+pop
+pop
+peek
+push 103449316
+pop
+size
+pop
+peek
+push 237012306
+push 465911287
+push 647936105
+size
+pop
+pop
+size
+push 207207197
+push 338590612
+pop
+peek
+peek
+peek
+pop
+pop
+push 286604741
+pop
+size
+pop
+push 681189458
+peek
+size
+push 574029465
+pop
+pop
+size
+pop
+push 848723192
+push 755915929
+push 663106676
+push 922697997
+pop
+pop
+peek
+push 395559738
+size
+empty
+push 938397586
+pop
+pop
+pop
+push 428201363
+pop
+peek
+push 367222275
+push 527788159
+push 319950378
+push 645907193
+pop
+peek
+push 193541702
+push 8075276
+pop
+pop
+pop
+pop
+push 939780732
+clear
+pop
+push 141969736
+pop
+peek
+push 705279268
+push 106829740
+peek
+push 474564012
+push 629546547
+empty
+pop
+push 305306811
+push 135995337
+push 368702262
+clear
+peek
+clear
+push 228825807
+pop
+peek
+push 51614862
+push 9630056
+size
+push 573923595
+push 518201388
+pop
+push 269949070
+push 176663552
+size
+push 811062177
+pop
+pop
+pop
+pop
+size
+peek
+peek
+push 120405171
+push 664364856
+empty
+empty
+peek
+pop
+push 120300074
+pop
+pop
+pop
+push 608962806
+push 355007562
+pop
+size
+push 941205535
+push 842697683
+pop
+push 699383143
+pop
+pop
+push 942176680
+pop
+peek
+peek
+peek
+push 222738761
+push 65180815
+size
+pop
+size
+push 870613581
+pop
+push 379079764
+pop
+pop
+size
+empty
+push 56711931
+pop
+peek
+pop
+peek
+push 323902123
+pop
+size
+push 488733788
+push 266978472
+push 617496080
+peek
+clear
+push 657337038
+push 711974130
+pop
+peek
+pop
+empty
+push 232086796
+pop
+push 272929546
+pop
+push 5048129
+peek
+pop
+empty
+pop
+size
+push 116727921
+push 488376054
+empty
+push 645683771
+peek
+pop
+clear
+peek
+pop
+pop
+push 385935467
+push 915787994
+pop
+push 896978407
+pop
+pop
+push 526790003
+peek
+push 497039518
+pop
+size
+size
+push 491362497
+push 192903563
+pop
+pop
+pop
+size
+pop
+push 970460978
+push 514622335
+pop
+push 628400313
+clear
+push 875498523
+pop
+peek
+pop
+pop
+push 962126666
+peek
+push 643060188
+push 455521205
+push 390804011
+push 602494201
+size
+push 815948078
+pop
+size
+peek
+push 999388046
+push 771192712
+push 759926395
+clear
+peek
+pop
+push 466233564
+peek
+peek
+empty
+pop
+push 77962026
+push 711128503
+pop
+push 348169349
+push 595220636
+size
+pop
+push 522278720
+pop
+pop
+peek
+peek
+peek
+push 284566905
+size
+push 322700558
+empty
+size
+push 41950513
+push 342775834
+pop
+push 319438530
+peek
+size
+pop
+clear
+pop
+clear
+size
+pop
+push 728691634
+size
+peek
+push 171825247
+push 420845326
+push 320318660
+push 581379097
+peek
+peek
+pop
+push 169698413
+push 10025458
+pop
+push 738117889
+push 34292861
+clear
+pop
+pop
+push 510697035
+size
+clear
+empty
+push 822047757
+pop
+push 189015964
+clear
+push 263195135
+pop
+push 80773660
+push 89587936
+pop
+push 134772015
+size
+pop
+peek
+peek
+push 524618325
+push 837655140
+push 786005992
+push 489796518
+push 510485812
+push 923777511
+push 277795904
+clear
+empty
+push 58949796
+push 968944996
+push 847944095
+push 475071955
+push 553106458
+empty
+push 612498933
+pop
+pop
+peek
+pop
+push 340203442
+pop
+size
+empty
+empty
+push 739411788
+push 748538520
+pop
+peek
+push 449747132
+size
+push 934830624
+push 491879737
+size
+size
+empty
+push 430674955
+peek
+peek
+pop
+peek
+push 682016047
+push 564704750
+push 903650932
+push 959073399
+pop
+pop
+push 446208895
+peek
+peek
+pop
+push 842248351
+pop
+pop
+peek
+push 777057750
+push 632879029
+push 898804088
+push 410975166
+peek
+size
+peek
+clear
+push 146416827
+push 102525273
+pop
+push 62517755
+push 125151330
+push 29104019
+push 471917391
+push 252760456
+push 356071582
+peek
+pop
+size
+size
+size
+peek
+size
+size
+push 653139636
+push 273369352
+peek
+size
+push 599046682
+size
+push 271314707
+pop
+push 224726002
+pop
+pop
+push 990847621
+pop
+push 8406407
+push 75912114
+peek
+size
+push 551421760
+empty
+peek
+size
+peek
+size
+empty
+push 900798382
+peek
+push 913488531
+peek
+push 91507460
+push 314061695
+pop
+push 697198008
+pop
+push 480155206
+peek
+clear
+peek
+pop
+push 477959789
+empty
+pop
+pop
+peek
+push 135261195
+size
+push 702564208
+push 847353286
+pop
+pop
+pop
+peek
+push 485109687
+peek
+push 802414782
+pop
+clear
+push 239498542
+push 720965187
+peek
+push 956101804
+pop
+push 274480208
+empty
+pop
+push 928341718
+push 221295137
+pop
+push 957199132
+pop
+push 202263413
+peek
+pop
+empty
+size
+empty
+pop
+push 171899305
+push 714309609
+pop
+pop
+pop
+pop
+size
+pop
+push 356618099
+pop
+push 434245767
+peek
+push 295078840
+push 480464606
+size
+pop
+peek
+push 562609777
+push 999796401
+push 975998810
+peek
+push 414280619
+push 379306712
+push 562139006
+pop
+push 283763013
+pop
+pop
+push 112133027
+push 562240315
+push 532498357
+pop
+pop
+peek
+size
+pop
+peek
+push 764012683
+pop
+peek
+push 946822985
+size
+push 980067996
+push 913049344
+push 805156391
+size
+push 985468501
+pop
+pop
+pop
+push 357878478
+push 731266247
+peek
+push 695910496
+push 670340714
+peek
+push 378018927
+pop
+pop
+peek
+empty
+peek
+pop
+push 749410171
+empty
+push 611560720
+pop
+push 7604957
+pop
+size
+push 165483865
+empty
+size
+pop
+push 602148162
+peek
+push 844001064
+pop
+push 399151970
+pop
+push 787083228
+size
+peek
+pop
+size
+peek
+empty
+push 53973625
+push 467700055
+pop
+push 430294973
+push 145598986
+empty
+push 17566316
+push 857778944
+empty
+peek
+push 382028530
+peek
+peek
+push 17798455
+push 232218963
+pop
+peek
+peek
+pop
+push 882515350
+size
+pop
+push 606874304
+pop
+pop
+pop
+push 771768748
+push 105752180
+pop
+pop
+push 871567793
+pop
+pop
+peek
+empty
+empty
+pop
+push 90674735
+pop
+push 512211565
+push 814461445
+push 951530198
+pop
+push 292569586
+peek
+peek
+push 981219542
+pop
+pop
+push 861776774
+push 96645671
+pop
+pop
+empty
+push 283103123
+push 572528077
+pop
+pop
+pop
+pop
+push 381375907
+empty
+peek
+pop
+pop
+pop
+pop
+push 307772688
+push 491428048
+pop
+push 395393642
+push 208851522
+pop
+push 131541937
+push 990289282
+pop
+push 68294189
+push 368736634
+size
+push 815901672
+empty
+peek
+peek
+push 206552106
+pop
+pop
+pop
+peek
+push 439278502
+push 179289298
+peek
+push 490989993
+push 421264628
+push 224964088
+push 353549449
+push 678002034
+size
+push 706426418
+pop
+peek
+size
+push 721021119
+push 84548664
+size
+push 822501341
+push 634811497
+peek
+push 943785287
+pop
+pop
+pop
+empty
+pop
+peek
+peek
+push 490454355
+push 40934925
+push 873642476
+peek
+peek
+push 938262281
+push 896361042
+peek
+push 286209372
+push 526639663
+push 865563582
+peek
+push 34313501
+pop
+pop
+pop
+push 944921792
+peek
+peek
+push 337657439
+push 131823888
+push 247572224
+pop
+pop
+push 640114978
+peek
+pop
+size
+push 94616650
+push 124963250
+push 28712805
+size
+size
+push 720904475
+push 344990646
+push 684486085
+peek
+empty
+empty
+pop
+pop
+peek
+push 659399575
+push 849876735
+push 734645508
+empty
+push 689661166
+peek
+push 46263636
+push 721249900
+empty
+pop
+push 767531008
+push 539447800
+pop
+push 438207935
+push 180004476
+push 115512753
+peek
+push 878730093
+peek
+push 714405045
+push 756448331
+push 343721637
+size
+peek
+pop
+pop
+push 540753131
+pop
+empty
+pop
+pop
+peek
+push 45509008
+pop
+push 768699201
+pop
+peek
+pop
+pop
+empty
+push 574586218
+size
+pop
+pop
+peek
+push 629290973
+pop
+push 500124668
+push 220589893
+push 287339043
+pop
+push 809644249
+push 917902583
+push 236127216
+push 991381635
+push 752254669
+push 578165587
+empty
+pop
+pop
+empty
+peek
+empty
+push 141835125
+peek
+push 951418296
+pop
+peek
+push 891345709
+pop
+pop
+pop
+push 179214757
+size
+push 191191718
+push 404607978
+size
+peek
+empty
+pop
+push 402590157
+pop
+pop
+push 963309646
+empty
+pop
+size
+pop
+push 356118401
+push 728724555
+empty
+peek
+pop
+empty
+push 865161501
+push 748788056
+peek
+peek
+peek
+pop
+push 760431117
+push 215824763
+peek
+pop
+pop
+push 848786250
+push 766221775
+push 51671830
+peek
+push 278136919
+push 268737896
+push 289943071
+peek
+push 94508450
+size
+peek
+push 643462007
+push 5654940
+push 169981994
+push 156784162
+pop
+push 38560796
+empty
+peek
+pop
+push 372017591
+peek
+push 829588382
+push 741963650
+pop
+size
+pop
+empty
+push 820629038
+push 358014119
+empty
+push 318137757
+pop
+push 293021697
+pop
+push 451707563
+size
+push 943595113
+pop
+push 726438852
+peek
+push 306817796
+push 622401414
+empty
+push 565878113
+size
+push 999579823
+push 761628152
+pop
+push 650237813
+empty
+pop
+size
+push 671882138
+push 546971650
+empty
+push 454635648
+pop
+pop
+push 717105321
+pop
+push 274587191
+pop
+push 641093375
+peek
+push 385352693
+push 229006880
+push 376932571
+pop
+pop
+size
+push 232302410
+pop
+push 485490436
+push 977549297
+push 339571648
+pop
+pop
+pop
+peek
+push 261799086
+push 397538189
+peek
+peek
+peek
+peek
+push 607749176
+peek
+push 919077675
+pop
+pop
+pop
+pop
+push 12432321
+empty
+size
+push 900677533
+push 324110587
+push 309770128
+peek
+empty
+size
+push 284487252
+push 311815851
+size
+push 911155144
+size
+push 539882153
+pop
+push 524317529
+push 266957448
+pop
+pop
+push 337237401
+peek
+push 389923049
+pop
+push 995108540
+peek
+pop
+pop
+peek
+pop
+peek
+size
+push 377799532
+push 349485378
+pop
+pop
+peek
+pop
+push 463932918
+pop
+push 943353337
+size
+pop
+size
+empty
+pop
+push 635304794
+push 649497624
+push 804597394
+push 693990986
+empty
+peek
+peek
+size
+push 879579408
+pop
+pop
+push 673648995
+peek
+clear
+pop
+pop
+push 631161609
+clear
+size
+pop
+push 71913749
+pop
+pop
+empty
+pop
+pop
+pop
+push 329188594
+push 543012456
+pop
+push 812727386
+push 316983122
+pop
+pop
+push 140403735
+pop
+peek
+pop
+push 176125870
+peek
+size
+push 17215420
+pop
+size
+pop
+push 652901464
+empty
+push 222903396
+push 820602778
+push 93239019
+push 620896564
+push 403099269
+push 193802616
+pop
+push 5304922
+push 153031996
+empty
+empty
+pop
+size
+empty
+pop
+push 500873749
+pop
+empty
+push 634143675
+push 723790056
+peek
+empty
+clear
+push 49889543
+clear
+empty
+size
+push 160916086
+pop
+clear
+push 149749783
+peek
+pop
+push 145234872
+pop
+pop
+push 559210905
+empty
+pop
+peek
+pop
+push 38878260
+push 593841921
+push 478384171
+pop
+push 607597384
+push 849386914
+empty
+pop
+pop
+peek
+push 182205426
+pop
+peek
+push 516948400
+peek
+pop
+empty
+pop
+push 125105558
+pop
+peek
+push 879604584
+pop
+push 835748326
+push 726120359
+peek
+empty
+push 948113472
+pop
+push 659954797
+empty
+push 1433542
+push 596341996
+push 257868270
+pop
+push 479138903
+empty
+pop
+pop
+push 751828257
+size
+push 828112676
+peek
+push 593216181
+push 346358040
+push 473384887
+empty
+push 524817168
+pop
+push 193976217
+push 189137917
+pop
+peek
+push 719531215
+push 326134820
+empty
+pop
+peek
+peek
+clear
+peek
+push 137814923
+pop
+pop
+empty
+pop
+pop
+peek
+pop
+empty
+push 268093092
+empty
+pop
+pop
+push 954207980
+push 38432104
+push 585252273
+pop
+empty
+pop
+size
+pop
+push 490206764
+push 602842916
+peek
+peek
+empty
+pop
+size
+push 574822080
+pop
+push 466408679
+pop
+pop
+push 853729342
+push 111410670
+push 156490114
+pop
+peek
+push 145201952
+pop
+pop
+empty
+push 532409520
+pop
+push 965470561
+push 33121651
+pop
+push 852912215
+peek
+pop
+push 256929998
+pop
+pop
+pop
+pop
+push 783186557
+pop
+size
+pop
+push 857799238
+pop
+pop
+clear
+push 349755377
+pop
+size
+push 697863222
+size
+push 159398930
+push 571219977
+push 126231755
+push 182427634
+peek
+pop
+push 793741548
+peek
+pop
+peek
+push 933292244
+push 530476452
+push 905206570
+pop
+push 869063036
+push 861237538
+push 138982787
+pop
+push 716261362
+push 965504800
+push 24926492
+size
+size
+size
+pop
+pop
+push 856651476
+push 433108952
+pop
+peek
+pop
+peek
+push 135867909
+pop
+pop
+size
+push 727090248
+pop
+pop
+push 955066991
+size
+pop
+pop
+peek
+push 72288500
+pop
+push 949921778
+peek
+clear
+push 706369175
+pop
+clear
+pop
+clear
+push 297320312
+push 66663862
+push 542261994
+size
+push 844462670
+size
+empty
+push 160283012
+push 202464149
+empty
+peek
+size
+push 235783541
+push 360345647
+pop
+peek
+pop
+push 964598190
+size
+peek
+push 119496069
+pop
+push 838797153
+pop
+push 484563371
+push 324750973
+push 443098211
+push 148876947
+peek
+size
+push 729255210
+peek
+size
+pop
+pop
+push 672066396
+pop
+push 520759079
+pop
+clear
+peek
+clear
+push 834874491
+peek
+pop
+push 457344045
+pop
+peek
+push 54257802
+push 315181613
+peek
+peek
+pop
+peek
+pop
+peek
+pop
+pop
+pop
+size
+push 85168169
+pop
+pop
+push 846850499
+push 912153988
+push 161325095
+push 739166480
+push 579579839
+pop
+push 365784857
+empty
+peek
+clear
+push 69072260
+peek
+push 708718880
+peek
+pop
+push 528492917
+peek
+clear
+push 94699108
+push 24234191
+peek
+peek
+peek
+push 727189846
+pop
+pop
+push 814967984
+pop
+push 544911843
+empty
+push 137041516
+push 290178661
+push 107667719
+pop
+push 244391574
+pop
+peek
+peek
+pop
+push 630694708
+pop
+push 999199617
+push 951350282
+peek
+peek
+pop
+push 508621669
+peek
+size
+push 766068687
+pop
+peek
+size
+pop
+empty
+pop
+pop
+push 664010501
+push 534857890
+peek
+pop
+push 323378157
+pop
+push 411136319
+push 573955435
+push 954043934
+push 151082368
+pop
+push 272937641
+pop
+push 434743365
+empty
+size
+push 244687866
+push 337795362
+push 355515066
+push 27183227
+pop
+push 899394051
+push 662721388
+push 600165843
+push 350079270
+pop
+pop
+clear
+pop
+pop
+pop
+push 521640696
+empty
+pop
+empty
+peek
+push 410896227
+empty
+push 694377028
+push 125251344
+push 180122984
+size
+pop
+push 243892025
+pop
+push 936498235
+size
+push 695921835
+empty
+peek
+peek
+push 169405805
+empty
+peek
+push 702789543
+peek
+size
+push 222925493
+empty
+push 217321958
+pop
+size
+pop
+pop
+push 157573059
+pop
+push 390799156
+push 851281924
+push 801989314
+peek
+pop
+push 819158612
+pop
+pop
+clear
+pop
+push 378105826
+peek
+clear
+size
+peek
+push 236769175
+pop
+push 700525564
+pop
+size
+push 890891334
+pop
+pop
+peek
+push 299983628
+push 739455674
+push 943372820
+pop
+push 873425414
+peek
+peek
+push 64925571
+pop
+push 316547613
+empty
+peek
+push 854489363
+push 890640177
+peek
+push 750121160
+pop
+size
+push 899439529
+size
+peek
+push 700491535
+peek
+peek
+empty
+pop
+pop
+pop
+push 651114823
+push 37631537
+pop
+push 902328781
+push 203069724
+peek
+peek
+push 497903054
+size
+pop
+empty
+push 259121953
+pop
+empty
+push 312784613
+empty
+push 881323612
+push 671003653
+push 50594657
+push 30708212
+empty
+peek
+push 650070672
+pop
+size
+pop
+empty
+pop
+size
+push 892734520
+pop
+push 508856508
+pop
+size
+pop
+pop
+size
+peek
+push 72286392
+pop
+push 545134130
+push 787612710
+push 885736413
+push 960358811
+pop
+push 316434501
+push 12939929
+push 821306045
+clear
+push 110340453
+push 892613539
+pop
+peek
+pop
+push 822946501
+pop
+pop
+peek
+peek
+pop
+push 819193348
+pop
+pop
+push 97754906
+push 394642363
+push 146738397
+pop
+pop
+pop
+push 597765005
+pop
+empty
+empty
+pop
+push 764183639
+push 411517248
+pop
+pop
+peek
+push 597652007
+pop
+pop
+size
+push 143052128
+push 238686852
+push 737583419
+pop
+empty
+pop
+peek
+peek
+peek
+push 363254848
+pop
+push 355565118
+peek
+pop
+push 293757949
+size
+push 925473089
+push 370848014
+peek
+pop
+push 294389637
+push 883000315
+peek
+push 979135988
+push 855599061
+push 772475744
+size
+empty
+push 2892003
+push 13417359
+pop
+push 875261882
+pop
+push 13666468
+pop
+push 568361933
+pop
+pop
+push 395284162
+peek
+pop
+peek
+pop
+empty
+peek
+push 944928614
+push 497500595
+pop
+size
+pop
+pop
+push 942095693
+pop
+peek
+pop
+empty
+push 653435667
+push 580519121
+pop
+push 313187615
+pop
+size
+pop
+push 101138025
+pop
+push 892180951
+push 181634046
+pop
+push 185986740
+size
+peek
+pop
+peek
+pop
+push 390559842
+push 522805882
+size
+pop
+push 565859370
+clear
+pop
+pop
+size
+size
+push 274529650
+size
+pop
+push 130569011
+pop
+push 649303808
+pop
+pop
+push 633747547
+pop
+empty
+push 80359838
+push 229466639
+push 252317005
+push 965719026
+push 854498285
+pop
+peek
+push 547934741
+pop
+empty
+push 101395372
+pop
+peek
+push 341133840
+push 999360503
+clear
+peek
+push 457134778
+pop
+push 815630812
+peek
+pop
+size
+push 583236235
+pop
+pop
+pop
+push 85968712
+push 743968166
+pop
+pop
+pop
+empty
+push 746396765
+size
+pop
+push 428160320
+peek
+push 502787231
+peek
+peek
+push 285004720
+push 150797254
+push 845189219
+peek
+pop
+push 956249342
+push 190999642
+peek
+pop
+push 595030312
+push 979761561
+push 322784547
+pop
+push 306003925
+size
+size
+push 298015024
+size
+push 367384585
+push 749403869
+push 631353029
+pop
+clear
+peek
+pop
+pop
+push 145050075
+pop
+push 308582074
+push 185869799
+push 696398589
+peek
+push 389625180
+push 560027173
+pop
+push 963002715
+push 977670833
+push 13249660
+push 741583198
+push 190479117
+size
+pop
+peek
+push 357214785
+push 760316707
+empty
+push 345520986
+size
+pop
+clear
+push 900143369
+peek
+push 65955201
+size
+pop
+push 763152245
+push 581886966
+push 712399317
+push 42031324
+peek
+push 710650150
+push 187805194
+push 553908113
+push 380483366
+push 220650678
+peek
+pop
+push 347262353
+pop
+push 624707589
+push 937047788
+push 297133202
+pop
+peek
+pop
+size
+peek
+pop
+push 321768016
+peek
+pop
+push 493578005
+peek
+peek
+pop
+pop
+push 753832208
+push 581646410
+peek
+empty
+size
+pop
+size
+empty
+push 797033115
+push 862969946
+pop
+empty
+empty
+peek
+push 888110275
+push 248140215
+peek
+push 601447561
+push 772170218
+peek
+peek
+push 353114650
+empty
+peek
+empty
+push 197160312
+peek
+push 789285053
+push 925087640
+push 915942564
+empty
+peek
+push 343013450
+size
+size
+peek
+pop
+pop
+pop
+peek
+peek
+push 325684338
+size
+push 819014993
+push 531183953
+push 901177630
+push 992405319
+push 922618613
+push 602119046
+size
+push 711163292
+push 949975305
+pop
+push 406864514
+push 308565824
+pop
+pop
+pop
+peek
+size
+peek
+size
+push 601339215
+push 828710480
+push 943520108
+pop
+pop
+push 6947608
+push 193304950
+pop
+push 389375841
+peek
+pop
+push 869712043
+size
+pop
+peek
+size
+push 157431833
+empty
+pop
+push 155189107
+empty
+push 692091371
+pop
+push 503294166
+push 380559580
+peek
+peek
+push 286972253
+push 804692944
+push 243373582
+size
+push 617350726
+pop
+push 173474513
+push 183202962
+push 661425429
+push 855953414
+push 996448690
+peek
+size
+pop
+size
+push 485698144
+peek
+push 185981878
+peek
+push 815860765
+peek
+pop
+push 806497366
+pop
+push 108615694
+pop
+push 407231316
+clear
+pop
+push 589114399
+push 172463573
+push 755177107
+push 141451760
+pop
+peek
+peek
+pop
+peek
+push 30070216
+size
+peek
+push 783381200
+push 367220266
+push 369773261
+pop
+peek
+push 153025608
+pop
+pop
+pop
+peek
+push 614083889
+push 970110965
+pop
+pop
+pop
+pop
+pop
+pop
+peek
+peek
+pop
+push 717913445
+pop
+push 811514714
+push 822721720
+pop
+push 13178758
+push 690004947
+pop
+push 718328155
+peek
+pop
+push 347626573
+pop
+push 236840856
+push 358149254
+push 833988952
+push 738353452
+push 208691319
+size
+push 159172761
+pop
+push 1022735
+push 341254938
+push 991161540
+pop
+peek
+pop
+pop
+pop
+push 4305443
+push 344314552
+pop
+pop
+push 49544424
+push 738899609
+pop
+pop
+push 471805227
+push 636479950
+push 205752368
+pop
+peek
+pop
+push 997977826
+peek
+clear
+pop
+pop
+clear
+pop
+pop
+empty
+pop
+size
+push 752775447
+size
+push 778742111
+pop
+push 443881322
+push 167127827
+peek
+push 45627931
+size
+pop
+push 677549243
+pop
+push 529995011
+pop
+peek
+push 407244802
+push 616580914
+peek
+peek
+push 219074220
+peek
+pop
+push 95692375
+push 916490905
+push 122266473
+clear
+push 49928450
+push 530933984
+push 606225022
+push 258962219
+pop
+size
+push 555002855
+push 330721702
+pop
+push 788060442
+size
+push 948101026
+size
+pop
+push 207308691
+push 200993044
+push 963879271
+size
+pop
+pop
+push 305872828
+push 857463961
+push 982195763
+pop
+push 546328801
+pop
+peek
+push 114572761
+push 146835916
+pop
+peek
+push 884516723
+peek
+peek
+push 557623647
+push 447578222
+peek
+peek
+push 971538067
+peek
+pop
+pop
+peek
+push 309085507
+peek
+pop
+pop
+pop
+pop
+clear
+peek
+peek
+push 743116976
+pop
+pop
+push 551437490
+peek
+pop
+pop
+pop
+pop
+pop
+empty
+peek
+peek
+pop
+push 642131383
+peek
+push 993829544
+push 432542823
+push 825602700
+empty
+size
+peek
+push 173706280
+pop
+push 827701903
+push 795336438
+pop
+pop
+pop
+push 80165535
+push 488741792
+clear
+pop
+pop
+peek
+pop
+pop
+push 124693983
+push 154340002
+pop
+peek
+pop
+pop
+size
+pop
+size
+pop
+empty
+peek
+push 94765304
+push 112122230
+pop
+push 356498278
+push 739837985
+empty
+push 511150842
+peek
+peek
+pop
+size
+clear
+pop
+pop
+pop
+pop
+clear
+push 871931210
+pop
+size
+empty
+push 286847782
+pop
+pop
+empty
+push 701636799
+size
+pop
+push 526283089
+push 5517199
+push 919243397
+pop
+peek
+pop
+pop
+peek
+push 287244695
+peek
+push 633619568
+pop
+peek
+empty
+pop
+size
+push 515609551
+pop
+push 446330073
+pop
+push 146570216
+push 226021175
+push 263746619
+push 403225278
+push 263706978
+push 42808836
+push 377160127
+push 458552465
+peek
+size
+push 191387589
+pop
+pop
+peek
+peek
+push 866322552
+pop
+push 632921552
+empty
+peek
+peek
+pop
+pop
+pop
+push 200397241
+push 270513016
+push 889949837
+pop
+empty
+push 244919494
+pop
+push 447150767
+peek
+pop
+peek
+peek
+pop
+push 235547337
+pop
+size
+pop
+pop
+size
+pop
+push 670055013
+push 217677295
+push 180115694
+empty
+peek
+push 597563541
+pop
+peek
+push 4052300
+push 855755868
+push 516460445
+push 630205948
+pop
+push 689257861
+push 502545207
+push 220033988
+pop
+pop
+pop
+push 967327319
+push 443213338
+peek
+pop
+push 134936523
+push 108708807
+push 948175035
+push 698781573
+pop
+push 941635225
+peek
+pop
+pop
+pop
+peek
+size
+push 907079370
+peek
+pop
+push 410936815
+push 593024559
+push 508597119
+pop
+peek
+push 253945672
+push 808571825
+empty
+pop
+pop
+push 34771684
+push 763035373
+empty
+push 979170856
+peek
+pop
+peek
+peek
+push 360711463
+empty
+push 811465282
+size
+pop
+push 829903501
+peek
+pop
+pop
+peek
+pop
+pop
+pop
+push 664368236
+pop
+empty
+peek
+peek
+empty
+pop
+clear
+peek
+push 510405979
+pop
+push 428876278
+push 729790298
+pop
+push 950869210
+push 186144790
+size
+push 864541929
+peek
+peek
+pop
+push 110144404
+push 593353947
+size
+peek
+pop
+push 405026031
+push 385981225
+push 694448647
+push 665971546
+peek
+pop
+peek
+push 209439814
+push 855264742
+pop
+pop
+pop
+size
+empty
+push 658596507
+size
+pop
+pop
+size
+push 87314389
+pop
+peek
+pop
+push 181836883
+size
+peek
+pop
+push 638557744
+pop
+push 241035709
+push 642801043
+empty
+peek
+size
+pop
+push 543580948
+pop
+push 681294143
+push 245167152
+push 76358990
+empty
+pop
+pop
+push 520399732
+peek
+pop
+peek
+push 875787616
+pop
+pop
+pop
+push 424797231
+pop
+size
+peek
+pop
+pop
+pop
+pop
+pop
+push 255893324
+pop
+push 494929334
+push 682697316
+pop
+empty
+push 513720934
+push 49211639
+push 810650741
+pop
+empty
+peek
+push 627487425
+pop
+size
+pop
+size
+clear
+push 614305011
+peek
+peek
+push 626525780
+push 137967457
+pop
+push 642080269
+size
+size
+push 634803220
+push 940609795
+pop
+pop
+pop
+size
+pop
+peek
+peek
+push 552291005
+push 848652167
+pop
+peek
+peek
+pop
+push 913962585
+pop
+pop
+push 274681001
+push 261132009
+empty
+pop
+pop
+pop
+push 62171912
+peek
+push 289546885
+push 851359354
+push 979128183
+push 874985331
+peek
+push 961524688
+pop
+empty
+push 216347050
+size
+pop
+pop
+empty
+push 512153444
+push 924082969
+size
+peek
+push 177224879
+push 828339261
+peek
+pop
+push 60532443
+push 943385612
+clear
+push 521691287
+push 478425602
+push 343524911
+push 27788793
+peek
+pop
+push 999155673
+peek
+pop
+pop
+pop
+push 219765896
+peek
+push 78717807
+pop
+pop
+size
+push 55614857
+empty
+pop
+pop
+pop
+empty
+peek
+push 976117328
+size
+pop
+push 663706589
+push 778322540
+pop
+pop
+push 507756829
+push 439241801
+empty
+push 258214292
+push 683831951
+pop
+pop
+peek
+push 109001019
+pop
+size
+empty
+empty
+push 368438902
+empty
+pop
+push 789347679
+peek
+pop
+pop
+size
+empty
+pop
+peek
+pop
+clear
+push 911276913
+peek
+push 295996078
+push 959947648
+push 180948142
+peek
+push 90587912
+peek
+pop
+peek
+push 403751809
+size
+pop
+push 590635286
+peek
+push 488462680
+pop
+push 923841491
+push 37270303
+push 41847564
+pop
+pop
+pop
+empty
+peek
+push 712234848
+pop
+pop
+push 86730341
+pop
+pop
+empty
+peek
+push 846300925
+push 477314916
+push 777634148
+push 531305339
+pop
+pop
+push 53158164
+push 217248888
+peek
+push 352896839
+size
+pop
+pop
+push 71752950
+push 201383603
+push 933592286
+peek
+pop
+push 290016549
+pop
+push 828461558
+size
+push 231476466
+clear
+peek
+push 391153128
+size
+pop
+push 400522479
+peek
+pop
+size
+push 10372241
+pop
+clear
+push 917288590
+pop
+push 110288750
+push 100944915
+push 258588459
+clear
+peek
+peek
+push 26185195
+push 45170573
+pop
+peek
+empty
+empty
+pop
+pop
+clear
+push 814446760
+push 707871479
+empty
+empty
+push 762685561
+push 841323368
+push 946745270
+push 801946939
+pop
+peek
+push 88887776
+pop
+push 554151783
+push 627906393
+pop
+pop
+pop
+push 142262489
+push 26460519
+pop
+push 139150885
+push 860046708
+size
+push 403606194
+peek
+size
+peek
+pop
+push 245589176
+pop
+push 844247957
+push 441568757

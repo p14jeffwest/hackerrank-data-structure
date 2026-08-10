@@ -1,0 +1,11 @@
+5 10
+put 0 10
+put 5 20
+put 10 30
+put 15 40
+print
+remove 10
+print
+get 10
+get 15
+print

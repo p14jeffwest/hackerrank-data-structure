@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked examples
+# 01 one number dividing the other, and the two equal, where the recursion
+#    stops almost at once
+# 02 every pair given both ways round. 02 must be published: it is where a
+#    solution that assumes a >= b, or that hand-rolls a swap, comes apart.
+00
+01
+02

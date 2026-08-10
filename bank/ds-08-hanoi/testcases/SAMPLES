@@ -1,0 +1,9 @@
+# Case numbers to mark as "sample" on HackerRank, one per line.
+# 00 the worked example, three disks in seven moves
+# 01 one disk, the smallest case
+# 02 two disks, the smallest case where the spare peg is used at all.
+#    02 must be published: with one disk the peg roles never rotate, so a
+#    solution that mixes them up still looks right until here.
+00
+01
+02

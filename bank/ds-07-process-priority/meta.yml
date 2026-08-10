@@ -1,0 +1,97 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-07-process-priority
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch07
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "07"
+
+# page_id of the source section.
+# 7.6 Coding Test Problems, Problem 1 (Process Priorities)
+source_page_id: 375830
+
+# Title shown on HackerRank
+title: "Process Priorities"
+
+# tutorial | easy | medium | hard
+difficulty: medium
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 30
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+custom_code_stub: false
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+# Deliberately the same problem, in the same input and output format. The only
+# difference is the setting: the Korean book frames it as a printer and
+# documents, this one as an operating system and processes. The rule, the
+# arithmetic and the answer are identical.
+ko_counterpart: dsa-06-print-order
+
+# Bounds. Raised from the Korean version's N <= 100, but only tenfold, and the
+# reason is recorded because it is unusual: the number of queue operations is
+# itself quadratic. With priorities 1..N the queue turns over completely
+# before each run, so the simulation performs N(N+1)/2 polls however it is
+# written. At N = 1,000 that is 500,500 polls per test and the reference sits
+# at 662 ms; much beyond that the correct solution times out before any wrong
+# one does.
+bounds_changed_from_ko:
+  ko: "N <= 100, sum of N <= 5,000"
+  here: "N <= 1,000, sum of N <= 20,000"
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "662 ms (case 09, 20 tests of N = 1,000 with priorities 1..N)"
+  scored_variants:
+    - code: "sorted priorities with a pointer (the registered solution)"
+      score: "14/14"
+    - code: "the book's own answer: walk the queue on every poll"
+      score: "14/14 -- see the note"
+    - code: "ArrayList with remove(0) instead of a deque"
+      score: "14/14 -- see the note"
+    - code: "higher-priority test written with >= instead of >"
+      score: "5/14, hanging on 9 cases"
+    - code: "run order counted from 0"
+      score: "0/14"
+  notes: >
+    This problem does NOT discriminate on data structure or on the cost of the
+    priority test, and that was established by measurement rather than
+    assumed. The book's scan stops at the first higher-priority process it
+    meets, so it is short far more often than the O(n) bound suggests; and
+    ArrayList.remove(0) is only about twice as slow as ArrayDeque here,
+    because System.arraycopy over a thousand ints is cheap next to the poll
+    count. Pushing N higher does not fix it: the reference is O(N^2) in queue
+    operations and times out before either wrong version does.
+    What the problem does test is the rule. A comparison written with >= makes
+    equal priorities displace each other, the queue never empties, and nine
+    cases hang. Counting the run order from 0 fails everything, diagnosed
+    immediately by sample 00.
+    An earlier version of case 09 chose the target at random. Because the
+    simulation stops as soon as the target runs, a high-priority target ended
+    the loop after a handful of polls and the case tested nothing. The targets
+    in cases 09 through 12 are now the process that runs last.

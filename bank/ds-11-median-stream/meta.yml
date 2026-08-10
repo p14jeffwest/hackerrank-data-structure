@@ -1,0 +1,81 @@
+# Problem metadata. This is a bookkeeping record; it is not entered into
+# HackerRank directly. The files pasted into the form are the ones numbered
+# 00 through 06.
+
+id: ds-11-median-stream
+
+# Which set this belongs to: tutorial | ch03 ... ch14
+set: ch11
+
+# Which chapter of the course book (wikidocs 20475) this comes from.
+chapter: "11"
+
+# page_id of the source section.
+# 11.5 Exercises, Level 3 Problem 6 (The Median of a Data Stream, walkthrough)
+source_page_id: 375854
+
+# Title shown on HackerRank
+title: "The Median of a Data Stream"
+
+# tutorial | easy | medium | hard
+difficulty: hard
+
+# Score. tutorial 5 / easy 10 / medium 30 / hard 50
+max_score: 50
+
+# Keep only this language enabled on HackerRank.
+languages:
+  - java15
+
+# Does this problem use a custom Head/Body/Tail code stub?
+# Yes. The two heaps are declared as fields, already facing the right way, so
+# that "use two heaps" is the shape of the code rather than a rule to
+# remember. The same choice as ds-06-queue-two-stacks.
+custom_code_stub: true
+
+# Has it been published on HackerRank?
+published: false
+
+# Has it been added to the contest via Add Challenge?
+in_contest: false
+
+# HackerRank slug assigned after publishing.
+contest_slug: null
+hackerrank_slug: null
+url: null
+
+# Corresponding problem in the Korean repo.
+ko_counterpart: null
+
+# Verification record
+verified:
+  jdk: "21.0.10"           # compiled with `javac --release 15 -Xlint:all`
+  release_target: 15
+  warnings: 0
+  testcases: 14
+  testcases_passed: 14
+  slowest_case: "929 ms (case 10, 160,000 medians against a growing stream)"
+  scored_variants:
+    - code: "two heaps, rebalanced after every add (the registered solution)"
+      score: "14/14"
+    - code: "keep everything and sort a copy on each query"
+      score: "9/14, timing out on 09 through 13"
+    - code: "no rebalancing after the cross-over move"
+      score: "0/14"
+    - code: "halving the two middles with int arithmetic"
+      score: "3/14"
+    - code: "reading the median from the larger heap when the count is odd"
+      score: "1/14"
+  notes: >
+    The output is formatted by the Tail with String.format(Locale.ROOT,
+    "%.1f", ...). The Locale.ROOT matters: without it a grader running under a
+    locale that uses a decimal comma would print "1,5" and every median would
+    be marked wrong for a reason no student could diagnose.
+    The doubles are exact here. Two values of at most 10^9 sum to at most
+    2*10^9, which is well inside the range a double represents exactly, and
+    halving it is exact too. The model nevertheless formats from integers so
+    that it cannot agree with the solution by sharing a rounding assumption.
+    The no-rebalancing variant scores 0/14 rather than partially, because
+    without the corrective move every value ends up in `upper` and `lower`
+    is empty -- findMedian then reads an empty heap and throws. Total, but
+    diagnosed by sample 00.

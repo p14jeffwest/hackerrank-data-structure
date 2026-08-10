@@ -1,0 +1,1 @@
+Merge every group of overlapping intervals into one.
